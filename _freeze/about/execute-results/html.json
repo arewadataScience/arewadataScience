@@ -1,8 +1,10 @@
 {
-  "hash": "6bc83d894a749f3c6bb44b06ac7ddcd5",
+  "hash": "9e8aae4e266563578aa2f424d564bc4f",
   "result": {
-    "markdown": "---\n#title: \"Community\"\n#page-layout: full\nknitr:\n  opts_chunk: \n    collapse: true\nexecute: \n  echo: true\ntoc: false\n---\n\n::: {.cell}\n\n:::\n\n\n# [Arewa Data Science Fellowship]{.third-color}\n\nAs part of our desire and motivation to train marginalized students, Arewa Data Science Academy already have student mentoring programs. We offer Nigerian university students seminars on data science, machine learning and related fields. \n\nWe also offer free training on weekends to affected marginalized students. This year (2023), we are offering a more structured and sreamlined training, being sponsored by Google Research, TensorFlow and HausaNLP, Bayero University Kano. We are targeting underrepresented groups including but not limited to Women and Students from rural communities and communities affected by insecurity.\n\n\n\n\n![](/images/arewadsfellowship_old.png){.profile-pic fig-alt=\"Headshot of Ella Kaye, a woman of around 40 with short brown hair looking slightly off-camera and smiling\" fig-align=\"center\" width=\"90%\"}\n\n\n",
-    "supporting": [],
+    "markdown": "---\n#title: \"Community\"\n#page-layout: full\nknitr:\n  opts_chunk: \n    collapse: true\nexecute: \n  echo: true\n  freeze: auto\ntoc: false\n---\n\n::: {.cell}\n\n:::\n\n\n# [Arewa Data Science Fellowship]{.third-color}\n\nAs part of our desire and motivation to train marginalized students, Arewa Data Science Academy already have student mentoring programs. We offer Nigerian university students seminars on data science, machine learning and related fields. \n\nWe also offer free training on weekends to affected marginalized students. This year (2023), we are offering a more structured and sreamlined training, being sponsored by Google Research, TensorFlow and HausaNLP, Bayero University Kano. We are targeting underrepresented groups including but not limited to Women and Students from rural communities and communities affected by insecurity.\n\n\n\n\n![](/images/arewads.jpg){.profile-pic fig-alt=\"Headshot of Ella Kaye, a woman of around 40 with short brown hair looking slightly off-camera and smiling\" fig-align=\"center\" width=\"100%\"}\n\n\n",
+    "supporting": [
+      "about_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
