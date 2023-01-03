@@ -1,1 +1,1 @@
-Sitemap: https://ellakaye.co.uk/sitemap.xml
+Sitemap: https://arewadatascience.github.io/sitemap.xml
