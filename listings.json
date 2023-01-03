@@ -1,0 +1,32 @@
+[
+  {
+    "listing": "/mentors.html",
+    "items": [
+      "/people/staff/girard_jeffrey.html",
+      "/people/staff/gray_kassandra.html",
+      "/people/staff/Idris.html",
+      "/people/staff/Saminu.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/testing-callout-blocks/index.html"
+    ]
+  },
+  {
+    "listing": "/fellows.html",
+    "items": [
+      "/people/ras/patel_heeral.html",
+      "/people/ras/swift_anna.html"
+    ]
+  },
+  {
+    "listing": "/packages.html",
+    "items": []
+  },
+  {
+    "listing": "/talks.html",
+    "items": []
+  }
+]
