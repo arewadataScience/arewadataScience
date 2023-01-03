@@ -34,7 +34,7 @@ include-in-header:
 
 
 ::: {.g-col-12}
-[ArewaDS GoogleExplorCS Fellowship!]{.home-header}
+[Arewa Data Science  Fellowship]{.home-header}
 :::
 
 ::: {.g-col-12}
