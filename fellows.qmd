@@ -1,6 +1,9 @@
 ---
 pagetitle: "ArewaDS | Fellows"
 toc: false
+execute: 
+  echo: false
+  freeze: auto
 listing:
   # - id: research-staff
   #   contents: "people/staff/*.qmd"

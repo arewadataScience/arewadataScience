@@ -1,6 +1,9 @@
 ---
 pagetitle: "ArewaDS | Mentors"
 toc: false
+execute: 
+  echo: false
+  freeze: auto
 listing:
   - id: Mentors
     contents: "people/staff/*.qmd"

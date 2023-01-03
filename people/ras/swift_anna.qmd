@@ -1,7 +1,7 @@
 ---
-title: "Anna Swift"
-sortby: "Swift, Anna"
-subtitle: "Research Assistant"
+title: "Fellow"
+sortby: "Fellow"
+subtitle: "Assistant"
 image: swift_anna.webp
 started: "Fall 2022"
 ended: "Current"
@@ -24,14 +24,14 @@ about:
 
 :::{#person-profile}
 ## Biography
-Anna Swift is a senior studying Behavioral Neuroscience and completing certificates in Data Science and Mind & Brain. She will be graduating in the fall of 2023. 
+<!-- Anna Swift is a senior studying Behavioral Neuroscience and completing certificates in Data Science and Mind & Brain. She will be graduating in the fall of 2023.  -->
 
-Anna's research interests include data modeling and analysis, as well as clinical rehabilitation. 
+<!-- Anna's research interests include data modeling and analysis, as well as clinical rehabilitation.  -->
 
-## Semesters
-- Fall 2022, *Research Assistant*
+<!-- ## Semesters -->
+<!-- <!-- - Fall 2022, *Research Assistant* --> -->
 
-## Education
-- **University of Kansas** | Lawrence, KS, USA<br />
-  Behavioral Neuroscience Major
-:::
+<!-- <!-- ## Education --> -->
+<!-- - **University of Kansas** | Lawrence, KS, USA<br /> -->
+<!--   Behavioral Neuroscience Major -->
+<!-- ::: -->

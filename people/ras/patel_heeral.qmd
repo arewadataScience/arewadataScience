@@ -1,7 +1,7 @@
 ---
-title: "Heeral Patel"
-sortby: "Patel, Heeral"
-subtitle: "Research Assistant"
+title: "Fellow"
+sortby: "Fellow"
+subtitle: " Assistant"
 image: patel_heeral.webp
 started: "Fall 2021"
 ended: "Current"
@@ -24,16 +24,16 @@ about:
 
 :::{#person-profile}
 ## Biography
-Heeral Patel is a senior at the University of Kansas double-majoring in psychology and molecular, cellular, and developmental biology, on the pre-med track. She will graduate in May 2023 and plans to attend medical school the following year.
+<!-- Heeral Patel is a senior at the University of Kansas double-majoring in psychology and molecular, cellular, and developmental biology, on the pre-med track. She will graduate in May 2023 and plans to attend medical school the following year. -->
 
-Heeral's research interests include how psychology affects interpersonal communication, clinical applications of nonverbal behavior research, and adolescent psychopathology.
+<!-- Heeral's research interests include how psychology affects interpersonal communication, clinical applications of nonverbal behavior research, and adolescent psychopathology. -->
 
-## Semesters
-- Fall 2021, *Research Assistant*
-- Spring 2022, *Research Assistant*
-- Fall 2022, *Research Assistant*
+<!-- ## Semesters -->
+<!-- - Fall 2021, *Research Assistant* -->
+<!-- - Spring 2022, *Research Assistant* -->
+<!-- - Fall 2022, *Research Assistant* -->
 
-## Education
-- **University of Kansas** | Lawrence, KS, USA<br />
-  Psychology and Molecular, Cellular, and Developmental Biology Major
-:::
+<!-- ## Education -->
+<!-- - **University of Kansas** | Lawrence, KS, USA<br /> -->
+<!--   Psychology and Molecular, Cellular, and Developmental Biology Major -->
+<!-- ::: -->
