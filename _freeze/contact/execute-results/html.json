@@ -1,7 +1,7 @@
 {
-  "hash": "85598afea738f946cfaa981731f98f91",
+  "hash": "b377d61467d5dfdd8e497110c32d4398",
   "result": {
-    "markdown": "---\ninclude-in-header: \"_includes/fontawesome-2up.html\"\nknitr:\n  opts_chunk: \n    collapse: true\nexecute: \n  echo: false\n  \n---\n\n\n# [We would love to hear from you!]{.primary}\n\nReach out Slack Channel\n\nOr, you can drop me an e-mail at [arewadatascience@org]{.heading-font}\n\n\n\n::: {.cell}\n\n:::\n\n\n\n`<a href=\"https://twitter.com/ellamkaye\" class=\"icon-link\" target=\"_blank\" rel=\"noopener\"><i class=\"fab fa-twitter\"></i> Twitter</a>`{=html}\n`<a href=\"https://github.com/EllaKaye\" class=\"icon-link\" target=\"_blank\" rel=\"noopener\"><i class=\"fab fa-github\"></i> GitHub</a>`{=html}\n\n\n::: {.cell}\n\n:::\n\n\nOr, you can drop me an e-mail at [hello @ ellakaye.co.uk]{.heading-font}",
+    "markdown": "---\ninclude-in-header: \"_includes/fontawesome-2up.html\"\nknitr:\n  opts_chunk: \n    collapse: true\nexecute: \n  echo: false\n  freeze: auto\n---\n\n\n# [We would love to hear from you!]{.primary}\n\nReach out Slack Channel\n\nOr, you can drop me an e-mail at [arewadatascience@org]{.heading-font}\n\n\n\n::: {.cell}\n\n:::\n\n\n\n`<a href=\"https://twitter.com/shmuhammadd\" class=\"icon-link\" target=\"_blank\" rel=\"noopener\"><i class=\"fab fa-twitter\"></i> Twitter</a>`{=html}\n`<a href=\"https://github.com/arewadatascience\" class=\"icon-link\" target=\"_blank\" rel=\"noopener\"><i class=\"fab fa-github\"></i> GitHub</a>`{=html}\n\n\n::: {.cell}\n\n:::\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

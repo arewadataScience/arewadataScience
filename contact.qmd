@@ -5,7 +5,7 @@ knitr:
     collapse: true
 execute: 
   echo: false
-  
+  freeze: auto
 ---
 
 # [We would love to hear from you!]{.primary}
@@ -24,7 +24,7 @@ library(distilltools)
 `r icon_link(
   icon = "twitter",
   text = "Twitter",
-  url = "https://twitter.com/shmuhammad"
+  url = "https://twitter.com/shmuhammadd"
 )`
 `r icon_link(
   icon = "github",
