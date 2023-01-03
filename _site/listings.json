@@ -1,0 +1,27 @@
+[
+  {
+    "listing": "/talks.html",
+    "items": []
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/staff/girard_jeffrey.html",
+      "/people/staff/gray_kassandra.html",
+      "/people/staff/Idris.html",
+      "/people/staff/Saminu.html",
+      "/people/ras/patel_heeral.html",
+      "/people/ras/swift_anna.html",
+      "/people/alumni/oberg_sara.html",
+      "/people/alumni/rivera_miguel.html",
+      "/people/alumni/sall_lauryn.html",
+      "/people/alumni/white_addison.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/Application/index.html"
+    ]
+  }
+]

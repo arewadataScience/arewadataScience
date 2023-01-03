@@ -1,0 +1,26 @@
+---
+#title: "Community"
+#page-layout: full
+knitr:
+  opts_chunk: 
+    collapse: true
+execute: 
+  echo: true
+  freeze: auto
+  cache: true  
+toc: false
+---
+
+```{r}
+#| echo: false
+library(distilltools)
+```
+
+# [Projects]{.third-color}
+
+Learn by doing. Theory is nice, but nothing replaces actual experience. -Tony Hsieh
+
+Our mentors from Universities across Nigeria and beyond will guide fellows to undergo interesting projects on data science and machine learning depending on experience and background.
+
+
+List of Projects

@@ -1,9 +1,0 @@
----
-title: "ArewaDS Fellowship Application Open"
-description: |
-  Application for ArewaDS 2023 is Open and closes on 8 January.
-#include-in-header: ../../_includes/fontawesome-2up.html
-draft: false
----
-
-

@@ -1,13 +1,28 @@
-# Arewa Data Science Fellowship
+---
+#title: "Community"
+#page-layout: full
+knitr:
+  opts_chunk: 
+    collapse: true
+execute: 
+  echo: true
+toc: false
+---
 
-![](/images/arewadsfellowship_old.png){.profile-pic fig-alt="Headshot of Ella Kaye, a woman of around 40 with short brown hair looking slightly off-camera and smiling" fig-align="center" width="90%"}
+```{r}
+#| echo: false
+library(distilltools)
+```
 
-
-
-::: {.justify}
+# [Arewa Data Science Fellowship]{.third-color}
 
 As part of our desire and motivation to train marginalized students, Arewa Data Science Academy already have student mentoring programs. We offer Nigerian university students seminars on data science, machine learning and related fields. 
 
 We also offer free training on weekends to affected marginalized students. This year (2023), we are offering a more structured and sreamlined training, being sponsored by Google Research, TensorFlow and HausaNLP, Bayero University Kano. We are targeting underrepresented groups including but not limited to Women and Students from rural communities and communities affected by insecurity.
 
-:::
+
+
+
+![](/images/arewadsfellowship_old.png){.profile-pic fig-alt="Headshot of Ella Kaye, a woman of around 40 with short brown hair looking slightly off-camera and smiling" fig-align="center" width="90%"}
+
+

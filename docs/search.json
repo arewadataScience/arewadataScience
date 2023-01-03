@@ -1,73 +1,17 @@
 [
   {
-    "objectID": "community.html#r-user-groups",
-    "href": "community.html#r-user-groups",
-    "title": "ArewaDS FellowShip",
-    "section": "R User Groups",
-    "text": "R User Groups\nThere are local R User Groups (RUGs), affiliated with the R Consortium, all around the world. Many of these organise both in-person and online events and offer an excellent way to meet other R users nearby. They all have meetup pages. There’s also a great Shiny app for exploring the groups:\n RUGs on meetup  RUGs Shiny app\nI am on the organising committee of the Warwick R User Group (WRUG), and was previously an organiser of the Oxford R User Group.\n WRUG meetup  WRUG website  WRUG Twitter  WRUG GitHub"
-  },
-  {
-    "objectID": "community.html#rladies",
-    "href": "community.html#rladies",
-    "title": "ArewaDS FellowShip",
-    "section": "RLadies",
-    "text": "RLadies\nRLadies has been around for over 10 years, promoting gender diversity in the R community. It is a worldwide organisation run by a global team, with local chapters all over the world. They also have a directory where you can browse their list of speakers for conferences & events, or view profiles of R-Ladies located by country.\n global website  local meetups  RLadies Shiny app  directory"
-  },
-  {
-    "objectID": "community.html#rainbowr",
-    "href": "community.html#rainbowr",
-    "title": "ArewaDS FellowShip",
-    "section": "rainbowR",
-    "text": "rainbowR\nrainbowR’s mission is to support, promote and connect LGBTQ+ people in the R community and to and spread awareness of LGBTQ+ issues through data-driven activism. I am a co-founder and co-organiser of the group.\n website  join slack  slack group  tech.lgbt  Twitter  GitHub"
-  },
-  {
-    "objectID": "community.html#r-forwards",
-    "href": "community.html#r-forwards",
-    "title": "ArewaDS FellowShip",
-    "section": "R Forwards",
-    "text": "R Forwards\nR Forwards is an R Foundation taskforce that leads the R community forwards in widening the participation of women and other under-represented groups. They also oversee the useR! conferences. I am a co-lead of the communities team. There’s more information on the website, though it’s rather out of date. The Twitter account is active.\n website  Twitter"
-  },
-  {
-    "objectID": "community.html#data-science-data-visualisation-and-tidytuesday",
-    "href": "community.html#data-science-data-visualisation-and-tidytuesday",
-    "title": "ArewaDS FellowShip",
-    "section": "Data science, data visualisation and #TidyTuesday",
-    "text": "Data science, data visualisation and #TidyTuesday\nR for Data Science (R4DS) is a very friendly online learning community with an active slack group. It is a community of R users at all levels, working and learning together. There are learners and mentors and office hours, but everyone helps each other.\n website  Twitter  fosstodon.org\nR for Data Science also runs the hugely popular #TidyTuesday initiative, a weekly data project aimed at the R ecosystem. Every week they post from the R4DS account above, a raw dataset a chart or article related to that dataset, and ask you to explore and visualise the data, then share the visualisation and the code on Twitter and/or Mastodon with the hashtag #TidyTuesday. All the datasets and participating guides are on GitHub.\n #TidyTuesday  #TidyTuesday  GitHub\nI am an extremely infrequent contributor to #TidyTuesday. My contributions are on my GitHub.\n My TidyTuesday contributions"
-  },
-  {
-    "objectID": "community.html#data-science-by-design",
-    "href": "community.html#data-science-by-design",
-    "title": "ArewaDS FellowShip",
-    "section": "Data Science by Design",
-    "text": "Data Science by Design\nData Science by Design (DSxD) celebrates creativity in data science and developing a more open, ethical, and inclusive future for data work. They run small conferences and an active slack group. They publish anthologies, both in print and online, collections of work by data designers, scientists, and artists, with each issue on a different theme. I was honoured to be included in the first volume, with an article on {distilltools}.\n website  Twitter  book"
-  },
-  {
-    "objectID": "community.html#twitter",
-    "href": "community.html#twitter",
-    "title": "ArewaDS FellowShip",
-    "section": "Twitter",
-    "text": "Twitter\nYou’ll have seen above links to various groups on Twitter. To follow and engage with the R community on twitter more broadly, the #rstats hashtag is the best place to start.\n #rstats"
-  },
-  {
-    "objectID": "community.html#mastodon",
-    "href": "community.html#mastodon",
-    "title": "ArewaDS FellowShip",
-    "section": "Mastodon",
-    "text": "Mastodon\nThere is an active, and growing, community of R users on Mastodon, an open-source social network that is becoming increasingly popular.1 The community is spread across different servers, though fosstodon.org appears the most popular. The #rstats tag is active here.\n fosstodon  #rstats"
-  },
-  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "ArewaDS FellowShip",
     "section": "",
-    "text": "I’d love to hear from you!\nReach out Slack Channel\nOr, you can drop me an e-mail at hello @ ellakaye.co.uk\n\n\n\n Twitter  Mastodon  GitHub\n\n\n\nOr, you can drop me an e-mail at hello @ ellakaye.co.uk"
+    "text": "We would love to hear from you!\nReach out Slack Channel\nOr, you can drop me an e-mail at arewadatascience@org\n\n\n\n Twitter  GitHub\n\n\n\nOr, you can drop me an e-mail at hello @ ellakaye.co.uk"
   },
   {
-    "objectID": "posts/testing-callout-blocks/index.html",
-    "href": "posts/testing-callout-blocks/index.html",
-    "title": "ArewaDS Fellowship Application Open",
+    "objectID": "posts/application/index.html",
+    "href": "posts/application/index.html",
+    "title": "Arewa Data Science Fellowship",
     "section": "",
-    "text": "Reusehttps://creativecommons.org/licenses/by-sa/4.0/CitationBibTeX citation:@online{untitled,\n  author = {},\n  title = {ArewaDS {Fellowship} {Application} {Open}},\n  url = {https://arewadatascience.github.io/posts/testing-callout-blocks},\n  langid = {en}\n}\nFor attribution, please cite this work as:\n“ArewaDS Fellowship Application Open.” n.d. https://arewadatascience.github.io/posts/testing-callout-blocks."
+    "text": "ArewaDS Application is Open\nThe Arewa Data Science Fellowship application is open. The Arewa Data Science fellowship (ADSF) provides an opportunity to learn from data scientists and machine learning experts. The fellowship is a 16-week-long free training that provides a hands-on approach to data science, machine learning and deep learning.\nThe skills and knowledge acquired during the fellowship will help participants pursue careers in data science, machine learning and research. Our goal is to inspire the next generation of researchers in the North and provide them with the tools they need to be successful. The ADSF fellowship provides support with a monthly stipend during the program.\nApplications will be judged based on the strength of the motivation of the applicant, academic record, and scholarly potential. Contact us at: arewadatascience@gmail.com Apply here: https://docs.google.com/…/1FAIpQLSe7bzvOO1…/viewform"
   },
   {
     "objectID": "talks.html",
@@ -91,18 +35,25 @@
     "text": "Arewa DataScience Fellows\n\n\n\n\n\n\n\n\n\n\nHeeral Patel\n\n\nResearch Assistant\n\n\n\n\n\nStarted\n\n\nFall 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnna Swift\n\n\nResearch Assistant\n\n\n\n\n\nStarted\n\n\nFall 2022\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "Projects\nLearn by doing. Theory is nice, but nothing replaces actual experience. -Tony Hsieh\nOur mentors from Universities across Nigeria and beyond will guide fellows to undergo interesting projects on data science and machine learning depending on experience and background.\nList of Projects"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "ArewaDS FellowShip",
     "section": "",
-    "text": "ArewaDS GoogleExplorCS Fellowship!\n\n\n\n\n\n\n\n\n\n\n\n\nAbout me, my interests and experience, and my work as a Research Software Engineer.\n\n\nABOUT\n\n\n\n\n\n\n\n\nI sometimes write about what I’m doing and learning, mostly about  and building websites.\n\n\nPOSTS\n\n\n\n\n\n\n\n\nSlides and resources from talks I’ve given at R and RLadies user groups and conferences.\n\n\nTALKS\n\n\n\n\n\n\n\n\nI develop R packages. Here are links to their repos, websites and any other resources.\n\n\nPACKAGES\n\n\n\n\n\n\n\n\nI love the R community! Here’s how to get involved, and groups I help organise or contribute to.\n\n\nCOMMUNITY\n\n\n\n\n\n\n\n\nWhere to find me online and how to get in touch. I’d love to hear from you!\n\n\nCONTACT"
+    "text": "ArewaDS GoogleExplorCS Fellowship!\n\n\n\n\n\n\n\n\n\n\n\n\nA 16-week-long free training that provides a hands-on approach to data science, machine learning and deep learning\n\n\nABOUT\n\n\n\n\n\n\n\n\nNews about ArewaDS Felloship and Blogs by our Mentors and Fellows\n\n\nNews/Blog\n\n\n\n\n\n\n\n<p Our mentors are PhD students, post-docs, and researchers at top universities and research labs, from institutions all over the world.\n\n\nMentors\n\n\n\n\n\n\n\n\nOur 2023fellows for the maiden ArewaDS Fellowship\n\n\nFellows\n\n\n\n\n\n\n\n\nOur Fellows Projects under guidance of mentors\n\n\nProjects\n\n\n\n\n\n\n\n\nGet in toch. Join us as a mentor\n\n\nCONTACT"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "ArewaDS FellowShip",
     "section": "",
-    "text": "Arewa Data Science Fellowship\n\n\n\n\n\n\nAs part of our desire and motivation to train marginalized students, Arewa Data Science Academy already have student mentoring programs. We offer Nigerian university students seminars on data science, machine learning and related fields.\nWe also offer free training on weekends to affected marginalized students. This year (2023), we are offering a more structured and sreamlined training, being sponsored by Google Research, TensorFlow and HausaNLP, Bayero University Kano. We are targeting underrepresented groups including but not limited to Women and Students from rural communities and communities affected by insecurity."
+    "text": "Arewa Data Science Fellowship\nAs part of our desire and motivation to train marginalized students, Arewa Data Science Academy already have student mentoring programs. We offer Nigerian university students seminars on data science, machine learning and related fields.\nWe also offer free training on weekends to affected marginalized students. This year (2023), we are offering a more structured and sreamlined training, being sponsored by Google Research, TensorFlow and HausaNLP, Bayero University Kano. We are targeting underrepresented groups including but not limited to Women and Students from rural communities and communities affected by insecurity."
   },
   {
     "objectID": "people/ras/swift_anna.html",
@@ -375,7 +326,7 @@
     "href": "posts.html",
     "title": "ArewaDS FellowShip",
     "section": "",
-    "text": "POSTS\n\n\n\n\n\n\n\n\n\n\n\nArewaDS Fellowship Application Open\n\n\n\n\n\nApplication for ArewaDS 2023 is Open and closes on 8 January.\n\n\n\n\n \n\n\n\n\nNo matching items"
+    "text": "POSTS\n\n\n\n\n\n\n\n\n\n\n\nArewa Data Science Fellowship\n\n\n\n\n\n\n\nNews\n\n\nArewaDS\n\n\n\n\nApplication for the ArewaDS Fellowship 2023 is Open and closes on 8 January\n\n\n\n\n\n\nJan 1, 2023\n\n\nShamsuddeen Muhammad\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "packages.html",

@@ -3,20 +3,21 @@
 # freeze computational output
 # (see https://quarto.org/docs/projects/code-execution.html#freeze)
 freeze: true
+suppress-bibliography: true
 
 # Enable banner style title blocks
 title-block-banner: true
 
-citation: true
-license: CC BY-SA
+#citation: false
+#license: CC BY-SA
 
 open-graph: true
 twitter-card:
     image-width: 600
     image-height: 314
     card-style: summary_large_image
-    creator: "@ellamkaye"
-    site: "@ellamkaye"
+    creator: "@shmuhammad"
+    site: "@shmuhammadd"
 
 toc: true    
 toc-depth: 3
@@ -24,7 +25,7 @@ toc-title: Contents
 
 code-fold: show
 code-summary: "Toggle the code"
-code-tools: true
+code-tools: false
 
 execute:
   echo: true

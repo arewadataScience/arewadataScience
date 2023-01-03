@@ -5,13 +5,14 @@ knitr:
     collapse: true
 execute: 
   echo: false
+  
 ---
 
-# [I'd love to hear from you!]{.primary}
+# [We would love to hear from you!]{.primary}
 
 Reach out Slack Channel
 
-Or, you can drop me an e-mail at [hello @ ellakaye.co.uk]{.heading-font}
+Or, you can drop me an e-mail at [arewadatascience@org]{.heading-font}
 
 
 ```{r}
@@ -23,18 +24,12 @@ library(distilltools)
 `r icon_link(
   icon = "twitter",
   text = "Twitter",
-  url = "https://twitter.com/ellamkaye"
-)`
-`r icon_link(
-  icon = "mastodon",
-  text = "Mastodon",
-  url = "https://fosstodon.org/@ellakaye",
-  rel = "me noopener"
+  url = "https://twitter.com/shmuhammad"
 )`
 `r icon_link(
   icon = "github",
   text = "GitHub",
-  url = "https://github.com/EllaKaye"
+  url = "https://github.com/arewadatascience"
 )`
 
 ```{r}
@@ -47,4 +42,3 @@ icon_link(
 )
 ```
 
-Or, you can drop me an e-mail at [hello @ ellakaye.co.uk]{.heading-font}
