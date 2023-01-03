@@ -1,87 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ellakaye.co.uk/community.html</loc>
-    <lastmod>2022-12-11T00:10:42.041Z</lastmod>
+    <loc>https://arewadatascience.github.io/community.html</loc>
+    <lastmod>2023-01-03T07:04:22.521Z</lastmod>
   </url>
   <url>
-    <loc>https://ellakaye.co.uk/contact.html</loc>
-    <lastmod>2022-12-11T00:10:42.378Z</lastmod>
+    <loc>https://arewadatascience.github.io/contact.html</loc>
+    <lastmod>2023-01-03T07:04:23.174Z</lastmod>
   </url>
   <url>
-    <loc>https://ellakaye.co.uk/posts/2021-05-08_welcome-distill/index.html</loc>
-    <lastmod>2022-12-11T00:10:44.951Z</lastmod>
+    <loc>https://arewadatascience.github.io/posts/testing-callout-blocks/index.html</loc>
+    <lastmod>2023-01-03T07:04:24.849Z</lastmod>
   </url>
   <url>
-    <loc>https://ellakaye.co.uk/posts/2020-12-09_advent-of-code-2020/index.html</loc>
-    <lastmod>2022-12-11T00:10:46.946Z</lastmod>
+    <loc>https://arewadatascience.github.io/talks.html</loc>
+    <lastmod>2023-01-03T07:04:26.139Z</lastmod>
   </url>
   <url>
-    <loc>https://ellakaye.co.uk/posts/2021-05-26_custom-highlighting-distill-2/index.html</loc>
-    <lastmod>2022-12-11T00:10:49.271Z</lastmod>
+    <loc>https://arewadatascience.github.io/fellows.html</loc>
+    <lastmod>2023-01-03T07:04:27.204Z</lastmod>
   </url>
   <url>
-    <loc>https://ellakaye.co.uk/posts/2021-05-25_custom-highlighting-distill-1/index.html</loc>
-    <lastmod>2022-12-11T00:10:51.254Z</lastmod>
+    <loc>https://arewadatascience.github.io/index.html</loc>
+    <lastmod>2023-01-03T07:04:27.709Z</lastmod>
   </url>
   <url>
-    <loc>https://ellakaye.co.uk/posts/2017-06-17_n-letter-words/index.html</loc>
-    <lastmod>2022-12-11T00:10:52.073Z</lastmod>
+    <loc>https://arewadatascience.github.io/about.html</loc>
+    <lastmod>2023-01-03T07:04:28.145Z</lastmod>
   </url>
   <url>
-    <loc>https://ellakaye.co.uk/talks.html</loc>
-    <lastmod>2022-12-11T00:10:53.324Z</lastmod>
+    <loc>https://arewadatascience.github.io/people/ras/swift_anna.html</loc>
+    <lastmod>2023-01-03T07:04:28.611Z</lastmod>
   </url>
   <url>
-    <loc>https://ellakaye.co.uk/talks/2018-08-23_phd-as-package/index.html</loc>
-    <lastmod>2022-12-11T00:10:54.150Z</lastmod>
+    <loc>https://arewadatascience.github.io/people/ras/patel_heeral.html</loc>
+    <lastmod>2023-01-03T07:04:29.069Z</lastmod>
   </url>
   <url>
-    <loc>https://ellakaye.co.uk/talks/2020-10-29_how-to-get-help-in-r/index.html</loc>
-    <lastmod>2022-12-11T00:10:54.631Z</lastmod>
+    <loc>https://arewadatascience.github.io/people/alumni/rivera_miguel.html</loc>
+    <lastmod>2023-01-03T07:04:29.505Z</lastmod>
   </url>
   <url>
-    <loc>https://ellakaye.co.uk/talks/2019-10-05_working-with-text-in-r/index.html</loc>
-    <lastmod>2022-12-11T00:10:55.122Z</lastmod>
+    <loc>https://arewadatascience.github.io/people/alumni/sall_lauryn.html</loc>
+    <lastmod>2023-01-03T07:04:29.961Z</lastmod>
   </url>
   <url>
-    <loc>https://ellakaye.co.uk/talks/2017-07-06_introducing-BradleyTerryScalable/index.html</loc>
-    <lastmod>2022-12-11T00:10:55.603Z</lastmod>
+    <loc>https://arewadatascience.github.io/people/alumni/white_addison.html</loc>
+    <lastmod>2023-01-03T07:04:30.397Z</lastmod>
   </url>
   <url>
-    <loc>https://ellakaye.co.uk/talks/2017-05-25_overview-of-htmlwidgets/index.html</loc>
-    <lastmod>2022-12-11T00:10:56.081Z</lastmod>
+    <loc>https://arewadatascience.github.io/people/alumni/oberg_sara.html</loc>
+    <lastmod>2023-01-03T07:04:30.857Z</lastmod>
   </url>
   <url>
-    <loc>https://ellakaye.co.uk/index.html</loc>
-    <lastmod>2022-12-13T20:16:32.325Z</lastmod>
+    <loc>https://arewadatascience.github.io/people/staff/gray_kassandra.html</loc>
+    <lastmod>2023-01-03T07:04:31.312Z</lastmod>
   </url>
   <url>
-    <loc>https://ellakaye.co.uk/about.html</loc>
-    <lastmod>2022-12-11T00:10:56.769Z</lastmod>
+    <loc>https://arewadatascience.github.io/people/staff/Saminu.html</loc>
+    <lastmod>2023-01-03T07:04:31.759Z</lastmod>
   </url>
   <url>
-    <loc>https://ellakaye.co.uk/packages/distilltools/index.html</loc>
-    <lastmod>2022-12-11T00:10:57.356Z</lastmod>
+    <loc>https://arewadatascience.github.io/people/staff/Idris.html</loc>
+    <lastmod>2023-01-03T07:04:32.212Z</lastmod>
   </url>
   <url>
-    <loc>https://ellakaye.co.uk/packages/EMK/index.html</loc>
-    <lastmod>2022-12-11T00:10:57.684Z</lastmod>
+    <loc>https://arewadatascience.github.io/people/staff/girard_jeffrey.html</loc>
+    <lastmod>2023-01-03T07:04:32.766Z</lastmod>
   </url>
   <url>
-    <loc>https://ellakaye.co.uk/packages/BradleyTerryScalable/index.html</loc>
-    <lastmod>2022-12-11T00:10:58.038Z</lastmod>
+    <loc>https://arewadatascience.github.io/mentors.html</loc>
+    <lastmod>2023-01-03T07:04:33.468Z</lastmod>
   </url>
   <url>
-    <loc>https://ellakaye.co.uk/posts.html</loc>
-    <lastmod>2022-12-13T20:21:09.755Z</lastmod>
+    <loc>https://arewadatascience.github.io/posts.html</loc>
+    <lastmod>2023-01-03T07:04:33.995Z</lastmod>
   </url>
   <url>
-    <loc>https://ellakaye.co.uk/packages.html</loc>
-    <lastmod>2022-12-11T00:10:58.777Z</lastmod>
-  </url>
-  <url>
-    <loc>https://ellakaye.co.uk/posts/2022-12-11_welcome-quarto/index.html</loc>
-    <lastmod>2022-12-13T20:21:11.606Z</lastmod>
+    <loc>https://arewadatascience.github.io/packages.html</loc>
+    <lastmod>2023-01-03T07:04:34.507Z</lastmod>
   </url>
 </urlset>

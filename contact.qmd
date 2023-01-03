@@ -9,9 +9,10 @@ execute:
 
 # [I'd love to hear from you!]{.primary}
 
-You can leave a note about any of my posts, talks or packages using the comment box at the bottom of its page.
+Reach out Slack Channel
 
-You can find me on elsewhere online:
+Or, you can drop me an e-mail at [hello @ ellakaye.co.uk]{.heading-font}
+
 
 ```{r}
 #| echo: false

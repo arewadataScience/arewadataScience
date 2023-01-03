@@ -30,9 +30,17 @@ include-in-header:
 
 ::: {.grid}
 
+
 ::: {.g-col-12}
-[Hello and welcome!]{.home-header}
+[ArewaDS GoogleExplorCS Fellowship!]{.home-header}
 :::
+
+::: {.g-col-12}
+![](/images/arewadsfellowship_old.png){.profile-pic fig-align="center" width="80%"}
+
+:::
+
+
 
 ::: {.g-col-12 .g-col-md-4}
 <div class="card h-100" id="card-first-color">

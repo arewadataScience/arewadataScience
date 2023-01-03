@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.247">
+<meta name="generator" content="quarto-1.2.280">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Ella Kaye – community</title>
+<title>ArewaDS FellowShip – community</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -78,7 +78,7 @@ gtag('config', 'G-7G8FLLRS4M', { 'anonymize_ip': true});
 <link rel="stylesheet" href="assets/ek-styles.css">
 <meta name="twitter:title" content="Ella Kaye">
 <meta name="twitter:description" content="The personal website of Ella Kaye">
-<meta name="twitter:image" content="https://ellakaye.co.uk/images/logo.png">
+<meta name="twitter:image" content="https://arewadatascience.github.io/images/logo.png">
 <meta name="twitter:creator" content="@ellamkaye">
 <meta name="twitter:site" content="@ellamkaye">
 <meta name="twitter:card" content="summary">
@@ -94,7 +94,7 @@ gtag('config', 'G-7G8FLLRS4M', { 'anonymize_ip': true});
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">ELLA<span class="icon-line"></span>KAYE</span>
+    <span class="navbar-title">AREWADS 2022<span class="icon-line"></span>FELLOWSHIP</span>
     </a>
   </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -111,12 +111,12 @@ gtag('config', 'G-7G8FLLRS4M', { 'anonymize_ip': true});
  <span class="menu-text">posts</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./talks.html">
- <span class="menu-text">talks</span></a>
+    <a class="nav-link" href="./fellows.html">
+ <span class="menu-text">Fellows</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./packages.html">
- <span class="menu-text">packages</span></a>
+    <a class="nav-link" href="./mentors.html">
+ <span class="menu-text">Mentors</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./community.html" aria-current="page">
@@ -156,7 +156,7 @@ gtag('config', 'G-7G8FLLRS4M', { 'anonymize_ip': true});
   <li><a href="#mastodon" id="toc-mastodon" class="nav-link" data-scroll-target="#mastodon">Mastodon</a></li>
   </ul></li>
   </ul>
-<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/EllaKaye/ellakaye-quarto/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/arewadataScience/arewadatascience/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -203,7 +203,7 @@ gtag('config', 'G-7G8FLLRS4M', { 'anonymize_ip': true});
 </section>
 <section id="data-science-by-design" class="level2">
 <h2 class="anchored" data-anchor-id="data-science-by-design">Data Science by Design</h2>
-<p>Data Science by Design (DSxD) celebrates creativity in data science and developing a more open, ethical, and inclusive future for data work. They run small conferences and an active slack group. They publish anthologies, both in print and online, collections of work by data designers, scientists, and artists, with each issue on a different theme. I was honoured to be included in the first volume, with an article on <a href="./packages/distilltools/index.html">{distilltools}</a>.</p>
+<p>Data Science by Design (DSxD) celebrates creativity in data science and developing a more open, ethical, and inclusive future for data work. They run small conferences and an active slack group. They publish anthologies, both in print and online, collections of work by data designers, scientists, and artists, with each issue on a different theme. I was honoured to be included in the first volume, with an article on <a href="packages/distilltools/index.qmd">{distilltools}</a>.</p>
 <p><a href="http://datasciencebydesign.org" class="icon-link" target="_blank" rel="noopener"><i class="fas fa-globe"></i> website</a> <a href="https://twitter.com/DataScixDesign" class="icon-link" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a> <a href="http://datasciencebydesign.org/book" class="icon-link" target="_blank" rel="noopener"><i class="fas fa-book"></i> book</a> <!-- ## Developer community --></p>
 <!-- ## Community forums -->
 </section>
@@ -474,9 +474,28 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp(/https:\/\/arewadatascience\.github\.io/);
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-right">© 2022 <a href="./about.html">Arewa DataScience FellowShip</a> <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></div>
+  </div>
+</footer>
 
 
 

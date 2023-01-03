@@ -7,23 +7,23 @@ execute:
   freeze: true
 
 website:
-  title: "Ella Kaye"
-  site-url: "https://ellakaye.co.uk"
-  repo-url: https://github.com/EllaKaye/ellakaye-quarto
+  title: "ArewaDS FellowShip"
+  site-url: "https://arewadatascience.github.io"
+  repo-url: https://github.com/arewadataScience/arewadatascience
   repo-actions: issue
   image: images/logo.png
   navbar:
     #logo: ELLAKAYE-logo-light.png
-    title: "ELLA<span class='icon-line'></span>KAYE"
+    title: "AREWADS 2022<span class='icon-line'></span>FELLOWSHIP"
     right:
       - text: about
         href: about.qmd
       - text: posts
         href: posts.qmd
-      - text: talks
-        href: talks.qmd
-      - text: packages
-        href: packages.qmd
+      - text: Fellows
+        href: fellows.qmd
+      - text: Mentors
+        href: mentors.qmd
       - text: community
         href: community.qmd
       - text: contact
@@ -59,10 +59,17 @@ website:
   google-analytics:
     tracking-id: "G-7G8FLLRS4M"
     anonymize-ip: true
+    
+  page-footer:
+    border: false
+    #left: "Published with [Quarto](https://quarto.org/) | Hosted by Github pages served by Github Action [{{< iconify simple-icons netlify >}}](https://www.netlify.com)"
+    right: "© 2022 [Arewa DataScience FellowShip](/about.html) [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+  
 
 format:
   html:
     theme: 
+    
       light: assets/ek-theme-light.scss
       dark: assets/ek-theme-dark.scss
     css: assets/ek-styles.css

@@ -1,31 +1,32 @@
 [
   {
     "listing": "/talks.html",
+    "items": []
+  },
+  {
+    "listing": "/fellows.html",
     "items": [
-      "/talks/2020-10-29_how-to-get-help-in-r/index.html",
-      "/talks/2019-10-05_working-with-text-in-r/index.html",
-      "/talks/2018-08-23_phd-as-package/index.html",
-      "/talks/2017-07-06_introducing-BradleyTerryScalable/index.html",
-      "/talks/2017-05-25_overview-of-htmlwidgets/index.html"
+      "/people/ras/patel_heeral.html",
+      "/people/ras/swift_anna.html"
+    ]
+  },
+  {
+    "listing": "/mentors.html",
+    "items": [
+      "/people/staff/girard_jeffrey.html",
+      "/people/staff/gray_kassandra.html",
+      "/people/staff/Idris.html",
+      "/people/staff/Saminu.html"
     ]
   },
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/2022-12-11_welcome-quarto/index.html",
-      "/posts/2021-05-26_custom-highlighting-distill-2/index.html",
-      "/posts/2021-05-25_custom-highlighting-distill-1/index.html",
-      "/posts/2021-05-08_welcome-distill/index.html",
-      "/posts/2020-12-09_advent-of-code-2020/index.html",
-      "/posts/2017-06-17_n-letter-words/index.html"
+      "/posts/testing-callout-blocks/index.html"
     ]
   },
   {
     "listing": "/packages.html",
-    "items": [
-      "/packages/distilltools/index.html",
-      "/packages/EMK/index.html",
-      "/packages/BradleyTerryScalable/index.html"
-    ]
+    "items": []
   }
 ]
