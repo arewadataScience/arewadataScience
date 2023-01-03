@@ -1,5 +1,16 @@
 [
   {
+    "listing": "/talks.html",
+    "items": []
+  },
+  {
+    "listing": "/fellows.html",
+    "items": [
+      "/people/ras/patel_heeral.html",
+      "/people/ras/swift_anna.html"
+    ]
+  },
+  {
     "listing": "/mentors.html",
     "items": [
       "/people/staff/girard_jeffrey.html",
@@ -11,22 +22,11 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/testing-callout-blocks/index.html"
-    ]
-  },
-  {
-    "listing": "/fellows.html",
-    "items": [
-      "/people/ras/patel_heeral.html",
-      "/people/ras/swift_anna.html"
+      "/posts/application/index.html"
     ]
   },
   {
     "listing": "/packages.html",
-    "items": []
-  },
-  {
-    "listing": "/talks.html",
     "items": []
   }
 ]
