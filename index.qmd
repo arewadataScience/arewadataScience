@@ -33,9 +33,9 @@ include-in-header:
 ::: {.grid}
 
 
-::: {.g-col-12}
-[Arewa Data Science  Fellowship]{.home-header}
-:::
+<!-- ::: {.g-col-12} -->
+<!-- [Arewa Data Science Fellowship]{.home-header} -->
+<!-- ::: -->
 
 ::: {.g-col-12}
 ![](/images/arewadsfellowship_old.png){.profile-pic fig-align="center" width="63%"}

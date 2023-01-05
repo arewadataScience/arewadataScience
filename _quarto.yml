@@ -15,7 +15,7 @@ website:
   image: images/logo.png
   navbar:
     #logo: ELLAKAYE-logo-light.png
-    title: "AREWADS 2022<span class='icon-line'></span>FELLOWSHIP"
+    title: "AREWA Data Science<span class='icon-line'></span>2022 FELLOWSHIP"
     right:
       - text: about
         href: about.qmd
