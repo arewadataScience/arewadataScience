@@ -60,9 +60,17 @@ website:
   google-analytics:
     tracking-id: "G-7G8FLLRS4M"
     anonymize-ip: true
-    
+  #   
+  # page-footer: 
+  #   left: "Copyright 2021, Norah Jones" 
+  #   right: 
+  #     - icon: github
+  #       href: https://github.com/
+  #     - icon: twitter 
+  #       href: https://twitter.com/ 
+        
   page-footer:
-    border: false
+    border: true
     #left: "Published with [Quarto](https://quarto.org/) | Hosted by Github pages served by Github Action [{{< iconify simple-icons netlify >}}](https://www.netlify.com)"
     right: "© 2022 [Arewa DataScience FellowShip](/about.html) [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
   
