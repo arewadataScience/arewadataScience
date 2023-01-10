@@ -1,8 +1,8 @@
 ---
-title: "Mentor"
+title: "Shamsuddeen H. Muhammad"
 sortby: "2"
 subtitle: "PhD Student"
-image: gray_kassandra.jpg
+image: Shamsu.jpg
 toc: false
 resources: 
   - "gray_cv.pdf"
@@ -21,8 +21,7 @@ about:
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
-    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
-    <li class="breadcrumb-item active">Research Staff</li>
+    <li class="breadcrumb-item"><a href="../../mentors.html">Mentors</a></li>
     <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
   </ol>
 </nav>
