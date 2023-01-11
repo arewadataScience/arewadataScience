@@ -2,7 +2,7 @@
 title: "Saminu M. Aliyu "
 sortby: "4"
 subtitle: "PhD Student"
-image: Saminu.jpg
+image: saminu.jpg
 toc: false
 resources: 
   - "gray_cv.pdf"

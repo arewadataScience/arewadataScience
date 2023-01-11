@@ -2,7 +2,7 @@
 title: "Idris Abdulmunin"
 sortby: "3"
 subtitle: "Posdoc Fellow"
-image: Idris.jpg
+image: idris.jpg
 toc: false
 resources: 
   - "gray_cv.pdf"
