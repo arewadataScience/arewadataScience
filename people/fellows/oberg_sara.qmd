@@ -1,10 +1,8 @@
 ---
-title: "Lauryn Sall"
-sortby: "Sall, Lauryn"
-subtitle: "Research Assistant"
-image: placeholder.png
-started: "Spring 2021"
-ended: "Fall 2021"
+title: "Ibrahim Idris"
+sortby: "Idris, Ibrahim"
+subtitle: "Bayero University"
+state: "Kano"
 toc: false
 about:
   id: person-profile
@@ -22,16 +20,16 @@ about:
 </nav>
 ```
 
-:::{#person-profile}
+ <!-- :::{#person-profile}
 ## Semesters
+#- Fall 2020, *Research Assistant*
 - Spring 2021, *Research Assistant*
-- Fall 2021, *Research Assistant*
 
 ## Education
 
 **University of Kansas** | Lawrence, KS, USA<br />
-Behavioral Neuroscience Major
-:::
+Psychology Major
+::: -->
 
 
 

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.313">
+<meta name="generator" content="quarto-1.2.280">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -72,9 +72,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle','listing-started',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-subtitle','listing-state',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-subtitle","listing-state"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -176,79 +176,20 @@ gtag('config', 'G-7G8FLLRS4M', { 'anonymize_ip': true});
 
 
 
+<!-- 
+
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="index.html">Home</a></li>
     <li class="breadcrumb-item active" aria-current="page">People</li>
   </ol>
 </nav>
-<section id="arewa-datascience-fellows" class="level2">
-<h2 class="anchored" data-anchor-id="arewa-datascience-fellows">Arewa DataScience Fellows</h2>
-<div id="listing-Fellows" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1673251273920" data-listing-reading-time-sort="0.705">
-<a href="./people/ras/patel_heeral.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img src="./people/ras/patel_heeral.webp" class="thumbnail-image card-img" style="height: 225px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Fellow
-</h5>
-<div class="card-subtitle listing-subtitle">
-Assistant
-</div>
+``` -->
+<!-- 
+## Arewa DataScience Fellows
 
-<table class="card-other-values">
-<tbody><tr>
-<td>
-Started
-</td>
-<td class="started">
-Fall 2021
-</td>
-</tr>
-
-</tbody></table>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1673251273920" data-listing-reading-time-sort="0.57">
-<a href="./people/ras/swift_anna.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img src="./people/ras/swift_anna.webp" class="thumbnail-image card-img" style="height: 225px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Fellow
-</h5>
-<div class="card-subtitle listing-subtitle">
-Assistant
-</div>
-
-<table class="card-other-values">
-<tbody><tr>
-<td>
-Started
-</td>
-<td class="started">
-Fall 2022
-</td>
-</tr>
-
-</tbody></table>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
+:::{#Fellows}
+::: -->
 <!-- ## Research Assistants
 
 :::{#research-assistants}
@@ -261,9 +202,64 @@ No matching items
 
 
 
-</section>
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-table" id="listing-Fellows">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-Fellows-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-Fellows'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title-sort" data-direction="asc">
+          Name
+        </option>
+         <option value="listing-subtitle" data-direction="asc">
+          Current or most previous institution
+        </option>
+         <option value="listing-state" data-direction="asc">
+          States
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Name</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-subtitle" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Current or most previous institution</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-state" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">States</a>
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-file-modified-sort="1673451947539" data-listing-reading-time-sort="0.275" data-listing-title-sort="Ibrahim Idris" data-listing-filename-sort="oberg_sara.qmd">
+<td class="listing-title">
+<a href="./people/fellows/oberg_sara.html" class="title">Ibrahim Idris</a>
+</td>
+<td class="listing-subtitle">
+Bayero University
+</td>
+<td class="listing-state">
+Kano
+</td>
+</tr>
+</tbody>
+
+</table>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

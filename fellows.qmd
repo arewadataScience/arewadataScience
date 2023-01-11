@@ -15,30 +15,30 @@ listing:
   #   sort: sortby
   #   field-display-names: 
   #     started: "Started"
-  - id: Fellows
-    contents: "people/ras/*.qmd"
-    type: grid
-    image-height: 225px
-    grid-columns: 3
-    sort: sortby
-    fields: [image, title, subtitle, started]
-    field-display-names: 
-      started: "Started"
-    grid-item-align: center
-  # - id: alumni
-  #   contents: "people/alumni/*.qmd"
-  #   type: table
-  #   sort: sortby
-  #   fields: [title, subtitle, started, ended]
-  #   sort-ui: [title, subtitle, started, ended]
-  #   filter-ui: [title, subtitle, started, ended]
-  #   field-display-names: 
-  #     title: "Name"
-  #     subtitle: "Role"
-  #     started: "Started"
-  #     ended: "Ended"
+  #- id: Fellows
+   # contents: "people/ras/*.qmd"
+  #  type: grid
+   # image-height: 225px
+  #  grid-columns: 3
+   # sort: sortby
+    #fields: [image, title, subtitle, started]
+    #field-display-names: 
+     # started: "Started"
+    #grid-item-align: center
+   - id: Fellows
+     contents: "people/fellows/*.qmd"
+     type: table
+     sort: sortby
+     fields: [title, subtitle,state]
+     sort-ui: [title, subtitle, state]
+     filter-ui: [title, subtitle, state]
+     field-display-names: 
+       title: "Name"
+       subtitle: "Current or most previous institution"
+       state: "States"
+      #  ended: "Ended"
 ---
-
+<!-- 
 ```{=html}
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
@@ -46,13 +46,13 @@ listing:
     <li class="breadcrumb-item active" aria-current="page">People</li>
   </ol>
 </nav>
-```
+``` -->
 
-
+<!-- 
 ## Arewa DataScience Fellows
 
 :::{#Fellows}
-:::
+::: -->
 
 <!-- ## Research Assistants
 
