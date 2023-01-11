@@ -43,5 +43,5 @@ about:
 :::
 
 ## Biography
-dris Abdulmumin is a graduate of BSc Computer Science and MSc IT security. Currently, he is a PhD Computer Science research fellow, investigating improved approaches to low resource neural machine translation. His strengths are in the area of programming (python, java, c#, c++ and secure web applications - html, asp.net and php), network and web application penetration testing, information security management, server and network secure configuration, social engineering techniques and digital forensics investigation. He has some good years of experience in class room teaching.
+Idris Abdulmumin is a faculty member of Ahmadu Bello University Zaria. His research focuses on low resource natural language processing (NLP), with special interest in machine translation. He received his Bachelor and Master of Science degrees from Bayero University, Kano, and Nottingham Trent University, United Kingdom respectively. Idris has just completed his PhD at Bayero University, Kano, and will resume with the University of Pretoria Data Science for Social Impact Research Group as a Postdoctoral researcher to work on NLP for low resource African languages.
 

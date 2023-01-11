@@ -179,21 +179,7 @@
     "href": "people/staff/almustapha.html#biography",
     "title": "Almustapha A. Wakili",
     "section": "Biography",
-    "text": "Biography"
-  },
-  {
-    "objectID": "people/staff/almustapha.html#experience",
-    "href": "people/staff/almustapha.html#experience",
-    "title": "Almustapha A. Wakili",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "people/staff/almustapha.html#education",
-    "href": "people/staff/almustapha.html#education",
-    "title": "Almustapha A. Wakili",
-    "section": "Education",
-    "text": "Education"
+    "text": "Biography\n."
   },
   {
     "objectID": "people/staff/Saminu.html",
@@ -207,14 +193,7 @@
     "href": "people/staff/Saminu.html#biography",
     "title": "Saminu M. Aliyu",
     "section": "Biography",
-    "text": "Biography"
-  },
-  {
-    "objectID": "people/staff/Saminu.html#education",
-    "href": "people/staff/Saminu.html#education",
-    "title": "Saminu M. Aliyu",
-    "section": "Education",
-    "text": "Education"
+    "text": "Biography\n."
   },
   {
     "objectID": "people/staff/Idris.html",
@@ -228,7 +207,7 @@
     "href": "people/staff/Idris.html#biography",
     "title": "Idris Abdulmunin",
     "section": "Biography",
-    "text": "Biography\ndris Abdulmumin is a graduate of BSc Computer Science and MSc IT security. Currently, he is a PhD Computer Science research fellow, investigating improved approaches to low resource neural machine translation. His strengths are in the area of programming (python, java, c#, c++ and secure web applications - html, asp.net and php), network and web application penetration testing, information security management, server and network secure configuration, social engineering techniques and digital forensics investigation. He has some good years of experience in class room teaching."
+    "text": "Biography\nIdris Abdulmumin is a faculty member of Ahmadu Bello University Zaria. His research focuses on low resource natural language processing (NLP), with special interest in machine translation. He received his Bachelor and Master of Science degrees from Bayero University, Kano, and Nottingham Trent University, United Kingdom respectively. Idris has just completed his PhD at Bayero University, Kano, and will resume with the University of Pretoria Data Science for Social Impact Research Group as a Postdoctoral researcher to work on NLP for low resource African languages."
   },
   {
     "objectID": "people/staff/ibrahim.html",
@@ -299,13 +278,6 @@
     "title": "Shamsuddeen H. Muhammad",
     "section": "Biography",
     "text": "Biography\nShamsuddeen is a PhD candidate in the MAPi joint Doctoral Program in Computer Science, offered by the University of Minho, University of Aveiro, and the University of Porto in Portugal. His research interests focus on Natural Language Processing for Low-resource languages. He received his Master’s degree from the University of Manchester in the UK and a Bachelor’s degree from Bayero University in Kano, Nigeria. He is also a faculty member at the Faculty of Computer Science at Bayero University in Kano, Nigeria."
-  },
-  {
-    "objectID": "people/staff/shamsu.html#education",
-    "href": "people/staff/shamsu.html#education",
-    "title": "Shamsuddeen H. Muhammad",
-    "section": "Education",
-    "text": "Education"
   },
   {
     "objectID": "mentors.html",

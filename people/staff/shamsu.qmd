@@ -43,12 +43,5 @@ about:
 :::
 
 ## Biography
+
 Shamsuddeen is a PhD candidate in the MAPi joint Doctoral Program in Computer Science, offered by the University of Minho, University of Aveiro, and the University of Porto in Portugal. His research interests focus on Natural Language Processing for Low-resource languages. He received his Master's degree from the University of Manchester in the UK and a Bachelor's degree from Bayero University in Kano, Nigeria. He is also a faculty member at the Faculty of Computer Science at Bayero University in Kano, Nigeria.
-
-## Education
-
-<!-- - [University of Kansas]{.fw-bold} | Lawrence, KS, USA<br /> -->
-<!--   PhD Student (Clinical Psychological Science), 2022–Current -->
-
-<!-- - [Southern Nazarene University]{.fw-bold} | Bethany, OK, USA<br /> -->
-<!--   BS in Psychology | 2018–2022 -->

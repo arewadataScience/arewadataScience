@@ -11,21 +11,19 @@ about:
   id: person-profile
   template: jolla
   links:
-    - icon: link
-      text: website
-      href: https://isahmadbbr.github.io
+  
     - icon: mortarboard
       text: scholar
-      href: https://scholar.google.nl/citations?user=QA4Aib4AAAAJ&hl=en
+      href: https://scholar.google.com/citations?hl=en&user=Xd63vWQAAAAJ
     - icon: github
       text: github
-      href: https://github.com/isahmadbbr/
+      href: https://github.com/bala-221
     - icon: twitter
       text: twitter
-      href: https://twitter.com/isabone/
+      href: https://twitter.com/abubakarbala2
     - icon: linkedin
       text: linkedin
-      href: https://www.linkedin.com/in/ibrahim-said-ahmad-42419775/
+      href: https://www.linkedin.com/in/abubakar-bala/
     
 ---
 
