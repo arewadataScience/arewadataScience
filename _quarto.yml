@@ -1,8 +1,8 @@
 project:
   type: website
   output-dir: docs
-  #resources: 
-  #  - "*.css"
+  resources: 
+    - "*.css"
     
 execute:
   freeze: auto
@@ -49,13 +49,13 @@ website:
     site: "@shmuhammadd"
   open-graph: 
     #description: The personal website of Ella Kaye
-    image: images/logo.png
+    #image: images/logo.png
     image-width: 500
     image-height: 500
     locale: en-GB
-  google-analytics:
-    tracking-id: "G-7G8FLLRS4M"
-    anonymize-ip: true
+#  google-analytics:
+  #  tracking-id: "G-7G8FLLRS4M"
+    #anonymize-ip: true
   #   
   # page-footer: 
   #   left: "Copyright 2021, Norah Jones" 

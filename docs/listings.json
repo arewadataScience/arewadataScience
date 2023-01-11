@@ -6,7 +6,7 @@
   {
     "listing": "/fellows.html",
     "items": [
-      "/people/fellows/oberg_sara.html"
+      "/people/fellows/IbrahimIdirs.html"
     ]
   },
   {
@@ -24,6 +24,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/announcement_succ/index.html",
       "/posts/application/index.html"
     ]
   },
