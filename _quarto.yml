@@ -5,14 +5,14 @@ project:
   #  - "*.css"
     
 execute:
-  freeze: true
+  freeze: auto
 
 website:
   title: "ArewaDS FellowShip"
   site-url: "https://arewadatascience.github.io"
   repo-url: https://github.com/arewadataScience/arewadatascience
   repo-actions: issue
-  image: images/logo.png
+  #image: images/logo.png
   navbar:
     #logo: ELLAKAYE-logo-light.png
     title: "AREWA Data Science<span class='icon-line'></span>2022 FELLOWSHIP"
@@ -33,15 +33,15 @@ website:
       #  href: https://github.com/EllaKaye
       #- icon: twitter
       #  href: https://twitter.com/ellamkaye
-  favicon: images/favicon.png
+  #favicon: images/logo.png
   twitter-card: 
-    title: Arewa DS
-    description: The website of Arewa Data Science
-    image: images/logo.png
-    image-alt: |
-      A square logo made from Ella Kaye's name - 
-      first name on top of last name in dark gray capital letters, 
-      separated by a horizontal bright pink line, on a very light grey background
+  #  title: Arewa DS
+   # description: The website of Arewa Data Science
+  #  image: images/logo.png
+    #image-alt: |
+     # A square logo made from Ella Kaye's name - 
+      #first name on top of last name in dark gray capital letters, 
+      #separated by a horizontal bright pink line, on a very light grey background
     image-width: 500
     image-height: 500
     card-style: summary # alternative summary_large_image
@@ -50,10 +50,6 @@ website:
   open-graph: 
     #description: The personal website of Ella Kaye
     image: images/logo.png
-    image-alt: |
-      A square logo made from Ella Kaye's name - 
-      first name on top of last name in dark gray capital letters, 
-      separated by a horizontal bright pink line, on a very light grey background
     image-width: 500
     image-height: 500
     locale: en-GB
@@ -74,7 +70,6 @@ website:
     #left: "Published with [Quarto](https://quarto.org/) | Hosted by Github pages served by Github Action [{{< iconify simple-icons netlify >}}](https://www.netlify.com)"
     right: "© 2022 [Arewa DataScience FellowShip](/about.html) [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
   
-
 format:
   html:
     theme: 
