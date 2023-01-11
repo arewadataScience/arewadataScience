@@ -1,5 +1,5 @@
 ---
-title: "Idris Abdulmuni "
+title: "Idris Abdulmunin"
 sortby: "3"
 subtitle: "Posdoc Fellow"
 image: Idris.jpg
@@ -12,9 +12,21 @@ about:
   id: person-profile
   template: jolla
   links:
-    - icon: file-earmark-text
-      text: vitae
-      href: ./people/staff/gray_cv.pdf
+    - icon: link
+      text: website
+      href: https://abu.edu.ng/staff/abdulmumin-idris?vn/2022-09-259493.html
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.com/citations?user=UJBFXaoAAAAJ&hl=en&oi=ao
+    - icon: github
+      text: github
+      href: https://github.com/abumafrim
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/abumafrim/
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/abumafrim/
 ---
 
 ```{=html}
@@ -31,14 +43,5 @@ about:
 :::
 
 ## Biography
-<!-- Kassandra Gray's research interests include interpersonal interactions, emotional expression and communication, individual differences, personality, anxiety, and depression. She is interested in how emotional expression and communication manifest in the therapeutic relationship and the influential role of individual differences (e.g., personality, anxiety, and depression).    -->
+dris Abdulmumin is a graduate of BSc Computer Science and MSc IT security. Currently, he is a PhD Computer Science research fellow, investigating improved approaches to low resource neural machine translation. His strengths are in the area of programming (python, java, c#, c++ and secure web applications - html, asp.net and php), network and web application penetration testing, information security management, server and network secure configuration, social engineering techniques and digital forensics investigation. He has some good years of experience in class room teaching.
 
-<!-- She completed her undergraduate Bachelor of Science degree at Southern Nazarene University in May 2022 and is currently a doctoral student in the Clinical Psychological Science program in the Department of Psychology at the University of Kansas. She is a graduate teaching assistant (GTA) for undergraduate psychology courses and is also a member of the Affective Communication and Computing lab.  -->
-
-## Education
-
-<!-- - [University of Kansas]{.fw-bold} | Lawrence, KS, USA<br /> -->
-<!--   PhD Student (Clinical Psychological Science), 2022–Current -->
-
-<!-- - [Southern Nazarene University]{.fw-bold} | Bethany, OK, USA<br /> -->
-<!--   BS in Psychology | 2018–2022 -->

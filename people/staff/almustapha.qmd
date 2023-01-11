@@ -1,8 +1,8 @@
 ---
-title: "Ibrahim S. Ahmad"
-sortby: "1"
+title: "Almustapha A. Wakili"
+sortby: "4"
 subtitle: "Lecturer"
-image: ibrahim.jpg
+image: almustapha.jpeg
 started: "Fall 2020"
 toc: false
 resources: 
@@ -42,13 +42,6 @@ about:
 :::
 
 ## Biography
-I am currently a lecturer with the Department of Information Technology, Bayero University Kano. I completed my Ph.D at Universiti Kebangsaan Malaysia, Malaysia in 2020.
-
-My research interests lie in the areas of Data Science which includes areas of Natural Language Processing, Machine Learning, and Deep Learning.
-
-I am a co-founder of the HausaNLP (www.hausanlp.org) research group, where we focus on research related to NLP in African (low resource) languages. We are beneficiaries of over 10 research grants across diverse areas of NLP in low resource languages. 
-
-As a lecturer with Bayero University Kano, my responsibilities include teaching and supervising both undergraduate and postgraduate students. Currently, I teach CSC8303 Artificial Intelligence for MSc Computer Science program and ICT8302 Enterprise Database Management for Master of Information and Communication Technology.
 
 
 ## Experience

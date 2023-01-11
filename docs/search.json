@@ -168,23 +168,30 @@
     "text": "Education\nUniversity of Kansas | Lawrence, KS, USA Psychology Major"
   },
   {
-    "objectID": "people/staff/gray_kassandra.html",
-    "href": "people/staff/gray_kassandra.html",
-    "title": "Mentor",
+    "objectID": "people/staff/almustapha.html",
+    "href": "people/staff/almustapha.html",
+    "title": "Almustapha A. Wakili",
     "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Mentor"
+    "text": "Home\n    Mentors\n    Almustapha A. Wakili"
   },
   {
-    "objectID": "people/staff/gray_kassandra.html#biography",
-    "href": "people/staff/gray_kassandra.html#biography",
-    "title": "Mentor",
+    "objectID": "people/staff/almustapha.html#biography",
+    "href": "people/staff/almustapha.html#biography",
+    "title": "Almustapha A. Wakili",
     "section": "Biography",
     "text": "Biography"
   },
   {
-    "objectID": "people/staff/gray_kassandra.html#education",
-    "href": "people/staff/gray_kassandra.html#education",
-    "title": "Mentor",
+    "objectID": "people/staff/almustapha.html#experience",
+    "href": "people/staff/almustapha.html#experience",
+    "title": "Almustapha A. Wakili",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/staff/almustapha.html#education",
+    "href": "people/staff/almustapha.html#education",
+    "title": "Almustapha A. Wakili",
     "section": "Education",
     "text": "Education"
   },
@@ -212,79 +219,23 @@
   {
     "objectID": "people/staff/Idris.html",
     "href": "people/staff/Idris.html",
-    "title": "Idris Abdulmuni",
+    "title": "Idris Abdulmunin",
     "section": "",
-    "text": "Home\n    Mentors\n    Idris Abdulmuni"
+    "text": "Home\n    Mentors\n    Idris Abdulmunin"
   },
   {
     "objectID": "people/staff/Idris.html#biography",
     "href": "people/staff/Idris.html#biography",
-    "title": "Idris Abdulmuni",
+    "title": "Idris Abdulmunin",
     "section": "Biography",
-    "text": "Biography"
+    "text": "Biography\ndris Abdulmumin is a graduate of BSc Computer Science and MSc IT security. Currently, he is a PhD Computer Science research fellow, investigating improved approaches to low resource neural machine translation. His strengths are in the area of programming (python, java, c#, c++ and secure web applications - html, asp.net and php), network and web application penetration testing, information security management, server and network secure configuration, social engineering techniques and digital forensics investigation. He has some good years of experience in class room teaching."
   },
   {
     "objectID": "people/staff/Idris.html#education",
     "href": "people/staff/Idris.html#education",
-    "title": "Idris Abdulmuni",
+    "title": "Idris Abdulmunin",
     "section": "Education",
     "text": "Education"
-  },
-  {
-    "objectID": "people/staff/girard_jeffrey.html",
-    "href": "people/staff/girard_jeffrey.html",
-    "title": "Ibrahim Said Ahmad",
-    "section": "",
-    "text": "Home\n    People\n    Research Staff\n    Ibrahim Said Ahmad"
-  },
-  {
-    "objectID": "people/staff/girard_jeffrey.html#biography",
-    "href": "people/staff/girard_jeffrey.html#biography",
-    "title": "Ibrahim Said Ahmad",
-    "section": "Biography",
-    "text": "Biography"
-  },
-  {
-    "objectID": "people/staff/girard_jeffrey.html#experience",
-    "href": "people/staff/girard_jeffrey.html#experience",
-    "title": "Ibrahim Said Ahmad",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "people/staff/girard_jeffrey.html#education",
-    "href": "people/staff/girard_jeffrey.html#education",
-    "title": "Ibrahim Said Ahmad",
-    "section": "Education",
-    "text": "Education"
-  },
-  {
-    "objectID": "mentors.html",
-    "href": "mentors.html",
-    "title": "ArewaDS FellowShip",
-    "section": "",
-    "text": "Home\n    People"
-  },
-  {
-    "objectID": "mentors.html#research-staff",
-    "href": "mentors.html#research-staff",
-    "title": "ArewaDS FellowShip",
-    "section": "Research Staff",
-    "text": "Research Staff\n\n\n\n\n\n\n\n\n\n\nIbrahim S. Ahmad\n\n\nLecturer\n\n\n\n\n\n\n\n\n\n\n\n\n\nShamsuddeen H. Muhammad\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nIdris Abdulmuni\n\n\nPosdoc Fellow\n\n\n\n\n\n\n\n\n\n\n\n\n\nSaminu M. Aliyu\n\n\nPhD Student\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "ArewaDS FellowShip",
-    "section": "",
-    "text": "POSTS\n\n\n\n\n\n\n\n\n\n\n\nArewa Data Science Fellowship\n\n\n\n\n\n\n\nNews\n\n\nArewaDS\n\n\n\n\nApplication for the ArewaDS Fellowship 2023 is Open and closes on 8 January\n\n\n\n\n\n\nJan 1, 2023\n\n\nShamsuddeen Muhammad\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "packages.html",
-    "href": "packages.html",
-    "title": "ArewaDS FellowShip",
-    "section": "",
-    "text": "PACKAGES\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/staff/ibrahim.html",
@@ -298,7 +249,7 @@
     "href": "people/staff/ibrahim.html#biography",
     "title": "Ibrahim S. Ahmad",
     "section": "Biography",
-    "text": "Biography"
+    "text": "Biography\nI am currently a lecturer with the Department of Information Technology, Bayero University Kano. I completed my Ph.D at Universiti Kebangsaan Malaysia, Malaysia in 2020.\nMy research interests lie in the areas of Data Science which includes areas of Natural Language Processing, Machine Learning, and Deep Learning.\nI am a co-founder of the HausaNLP (www.hausanlp.org) research group, where we focus on research related to NLP in African (low resource) languages. We are beneficiaries of over 10 research grants across diverse areas of NLP in low resource languages.\nAs a lecturer with Bayero University Kano, my responsibilities include teaching and supervising both undergraduate and postgraduate students. Currently, I teach CSC8303 Artificial Intelligence for MSc Computer Science program and ICT8302 Enterprise Database Management for Master of Information and Communication Technology."
   },
   {
     "objectID": "people/staff/ibrahim.html#experience",
@@ -315,6 +266,62 @@
     "text": "Education"
   },
   {
+    "objectID": "people/staff/abubakar.html",
+    "href": "people/staff/abubakar.html",
+    "title": "Abubakar Bala",
+    "section": "",
+    "text": "Home\n    Mentors\n    Abubakar Bala"
+  },
+  {
+    "objectID": "people/staff/abubakar.html#biography",
+    "href": "people/staff/abubakar.html#biography",
+    "title": "Abubakar Bala",
+    "section": "Biography",
+    "text": "Biography\nJust finished a PhD on using AI to detect faults in the engines of aircrafts.\nNow I am focused on building end-end machine learning applications (MLOps)\nI also do public speaking and write thought-provoking stories."
+  },
+  {
+    "objectID": "people/staff/abubakar.html#experience",
+    "href": "people/staff/abubakar.html#experience",
+    "title": "Abubakar Bala",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/staff/abubakar.html#education",
+    "href": "people/staff/abubakar.html#education",
+    "title": "Abubakar Bala",
+    "section": "Education",
+    "text": "Education"
+  },
+  {
+    "objectID": "people/staff/bashir.html",
+    "href": "people/staff/bashir.html",
+    "title": "Bashir Mohammed",
+    "section": "",
+    "text": "Home\n    Mentors\n    Bashir Mohammed"
+  },
+  {
+    "objectID": "people/staff/bashir.html#biography",
+    "href": "people/staff/bashir.html#biography",
+    "title": "Bashir Mohammed",
+    "section": "Biography",
+    "text": "Biography\nBashir is an experienced AI/ML researcher and a staff Computational Research Engineer at Berkeley Lab. He is part of Berkeley Lab’s Cybersecurity R&D for Science and Energy in the Integrated Data Frameworks(IDF) group under the Scientific Data Division.\nHis research revolves around AI/ML for networking, systems control, data provenance, and scientific data management in HPC and distributed systems.\nIn the past, he was a postdoc on the Deep Learning and Artificial Intelligence High-Performance Networks(DAPHNE) project at Berkeley Lab. His work focused on developing AI and Machine Learning algorithms to optimally control distributed network resources, improve high-speed big data transfers and control high-speed networks that will minimize network downtime and avoid network traffic congestion for critical exascale scientific workflows.\nHe is a Berkeley Lab research SLAM 2019 award winner. In 2019 he was among six postdoctoral fellows from US National Labs invited to Washington DC, to speak to the Capitol Hill audience about their research. He is a passionate science communicator."
+  },
+  {
+    "objectID": "people/staff/bashir.html#experience",
+    "href": "people/staff/bashir.html#experience",
+    "title": "Bashir Mohammed",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "people/staff/bashir.html#education",
+    "href": "people/staff/bashir.html#education",
+    "title": "Bashir Mohammed",
+    "section": "Education",
+    "text": "Education"
+  },
+  {
     "objectID": "people/staff/shamsu.html",
     "href": "people/staff/shamsu.html",
     "title": "Shamsuddeen H. Muhammad",
@@ -326,7 +333,7 @@
     "href": "people/staff/shamsu.html#biography",
     "title": "Shamsuddeen H. Muhammad",
     "section": "Biography",
-    "text": "Biography"
+    "text": "Biography\nShamsuddeen is a PhD candidate in the MAPi joint Doctoral Program in Computer Science, offered by the University of Minho, University of Aveiro, and the University of Porto in Portugal. His research interests focus on Natural Language Processing for Low-resource languages. He received his Master’s degree from the University of Manchester in the UK and a Bachelor’s degree from Bayero University in Kano, Nigeria. He is also a faculty member at the Faculty of Computer Science at Bayero University in Kano, Nigeria."
   },
   {
     "objectID": "people/staff/shamsu.html#education",
@@ -334,5 +341,33 @@
     "title": "Shamsuddeen H. Muhammad",
     "section": "Education",
     "text": "Education"
+  },
+  {
+    "objectID": "mentors.html",
+    "href": "mentors.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "Home\n    People"
+  },
+  {
+    "objectID": "mentors.html#research-staff",
+    "href": "mentors.html#research-staff",
+    "title": "ArewaDS FellowShip",
+    "section": "Research Staff",
+    "text": "Research Staff\n\n\n\n\n\n\n\n\n\n\nIbrahim S. Ahmad\n\n\nLecturer\n\n\n\n\n\n\n\n\n\n\n\n\n\nShamsuddeen H. Muhammad\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nIdris Abdulmunin\n\n\nPosdoc Fellow\n\n\n\n\n\n\n\n\n\n\n\n\n\nSaminu M. Aliyu\n\n\nPhD Student\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlmustapha A. Wakili\n\n\nLecturer\n\n\n\n\n\n\n\n\n\n\n\n\n\nBashir Mohammed\n\n\nComputational Researcher\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbubakar Bala\n\n\nData Scientist\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "POSTS\n\n\n\n\n\n\n\n\n\n\n\nArewa Data Science Fellowship\n\n\n\n\n\n\n\nNews\n\n\nArewaDS\n\n\n\n\nApplication for the ArewaDS Fellowship 2023 is Open and closes on 8 January\n\n\n\n\n\n\nJan 1, 2023\n\n\nShamsuddeen Muhammad\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "packages.html",
+    "href": "packages.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "PACKAGES\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

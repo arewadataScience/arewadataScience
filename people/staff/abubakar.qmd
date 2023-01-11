@@ -1,0 +1,50 @@
+---
+title: "Abubakar Bala"
+sortby: "7"
+subtitle: "Data Scientist"
+image: abubakar.jpeg
+started: "Fall 2020"
+toc: false
+resources: 
+  - "girard_cv.pdf"
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - icon: link
+      text: website
+      href: https://isahmadbbr.github.io
+    - icon: mortarboard
+      text: scholar
+      href: https://scholar.google.nl/citations?user=QA4Aib4AAAAJ&hl=en
+    - icon: github
+      text: github
+      href: https://github.com/isahmadbbr/
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/isabone/
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/ibrahim-said-ahmad-42419775/
+    
+---
+
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
+    <li class="breadcrumb-item"><a href="../../mentors.html">Mentors</a></li>
+    <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
+  </ol>
+</nav>
+```
+
+:::{#person-profile}
+:::
+
+## Biography
+Just finished a PhD on using AI to detect faults in the engines of aircrafts. 
+
+Now I am focused on building end-end machine learning applications (MLOps) 
+
+I also do public speaking and write thought-provoking stories.
