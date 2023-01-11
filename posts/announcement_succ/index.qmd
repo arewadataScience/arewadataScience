@@ -40,7 +40,6 @@ draft: false
 
 ::: {.justify}
 
-
 # Annoucing Successful Applicants for the first Cohort of Arewa Data Science
 
 We are pleased to announce the successful applicants for the first cohort of Arewa Data Science Fellowship. 
