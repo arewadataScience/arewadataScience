@@ -8,13 +8,23 @@ execute:
   echo: true
   freeze: auto
 toc: false
+format: html
+engine: knitr
 ---
 
-```{r}
-#| echo: false
-library(distilltools)
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
 ```
 
+
+<!-- ```{r}
+#| echo: false
+library(distilltools)
+``` -->
+
+::: {.justify}
 # [Arewa Data Science Fellowship]{.third-color}
 
 As part of our desire and motivation to train marginalized students, Arewa Data Science Academy already have student mentoring programs. We offer Nigerian university students seminars on data science, machine learning and related fields. 
@@ -27,3 +37,4 @@ We also offer free training on weekends to affected marginalized students. This 
 ![](/images/arewads.jpg){.profile-pic fig-alt="Headshot of Ella Kaye, a woman of around 40 with short brown hair looking slightly off-camera and smiling" fig-align="center" width="100%"}
 
 
+:::
