@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://arewadatascience.github.io/contact.html</loc>
-    <lastmod>2023-01-11T14:35:28.790Z</lastmod>
+    <lastmod>2023-01-11T16:17:05.929Z</lastmod>
   </url>
   <url>
     <loc>https://arewadatascience.github.io/posts/application/index.html</loc>
@@ -14,19 +14,19 @@
   </url>
   <url>
     <loc>https://arewadatascience.github.io/fellows.html</loc>
-    <lastmod>2023-01-11T15:47:18.770Z</lastmod>
+    <lastmod>2023-01-11T16:17:08.038Z</lastmod>
   </url>
   <url>
     <loc>https://arewadatascience.github.io/projects.html</loc>
-    <lastmod>2023-01-11T15:40:32.705Z</lastmod>
+    <lastmod>2023-01-11T15:48:44.604Z</lastmod>
   </url>
   <url>
     <loc>https://arewadatascience.github.io/index.html</loc>
-    <lastmod>2023-01-11T15:42:31.030Z</lastmod>
+    <lastmod>2023-01-11T16:17:03.759Z</lastmod>
   </url>
   <url>
     <loc>https://arewadatascience.github.io/about.html</loc>
-    <lastmod>2023-01-11T15:44:54.319Z</lastmod>
+    <lastmod>2023-01-11T15:48:21.089Z</lastmod>
   </url>
   <url>
     <loc>https://arewadatascience.github.io/people/ras/swift_anna.html</loc>
@@ -54,7 +54,7 @@
   </url>
   <url>
     <loc>https://arewadatascience.github.io/people/staff/almustapha.html</loc>
-    <lastmod>2023-01-11T15:40:35.712Z</lastmod>
+    <lastmod>2023-01-11T16:13:36.778Z</lastmod>
   </url>
   <url>
     <loc>https://arewadatascience.github.io/people/staff/Saminu.html</loc>
@@ -82,14 +82,18 @@
   </url>
   <url>
     <loc>https://arewadatascience.github.io/mentors.html</loc>
-    <lastmod>2023-01-11T15:40:38.390Z</lastmod>
+    <lastmod>2023-01-11T16:13:37.300Z</lastmod>
   </url>
   <url>
     <loc>https://arewadatascience.github.io/posts.html</loc>
-    <lastmod>2023-01-11T15:40:38.812Z</lastmod>
+    <lastmod>2023-01-11T15:48:22.120Z</lastmod>
   </url>
   <url>
     <loc>https://arewadatascience.github.io/packages.html</loc>
     <lastmod>2023-01-11T15:40:39.202Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arewadatascience.github.io/people/fellows/oberg_sara.html</loc>
+    <lastmod>2023-01-11T15:48:14.893Z</lastmod>
   </url>
 </urlset>

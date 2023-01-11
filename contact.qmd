@@ -1,44 +1,31 @@
 ---
-include-in-header: "_includes/fontawesome-2up.html"
-knitr:
-  opts_chunk: 
-    collapse: true
-execute: 
-  echo: false
-  freeze: auto
+pagetitle: "Contact | Arewa Data Science"
+toc: false
+email-obfuscation: javascript
 ---
 
-# [We would love to hear from you!]{.primary}
-
-Reach out Slack Channel
-
-Or, you can drop me an e-mail at [arewadatascience@org]{.heading-font}
-
-
-```{r}
-#| echo: false
-library(distilltools)
+```{=html}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Contact</li>
+  </ol>
+</nav>
 ```
 
 
-`r icon_link(
-  icon = "twitter",
-  text = "Twitter",
-  url = "https://twitter.com/shmuhammadd"
-)`
-`r icon_link(
-  icon = "github",
-  text = "GitHub",
-  url = "https://github.com/arewadatascience"
-)`
+## Inquiries
 
-```{r}
-#| echo: false
-#| eval: false
-icon_link(
-  icon = "linkedin",
-  text = "LinkedIn",
-  url = "https://www.linkedin.com/in/ella-kaye-9b878248/"
-)
-```
+We're here to help you take the first step towards your future in data science and machine learning. Whether you have questions about our programs, admissions process, or just want to learn more about what we do, don't hesitate to reach out.
 
+For general inquiries email us at arewadatascience@gmail.com
+
+<!-- 
+## Connect with Us
+
+Stay up to date with the latest news and updates from our school by following us on social media.
+
+
+
+https://www.facebook.com/groups/655151462686476/
+ -->
