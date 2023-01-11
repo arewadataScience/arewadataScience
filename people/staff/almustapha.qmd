@@ -17,7 +17,14 @@ about:
     - icon: linkedin
       text: linkedin
       href: https://www.linkedin.com/in/binwakeel
+format: html
+engine: knitr
 ---
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
 
 ```{=html}
 <nav aria-label="breadcrumb">

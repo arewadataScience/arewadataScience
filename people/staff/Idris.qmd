@@ -1,7 +1,7 @@
 ---
 title: "Idris Abdulmunin"
 sortby: "3"
-subtitle: "Posdoc Fellow"
+subtitle: "Lecturer in CS/Posdoc Fellow"
 image: idris.jpg
 toc: false
 resources: 
@@ -27,7 +27,16 @@ about:
     - icon: linkedin
       text: linkedin
       href: https://www.linkedin.com/in/abumafrim/
+format: html
+engine: knitr
 ---
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
 
 ```{=html}
 <nav aria-label="breadcrumb">
@@ -42,6 +51,11 @@ about:
 :::{#person-profile}
 :::
 
+
+::: {.justify}
+
 ## Biography
 Idris Abdulmumin is a faculty member of Ahmadu Bello University Zaria. His research focuses on low resource natural language processing (NLP), with special interest in machine translation. He received his Bachelor and Master of Science degrees from Bayero University, Kano, and Nottingham Trent University, United Kingdom respectively. Idris has just completed his PhD at Bayero University, Kano, and will resume with the University of Pretoria Data Science for Social Impact Research Group as a Postdoctoral researcher to work on NLP for low resource African languages.
 
+
+:::

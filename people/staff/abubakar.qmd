@@ -24,8 +24,16 @@ about:
     - icon: linkedin
       text: linkedin
       href: https://www.linkedin.com/in/abubakar-bala/
-    
+format: html
+engine: knitr
 ---
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
 
 ```{=html}
 <nav aria-label="breadcrumb">
@@ -40,9 +48,12 @@ about:
 :::{#person-profile}
 :::
 
+::: {.justify}
+
 ## Biography
 Just finished a PhD on using AI to detect faults in the engines of aircrafts. 
 
 Now I am focused on building end-end machine learning applications (MLOps) 
 
 I also do public speaking and write thought-provoking stories.
+:::

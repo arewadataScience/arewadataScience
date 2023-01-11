@@ -1,7 +1,7 @@
 ---
 title: "Shamsuddeen H. Muhammad"
 sortby: "2"
-subtitle: "PhD Student"
+subtitle: "Lecturer in CS/PhD candiate"
 image: shamsu.jpg
 toc: false
 resources: 
@@ -27,7 +27,17 @@ about:
     - icon: linkedin
       text: linkedin
       href: https://www.linkedin.com/in/shmuhammad/
+format: html
+engine: knitr
 ---
+
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
 
 ```{=html}
 <nav aria-label="breadcrumb">
@@ -42,7 +52,13 @@ about:
 :::{#person-profile}
 :::
 
+
+::: {.justify}
+
 ## Biography
 
-Shamsuddeen is a Founder of Arewa Data Science Academy and [HausaNLP](https://www.hausanlp.org). He is a faculty member at the Faculty of Computer Science at Bayero University in Kano, Nigeria.
-Currently, he is a PhD candidate in the MAPi joint Doctoral Program in Computer Science, offered by the University of Minho, University of Aveiro, and the University of Porto in Portugal. His research interests focus on Natural Language Processing for Low-resource languages. He received his Master's degree from the University of Manchester in the UK and a Bachelor's degree from Bayero University in Kano, Nigeria.  
+Shamsuddeen is a Founder of Arewa Data Science Academy (ADSA) and [HausaNLP](https://www.hausanlp.org). He is a faculty member at the Faculty of Computer Science at Bayero University in Kano, Nigeria.
+
+Currently, shamsuddeen is a PhD candidate at the University of Porto in Portugal. His research interests focus on Natural Language Processing for Low-resource languages, Sentiment Analysis, and Deep Learning. He received his Master's degree from the University of Manchester in the UK and a Bachelor's degree from Bayero University in Kano, Nigeria.  
+
+:::

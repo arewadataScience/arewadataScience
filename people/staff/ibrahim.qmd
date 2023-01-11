@@ -26,7 +26,14 @@ about:
     - icon: linkedin
       text: linkedin
       href: https://www.linkedin.com/in/ibrahim-said-ahmad-42419775/
+format: html
+engine: knitr
 ---
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
 
 ```{=html}
 <nav aria-label="breadcrumb">
@@ -41,6 +48,8 @@ about:
 :::{#person-profile}
 :::
 
+::: {.justify}
+
 ## Biography
 I am currently a lecturer with the Department of Information Technology, Bayero University Kano. I completed my Ph.D at Universiti Kebangsaan Malaysia, Malaysia in 2020.
 
@@ -50,6 +59,7 @@ I am a co-founder of the HausaNLP (www.hausanlp.org) research group, where we fo
 
 As a lecturer with Bayero University Kano, my responsibilities include teaching and supervising both undergraduate and postgraduate students. Currently, I teach CSC8303 Artificial Intelligence for MSc Computer Science program and ICT8302 Enterprise Database Management for Master of Information and Communication Technology.
 
+:::
 
 ## Experience
 
