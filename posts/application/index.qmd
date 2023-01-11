@@ -28,9 +28,20 @@ twitter-card: true
 #  image-height: 500
 #  card-style: summary
 draft: false
+format: html
+engine: knitr
 ---
 
-# ArewaDS Application is Open 
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+# ArewaDS Application is Open ::: {.justify}
+
 
 The Arewa Data Science Fellowship application is open.
 The Arewa Data Science fellowship (ADSF) provides an opportunity to learn from data scientists and machine learning experts. The fellowship is a 16-week-long free training that provides a hands-on approach to data science, machine learning and deep learning. 
@@ -39,9 +50,9 @@ The skills and knowledge acquired during the fellowship will help participants p
 The ADSF fellowship provides support with a monthly stipend during the program. 
 
 Applications will be judged based on the strength of the motivation of the applicant, academic record, and scholarly potential.
-Contact us at: arewadatascience@gmail.com
-Apply here: https://docs.google.com/.../1FAIpQLSe7bzvOO1.../viewform
+
+Application is now closed !
 
 
-
+:::
 
