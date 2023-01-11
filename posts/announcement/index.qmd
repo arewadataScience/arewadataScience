@@ -14,8 +14,6 @@ categories:
   - ArewaDS
 open-graph: true
 twitter-card: true
-format: html
-engine: knitr
 # will inherit title, description, image
 # to change ANYTHING about card, need to fill in EVERYTHING below
 #  title: |
@@ -29,7 +27,10 @@ engine: knitr
 #  image-width: 500
 #  image-height: 500
 #  card-style: summary
+# draft: false
 draft: false
+format: html
+engine: knitr
 ---
 
 ```{css, echo = FALSE}

@@ -2,106 +2,86 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://arewadatascience.github.io/contact.html</loc>
-    <lastmod>2023-01-11T16:19:33.066Z</lastmod>
+    <lastmod>2023-01-11T20:45:09.932Z</lastmod>
   </url>
   <url>
     <loc>https://arewadatascience.github.io/posts/application/index.html</loc>
-    <lastmod>2023-01-11T20:17:25.410Z</lastmod>
+    <lastmod>2023-01-11T20:45:10.490Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arewadatascience.github.io/posts/announcement/index.html</loc>
+    <lastmod>2023-01-11T20:45:34.245Z</lastmod>
   </url>
   <url>
     <loc>https://arewadatascience.github.io/talks.html</loc>
-    <lastmod>2023-01-11T15:40:31.952Z</lastmod>
+    <lastmod>2023-01-11T20:45:12.051Z</lastmod>
   </url>
   <url>
     <loc>https://arewadatascience.github.io/fellows.html</loc>
-    <lastmod>2023-01-11T20:04:24.424Z</lastmod>
+    <lastmod>2023-01-11T20:45:13.019Z</lastmod>
   </url>
   <url>
     <loc>https://arewadatascience.github.io/projects.html</loc>
-    <lastmod>2023-01-11T20:04:23.525Z</lastmod>
+    <lastmod>2023-01-11T20:45:13.463Z</lastmod>
   </url>
   <url>
     <loc>https://arewadatascience.github.io/index.html</loc>
-    <lastmod>2023-01-11T20:30:06.088Z</lastmod>
+    <lastmod>2023-01-11T20:45:29.983Z</lastmod>
   </url>
   <url>
     <loc>https://arewadatascience.github.io/about.html</loc>
-    <lastmod>2023-01-11T15:48:21.089Z</lastmod>
+    <lastmod>2023-01-11T20:45:14.453Z</lastmod>
   </url>
   <url>
     <loc>https://arewadatascience.github.io/people/ras/swift_anna.html</loc>
-    <lastmod>2023-01-11T15:40:33.513Z</lastmod>
+    <lastmod>2023-01-11T20:45:14.924Z</lastmod>
   </url>
   <url>
     <loc>https://arewadatascience.github.io/people/ras/patel_heeral.html</loc>
-    <lastmod>2023-01-11T15:40:33.878Z</lastmod>
-  </url>
-  <url>
-    <loc>https://arewadatascience.github.io/people/alumni/rivera_miguel.html</loc>
-    <lastmod>2023-01-11T15:40:34.254Z</lastmod>
-  </url>
-  <url>
-    <loc>https://arewadatascience.github.io/people/alumni/sall_lauryn.html</loc>
-    <lastmod>2023-01-11T15:40:34.615Z</lastmod>
-  </url>
-  <url>
-    <loc>https://arewadatascience.github.io/people/alumni/white_addison.html</loc>
-    <lastmod>2023-01-11T15:40:34.982Z</lastmod>
-  </url>
-  <url>
-    <loc>https://arewadatascience.github.io/people/alumni/oberg_sara.html</loc>
-    <lastmod>2023-01-11T15:45:48.059Z</lastmod>
-  </url>
-  <url>
-    <loc>https://arewadatascience.github.io/people/staff/almustapha.html</loc>
-    <lastmod>2023-01-11T16:13:36.778Z</lastmod>
-  </url>
-  <url>
-    <loc>https://arewadatascience.github.io/people/staff/Saminu.html</loc>
-    <lastmod>2023-01-11T15:40:36.087Z</lastmod>
-  </url>
-  <url>
-    <loc>https://arewadatascience.github.io/people/staff/Idris.html</loc>
-    <lastmod>2023-01-11T15:40:36.467Z</lastmod>
-  </url>
-  <url>
-    <loc>https://arewadatascience.github.io/people/staff/ibrahim.html</loc>
-    <lastmod>2023-01-11T15:40:36.847Z</lastmod>
-  </url>
-  <url>
-    <loc>https://arewadatascience.github.io/people/staff/abubakar.html</loc>
-    <lastmod>2023-01-11T15:40:37.245Z</lastmod>
-  </url>
-  <url>
-    <loc>https://arewadatascience.github.io/people/staff/bashir.html</loc>
-    <lastmod>2023-01-11T15:40:37.616Z</lastmod>
-  </url>
-  <url>
-    <loc>https://arewadatascience.github.io/people/staff/shamsu.html</loc>
-    <lastmod>2023-01-11T15:40:37.975Z</lastmod>
-  </url>
-  <url>
-    <loc>https://arewadatascience.github.io/mentors.html</loc>
-    <lastmod>2023-01-11T20:19:07.811Z</lastmod>
-  </url>
-  <url>
-    <loc>https://arewadatascience.github.io/posts.html</loc>
-    <lastmod>2023-01-11T20:30:20.382Z</lastmod>
-  </url>
-  <url>
-    <loc>https://arewadatascience.github.io/packages.html</loc>
-    <lastmod>2023-01-11T15:40:39.202Z</lastmod>
-  </url>
-  <url>
-    <loc>https://arewadatascience.github.io/people/fellows/oberg_sara.html</loc>
-    <lastmod>2023-01-11T15:48:14.893Z</lastmod>
-  </url>
-  <url>
-    <loc>https://arewadatascience.github.io/posts/announcement_succ/index.html</loc>
-    <lastmod>2023-01-11T20:24:00.680Z</lastmod>
+    <lastmod>2023-01-11T20:45:15.403Z</lastmod>
   </url>
   <url>
     <loc>https://arewadatascience.github.io/people/fellows/IbrahimIdirs.html</loc>
-    <lastmod>2023-01-11T20:04:23.953Z</lastmod>
+    <lastmod>2023-01-11T20:45:15.810Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arewadatascience.github.io/people/staff/almustapha.html</loc>
+    <lastmod>2023-01-11T20:45:16.229Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arewadatascience.github.io/people/staff/Saminu.html</loc>
+    <lastmod>2023-01-11T20:45:16.652Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arewadatascience.github.io/people/staff/Idris.html</loc>
+    <lastmod>2023-01-11T20:45:17.069Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arewadatascience.github.io/people/staff/ibrahim.html</loc>
+    <lastmod>2023-01-11T20:45:17.499Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arewadatascience.github.io/people/staff/abubakar.html</loc>
+    <lastmod>2023-01-11T20:45:17.924Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arewadatascience.github.io/people/staff/bashir.html</loc>
+    <lastmod>2023-01-11T20:45:18.353Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arewadatascience.github.io/people/staff/shamsu.html</loc>
+    <lastmod>2023-01-11T20:45:18.774Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arewadatascience.github.io/mentors.html</loc>
+    <lastmod>2023-01-11T20:45:19.264Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arewadatascience.github.io/posts.html</loc>
+    <lastmod>2023-01-11T20:45:32.198Z</lastmod>
+  </url>
+  <url>
+    <loc>https://arewadatascience.github.io/packages.html</loc>
+    <lastmod>2023-01-11T20:45:20.218Z</lastmod>
   </url>
 </urlset>

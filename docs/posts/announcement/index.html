@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Shamsuddeen Muhammad">
+<meta name="dcterms.date" content="2023-01-11">
+<meta name="description" content="Announcing Successful Applicants for the first Cohort of Arewa Data Science">
 
-<title>ArewaDS FellowShip - Ibrahim Idris</title>
+<title>ArewaDS FellowShip - Arewa Data Science Successful Applicants</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,6 +36,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/quarto.js"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -59,34 +63,72 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7G8FLLRS4M"></script>
-
-<script type="text/javascript">
-
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-7G8FLLRS4M', { 'anonymize_ip': true});
-</script>
 <style>html{ scroll-behavior: smooth; }</style>
+<script>
+  
+  function getGiscusTheme() {
+  const quartoTheme = localStorage.getItem("quarto-color-scheme");
+  const giscusTheme = quartoTheme === "alternate" ? "dark" : "light";
+  // const giscusTheme = quartoTheme === "alternate" ? "dark" : "assets/giscus-light-custom.css";
+  return giscusTheme;
+}
+
+function setGiscusTheme() {
+  function sendMessage(message) {
+    const iframe = document.querySelector('iframe.giscus-frame');
+    if (!iframe) return;
+    iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+  }
+  sendMessage({
+    setConfig: {
+      theme: getGiscusTheme(),
+    },
+  });
+}
+
+document.addEventListener('DOMContentLoaded', function () {
+  const giscusAttributes = {
+    "src": "https://giscus.app/client.js",
+    "data-repo": "EllaKaye/ellakaye-quarto",
+    "data-repo-id": "R_kgDOHwJk_g",
+    "data-category": "General",
+    "data-category-id": "DIC_kwDOHwJk_s4CQr7D",
+    "data-mapping": "title",
+    "data-strict": "0",
+    "data-reactions-enabled": "1",
+    "data-emit-metadata": "0",
+    "data-input-position": "top",
+    "data-theme": getGiscusTheme(),
+    "data-lang": "en",
+    "crossorigin": "anonymous",
+    "async": "",
+  };
+
+  // Dynamically create script tag
+  const giscusScript = document.createElement("script");
+  Object.entries(giscusAttributes).forEach(([key, value]) => giscusScript.setAttribute(key, value));
+  document.body.appendChild(giscusScript);
+
+  // Update giscus theme when theme switcher is clicked
+  const toggle = document.querySelector('.quarto-color-scheme-toggle');
+  if (toggle) {
+    toggle.addEventListener('click', setGiscusTheme);
+  }
+});
+  
+</script>
 
 
 <link rel="stylesheet" href="../../assets/ek-styles.css">
-<meta property="og:title" content="ArewaDS FellowShip - Ibrahim Idris">
-<meta property="og:description" content="Bayero University">
-<meta property="og:image" content="https://arewadatascience.github.io/images/logo.png">
+<meta property="og:title" content="ArewaDS FellowShip - Arewa Data Science Successful Applicants">
+<meta property="og:description" content="Announcing Successful Applicants for the first Cohort of Arewa Data Science">
 <meta property="og:site-name" content="ArewaDS FellowShip">
-<meta property="og:image:height" content="3264">
-<meta property="og:image:width" content="3264">
-<meta property="og:locale" content="en-GB">
-<meta name="twitter:title" content="ArewaDS FellowShip - Ibrahim Idris">
-<meta name="twitter:description" content="Bayero University">
-<meta name="twitter:creator" content="@shmuhammadd">
-<meta name="twitter:site" content="@shmuhammadd">
+<meta name="twitter:title" content="ArewaDS FellowShip - Arewa Data Science Successful Applicants">
+<meta name="twitter:description" content="Announcing Successful Applicants for the first Cohort of Arewa Data Science">
 <meta name="twitter:card" content="summary">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -136,41 +178,80 @@ gtag('config', 'G-7G8FLLRS4M', { 'anonymize_ip': true});
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Arewa Data Science Successful Applicants</h1>
+                  <div>
+        <div class="description">
+          <p>Announcing Successful Applicants for the first Cohort of Arewa Data Science</p>
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">News</div>
+                <div class="quarto-category">ArewaDS</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Shamsuddeen Muhammad </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">January 11, 2023</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Contents</h2>
+   
+  <ul>
+  <li><a href="#successful-applicants-for-the-first-cohort-of-arewa-data-science-fellowship" id="toc-successful-applicants-for-the-first-cohort-of-arewa-data-science-fellowship" class="nav-link active" data-scroll-target="#successful-applicants-for-the-first-cohort-of-arewa-data-science-fellowship">Successful Applicants for the first Cohort of Arewa Data Science Fellowship</a></li>
+  </ul>
+<div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/arewadataScience/arewadatascience/issues/new" class="toc-action">Report an issue</a></p></div></div></nav>
+    </div>
 <!-- main -->
-<div class="quarto-about-jolla">
- <header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Ibrahim Idris</h1>
-<p class="subtitle lead">Bayero University</p>
-</div>
-<div class="quarto-title-meta">
-  </div>
-</header><main class="content" id="quarto-document-content">
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a href="../../index.html">Home</a></li>
-    <li class="breadcrumb-item"><a href="../../people.html">People</a></li>
-    <li class="breadcrumb-item active">Alumni</li>
-    <li class="breadcrumb-item active" aria-current="page">Ibrahim Idris</li>
-  </ol>
-</nav>
-<p><!-- :::{#person-profile}
-## Semesters
-#- Fall 2020, *Research Assistant*
-- Spring 2021, *Research Assistant*
-## Education
-**University of Kansas** | Lawrence, KS, USA<br />
-Psychology Major
-::: --></p>
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
-</main>  
+
+
+<div class="cell">
+<style type="text/css">
+.justify {
+  text-align: justify !important
+}
+</style>
 </div>
- <!-- /main -->
+<section id="successful-applicants-for-the-first-cohort-of-arewa-data-science-fellowship" class="level1 justify">
+<h1>Successful Applicants for the first Cohort of Arewa Data Science Fellowship</h1>
+<p>We are pleased to announce the successful applicants for the first cohort of Arewa Data Science Fellowship.</p>
+<p>These applicants have demonstrated a strong aptitude for data science, and we are confident that they will make a significant contribution to the program.</p>
+<p>We look forward to the success of the program and to the contributions these applicants will make to scientific community.</p>
+<p>The full list of the successful applicants is <a href="https://arewadatascience.github.io/fellows.html">here</a></p>
+</section>
+
+
+
+</main> <!-- /main -->
+<div class="giscus">
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -306,6 +387,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;
@@ -435,5 +523,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<script src="../../site_libs/quarto-html/zenscroll-min.js"></script>
+</div><script src="../../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
