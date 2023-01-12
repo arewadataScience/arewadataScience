@@ -34,7 +34,8 @@ We also have a slack channel for students and learners where you can connect wit
 
 Here at Arewa Data Science Academy, we believe that data science education should be accessible to all and we strive to empower marginalized students to achieve their full potential through our programs. We are excited to hear from you and to work together towards a more equitable future in data science.
 
-Thank you for your interest in Arewa Data Science Academy. We value your feedback and would love to hear from you.
+
+Thank you for your interest in Arewa Data Science Academy. We value your feedback and would love to hear from you. If you are interested to be a mentor, please, reach out. 
 
 <span style="color:blue">Email: arewadatascience@gmail.com</span>.
 
