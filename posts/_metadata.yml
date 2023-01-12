@@ -19,7 +19,7 @@ twitter-card:
     creator: "@shmuhammad"
     site: "@shmuhammadd"
 
-toc: true    
+toc: false    
 toc-depth: 3
 toc-title: Contents
 

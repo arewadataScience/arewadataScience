@@ -30,7 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./images/favicon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-listing/list.min.js"></script>
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
@@ -73,9 +72,10 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle','listing-started',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      valueNames: ['listing-title','listing-subtitle','listing-state',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
+      page: 30,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-title","listing-subtitle","listing-state"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -92,34 +92,20 @@ ul.task-list li input[type="checkbox"] {
     }
   })
   </script>
-<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-7G8FLLRS4M"></script>
-
-<script type="text/javascript">
-
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-7G8FLLRS4M', { 'anonymize_ip': true});
-</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="assets/ek-styles.css">
 <meta property="og:title" content="ArewaDS | Fellows">
-<meta property="og:image" content="https://arewadatascience.github.io/images/logo.png">
 <meta property="og:site-name" content="ArewaDS FellowShip">
 <meta property="og:image:height" content="500">
 <meta property="og:image:width" content="500">
 <meta property="og:locale" content="en-GB">
-<meta name="twitter:title" content="Arewa DS">
-<meta name="twitter:description" content="The website of Arewa Data Science">
-<meta name="twitter:image" content="https://arewadatascience.github.io/images/logo.png">
+<meta name="twitter:title" content="ArewaDS | Fellows">
 <meta name="twitter:creator" content="@shmuhammadd">
 <meta name="twitter:site" content="@shmuhammadd">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image-height" content="500">
-<meta name="twitter:image-width" content="500">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -130,7 +116,7 @@ gtag('config', 'G-7G8FLLRS4M', { 'anonymize_ip': true});
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">AREWADS 2022<span class="icon-line"></span>FELLOWSHIP</span>
+    <span class="navbar-title">Arewa Data Science Academy</span>
     </a>
   </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -181,79 +167,20 @@ gtag('config', 'G-7G8FLLRS4M', { 'anonymize_ip': true});
 
 
 
+<!-- 
+
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="index.html">Home</a></li>
     <li class="breadcrumb-item active" aria-current="page">People</li>
   </ol>
 </nav>
-<section id="arewa-datascience-fellows" class="level2">
-<h2 class="anchored" data-anchor-id="arewa-datascience-fellows">Arewa DataScience Fellows</h2>
-<div id="listing-Fellows" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1672777329660" data-listing-reading-time-sort="0.705">
-<a href="./people/ras/patel_heeral.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img src="./people/ras/patel_heeral.webp" class="thumbnail-image card-img" style="height: 225px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Fellow
-</h5>
-<div class="card-subtitle listing-subtitle">
-Assistant
-</div>
+``` -->
+<!-- 
+## Arewa DataScience Fellows
 
-<table class="card-other-values">
-<tbody><tr>
-<td>
-Started
-</td>
-<td class="started">
-Fall 2021
-</td>
-</tr>
-
-</tbody></table>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1672777329661" data-listing-reading-time-sort="0.57">
-<a href="./people/ras/swift_anna.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img src="./people/ras/swift_anna.webp" class="thumbnail-image card-img" style="height: 225px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Fellow
-</h5>
-<div class="card-subtitle listing-subtitle">
-Assistant
-</div>
-
-<table class="card-other-values">
-<tbody><tr>
-<td>
-Started
-</td>
-<td class="started">
-Fall 2022
-</td>
-</tr>
-
-</tbody></table>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div>
+:::{#Fellows}
+::: -->
 <!-- ## Research Assistants
 
 :::{#research-assistants}
@@ -266,9 +193,496 @@ No matching items
 
 
 
-</section>
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-table" id="listing-Fellows">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-Fellows-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-Fellows'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title-sort" data-direction="asc">
+          Name
+        </option>
+         <option value="listing-subtitle" data-direction="asc">
+          Current or most previous institution
+        </option>
+         <option value="listing-state" data-direction="asc">
+          States
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Name</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-subtitle" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Current or most previous institution</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-state" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">States</a>
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-listing-file-modified-sort="1673540875220" data-listing-reading-time-sort="0.275" data-listing-title-sort="Abdulkadir Abubakar Abubakar" data-listing-filename-sort="1.qmd">
+<td class="listing-title">
+<a href="./people/fellows/1.html" class="title">Abdulkadir Abubakar Abubakar</a>
+</td>
+<td class="listing-subtitle">
+Pm4success International
+</td>
+<td class="listing-state">
+Kebbi
+</td>
+</tr>
+<tr data-index="1" data-listing-file-modified-sort="1673540875221" data-listing-reading-time-sort="0.275" data-listing-title-sort="Abdulkarim Muhammad Baba" data-listing-filename-sort="28.qmd">
+<td class="listing-title">
+<a href="./people/fellows/28.html" class="title">Abdulkarim Muhammad Baba</a>
+</td>
+<td class="listing-subtitle">
+Self-employed
+</td>
+<td class="listing-state">
+Kano
+</td>
+</tr>
+<tr data-index="2" data-listing-file-modified-sort="1673540875222" data-listing-reading-time-sort="0.275" data-listing-title-sort="Abdulrazak Auwal" data-listing-filename-sort="7.qmd">
+<td class="listing-title">
+<a href="./people/fellows/7.html" class="title">Abdulrazak Auwal</a>
+</td>
+<td class="listing-subtitle">
+Ahmadu Bello University, Zaria
+</td>
+<td class="listing-state">
+Bauchi
+</td>
+</tr>
+<tr data-index="3" data-listing-file-modified-sort="1673540875221" data-listing-reading-time-sort="0.275" data-listing-title-sort="Abubakar Labaran Salisu" data-listing-filename-sort="3.qmd">
+<td class="listing-title">
+<a href="./people/fellows/3.html" class="title">Abubakar Labaran Salisu</a>
+</td>
+<td class="listing-subtitle">
+Scientist
+</td>
+<td class="listing-state">
+Kano
+</td>
+</tr>
+<tr data-index="4" data-listing-file-modified-sort="1673540875221" data-listing-reading-time-sort="0.275" data-listing-title-sort="Abubakar Aliyu" data-listing-filename-sort="33.qmd">
+<td class="listing-title">
+<a href="./people/fellows/33.html" class="title">Abubakar Aliyu</a>
+</td>
+<td class="listing-subtitle">
+Nigerian Computer Society
+</td>
+<td class="listing-state">
+Bauchi
+</td>
+</tr>
+<tr data-index="5" data-listing-file-modified-sort="1673540875220" data-listing-reading-time-sort="0.275" data-listing-title-sort="Adamu Ibrahim" data-listing-filename-sort="11.qmd">
+<td class="listing-title">
+<a href="./people/fellows/11.html" class="title">Adamu Ibrahim</a>
+</td>
+<td class="listing-subtitle">
+Federal Fire Service
+</td>
+<td class="listing-state">
+Bauchi
+</td>
+</tr>
+<tr data-index="6" data-listing-file-modified-sort="1673540875220" data-listing-reading-time-sort="0.275" data-listing-title-sort="Ahmed Danjuma Haruna" data-listing-filename-sort="17.qmd">
+<td class="listing-title">
+<a href="./people/fellows/17.html" class="title">Ahmed Danjuma Haruna</a>
+</td>
+<td class="listing-subtitle">
+DeepLearning.AI
+</td>
+<td class="listing-state">
+Kano
+</td>
+</tr>
+<tr data-index="7" data-listing-file-modified-sort="1673540875221" data-listing-reading-time-sort="0.275" data-listing-title-sort="Al'amin Ahmad Muhammad" data-listing-filename-sort="29.qmd">
+<td class="listing-title">
+<a href="./people/fellows/29.html" class="title">Al’amin Ahmad Muhammad</a>
+</td>
+<td class="listing-subtitle">
+Alumni EquiTech Futures
+</td>
+<td class="listing-state">
+Kano
+</td>
+</tr>
+<tr data-index="8" data-listing-file-modified-sort="1673540875221" data-listing-reading-time-sort="0.275" data-listing-title-sort="Alamin Musa Magaga" data-listing-filename-sort="32.qmd">
+<td class="listing-title">
+<a href="./people/fellows/32.html" class="title">Alamin Musa Magaga</a>
+</td>
+<td class="listing-subtitle">
+Student
+</td>
+<td class="listing-state">
+Kaduna
+</td>
+</tr>
+<tr data-index="9" data-listing-file-modified-sort="1673540875221" data-listing-reading-time-sort="0.275" data-listing-title-sort="Alhussain Abdullahi" data-listing-filename-sort="20.qmd">
+<td class="listing-title">
+<a href="./people/fellows/20.html" class="title">Alhussain Abdullahi</a>
+</td>
+<td class="listing-subtitle">
+Sustainable Development Solutions Network (SDSN)
+</td>
+<td class="listing-state">
+Kaduna
+</td>
+</tr>
+<tr data-index="10" data-listing-file-modified-sort="1673540875222" data-listing-reading-time-sort="0.335" data-listing-title-sort="Ibrahim Idris" data-listing-filename-sort="9.qmd">
+<td class="listing-title">
+<a href="./people/fellows/9.html" class="title">Ibrahim Idris</a>
+</td>
+<td class="listing-subtitle">
+Student
+</td>
+<td class="listing-state">
+Zamfara
+</td>
+</tr>
+<tr data-index="11" data-listing-file-modified-sort="1673540875221" data-listing-reading-time-sort="0.275" data-listing-title-sort="Auwal Auwal Sulaiman" data-listing-filename-sort="27.qmd">
+<td class="listing-title">
+<a href="./people/fellows/27.html" class="title">Auwal Auwal Sulaiman</a>
+</td>
+<td class="listing-subtitle">
+National Association Of Computer Science Student
+</td>
+<td class="listing-state">
+Kano
+</td>
+</tr>
+<tr data-index="12" data-listing-file-modified-sort="1673540875220" data-listing-reading-time-sort="0.275" data-listing-title-sort="Babangida Sani" data-listing-filename-sort="10.qmd">
+<td class="listing-title">
+<a href="./people/fellows/10.html" class="title">Babangida Sani</a>
+</td>
+<td class="listing-subtitle">
+Bayero University Kano
+</td>
+<td class="listing-state">
+Kano
+</td>
+</tr>
+<tr data-index="13" data-listing-file-modified-sort="1673540875220" data-listing-reading-time-sort="0.275" data-listing-title-sort="Bala Mairiga Abduljalil" data-listing-filename-sort="18.qmd">
+<td class="listing-title">
+<a href="./people/fellows/18.html" class="title">Bala Mairiga Abduljalil</a>
+</td>
+<td class="listing-subtitle">
+University Of Maiduguri
+</td>
+<td class="listing-state">
+Taraba
+</td>
+</tr>
+<tr data-index="14" data-listing-file-modified-sort="1673540875222" data-listing-reading-time-sort="0.275" data-listing-title-sort="Bello Abdullahi" data-listing-filename-sort="4.qmd">
+<td class="listing-title">
+<a href="./people/fellows/4.html" class="title">Bello Abdullahi</a>
+</td>
+<td class="listing-subtitle">
+Intern/Corp Member
+</td>
+<td class="listing-state">
+Abuja
+</td>
+</tr>
+<tr data-index="15" data-listing-file-modified-sort="1673540875220" data-listing-reading-time-sort="0.275" data-listing-title-sort="Deborah Temitope Ajah" data-listing-filename-sort="12.qmd">
+<td class="listing-title">
+<a href="./people/fellows/12.html" class="title">Deborah Temitope Ajah</a>
+</td>
+<td class="listing-subtitle">
+Data School Abuja
+</td>
+<td class="listing-state">
+Cross River
+</td>
+</tr>
+<tr data-index="16" data-listing-file-modified-sort="1673540875221" data-listing-reading-time-sort="0.275" data-listing-title-sort="Faridah Yusuf" data-listing-filename-sort="22.qmd">
+<td class="listing-title">
+<a href="./people/fellows/22.html" class="title">Faridah Yusuf</a>
+</td>
+<td class="listing-subtitle">
+Self-employed
+</td>
+<td class="listing-state">
+Kano
+</td>
+</tr>
+<tr data-index="17" data-listing-file-modified-sort="1673540875222" data-listing-reading-time-sort="0.275" data-listing-title-sort="Faruk Hussain abdullahi" data-listing-filename-sort="6.qmd">
+<td class="listing-title">
+<a href="./people/fellows/6.html" class="title">Faruk Hussain abdullahi</a>
+</td>
+<td class="listing-subtitle">
+Student
+</td>
+<td class="listing-state">
+Kano
+</td>
+</tr>
+<tr data-index="18" data-listing-file-modified-sort="1673540875221" data-listing-reading-time-sort="0.335" data-listing-title-sort="Ibrahim Idris" data-listing-filename-sort="31.qmd">
+<td class="listing-title">
+<a href="./people/fellows/31.html" class="title">Ibrahim Idris</a>
+</td>
+<td class="listing-subtitle">
+Federal University Lafia
+</td>
+<td class="listing-state">
+Nasarawa
+</td>
+</tr>
+<tr data-index="19" data-listing-file-modified-sort="1673540875222" data-listing-reading-time-sort="0.275" data-listing-title-sort="Hassan Sani" data-listing-filename-sort="8.qmd">
+<td class="listing-title">
+<a href="./people/fellows/8.html" class="title">Hassan Sani</a>
+</td>
+<td class="listing-subtitle">
+Student
+</td>
+<td class="listing-state">
+Zamfara
+</td>
+</tr>
+<tr data-index="20" data-listing-file-modified-sort="1673540875221" data-listing-reading-time-sort="0.275" data-listing-title-sort="Hassan muhammad Adam" data-listing-filename-sort="21.qmd">
+<td class="listing-title">
+<a href="./people/fellows/21.html" class="title">Hassan muhammad Adam</a>
+</td>
+<td class="listing-subtitle">
+Bayero University Kano
+</td>
+<td class="listing-state">
+Kano
+</td>
+</tr>
+<tr data-index="21" data-listing-file-modified-sort="1673540875222" data-listing-reading-time-sort="0.335" data-listing-title-sort="Ibrahim Idris" data-listing-filename-sort="37.qmd">
+<td class="listing-title">
+<a href="./people/fellows/37.html" class="title">Ibrahim Idris</a>
+</td>
+<td class="listing-subtitle">
+Bayero University
+</td>
+<td class="listing-state">
+Kano
+</td>
+</tr>
+<tr data-index="22" data-listing-file-modified-sort="1673540875222" data-listing-reading-time-sort="0.335" data-listing-title-sort="Ibrahim Idris" data-listing-filename-sort="38.qmd">
+<td class="listing-title">
+<a href="./people/fellows/38.html" class="title">Ibrahim Idris</a>
+</td>
+<td class="listing-subtitle">
+Bayero University
+</td>
+<td class="listing-state">
+Kano
+</td>
+</tr>
+<tr data-index="23" data-listing-file-modified-sort="1673540875222" data-listing-reading-time-sort="0.335" data-listing-title-sort="Ibrahim Idris" data-listing-filename-sort="39.qmd">
+<td class="listing-title">
+<a href="./people/fellows/39.html" class="title">Ibrahim Idris</a>
+</td>
+<td class="listing-subtitle">
+Bayero University
+</td>
+<td class="listing-state">
+Kano
+</td>
+</tr>
+<tr data-index="24" data-listing-file-modified-sort="1673540875222" data-listing-reading-time-sort="0.335" data-listing-title-sort="Ibrahim Idris" data-listing-filename-sort="40.qmd">
+<td class="listing-title">
+<a href="./people/fellows/40.html" class="title">Ibrahim Idris</a>
+</td>
+<td class="listing-subtitle">
+Bayero University
+</td>
+<td class="listing-state">
+Kano
+</td>
+</tr>
+<tr data-index="25" data-listing-file-modified-sort="1673540875221" data-listing-reading-time-sort="0.275" data-listing-title-sort="Ishaq Hassan" data-listing-filename-sort="26.qmd">
+<td class="listing-title">
+<a href="./people/fellows/26.html" class="title">Ishaq Hassan</a>
+</td>
+<td class="listing-subtitle">
+Bayero University Kano
+</td>
+<td class="listing-state">
+Kano
+</td>
+</tr>
+<tr data-index="26" data-listing-file-modified-sort="1673540875221" data-listing-reading-time-sort="0.275" data-listing-title-sort="Joshua Samuel Baba" data-listing-filename-sort="2.qmd">
+<td class="listing-title">
+<a href="./people/fellows/2.html" class="title">Joshua Samuel Baba</a>
+</td>
+<td class="listing-subtitle">
+International Association of Engineers
+</td>
+<td class="listing-state">
+Kaduna
+</td>
+</tr>
+<tr data-index="27" data-listing-file-modified-sort="1673540875220" data-listing-reading-time-sort="0.275" data-listing-title-sort="Lukman Aliyu Jibril" data-listing-filename-sort="14.qmd">
+<td class="listing-title">
+<a href="./people/fellows/14.html" class="title">Lukman Aliyu Jibril</a>
+</td>
+<td class="listing-subtitle">
+Zipline, Nigeria.
+</td>
+<td class="listing-state">
+Kaduna
+</td>
+</tr>
+<tr data-index="28" data-listing-file-modified-sort="1673540875221" data-listing-reading-time-sort="0.275" data-listing-title-sort="Lurwanu Abdullahi" data-listing-filename-sort="23.qmd">
+<td class="listing-title">
+<a href="./people/fellows/23.html" class="title">Lurwanu Abdullahi</a>
+</td>
+<td class="listing-subtitle">
+Self-employed
+</td>
+<td class="listing-state">
+Katsina
+</td>
+</tr>
+<tr data-index="29" data-listing-file-modified-sort="1673540875220" data-listing-reading-time-sort="0.275" data-listing-title-sort="Mahmud Hamzah" data-listing-filename-sort="15.qmd">
+<td class="listing-title">
+<a href="./people/fellows/15.html" class="title">Mahmud Hamzah</a>
+</td>
+<td class="listing-subtitle">
+Bayero University Kano
+</td>
+<td class="listing-state">
+Yobe
+</td>
+</tr>
+<tr data-index="30" data-listing-file-modified-sort="1673540875220" data-listing-reading-time-sort="0.275" data-listing-title-sort="Mohammed Nasiru" data-listing-filename-sort="13.qmd">
+<td class="listing-title">
+<a href="./people/fellows/13.html" class="title">Mohammed Nasiru</a>
+</td>
+<td class="listing-subtitle">
+Alx
+</td>
+<td class="listing-state">
+Kogi
+</td>
+</tr>
+<tr data-index="31" data-listing-file-modified-sort="1673540875220" data-listing-reading-time-sort="0.275" data-listing-title-sort="Mubarak Daha Isa" data-listing-filename-sort="16.qmd">
+<td class="listing-title">
+<a href="./people/fellows/16.html" class="title">Mubarak Daha Isa</a>
+</td>
+<td class="listing-subtitle">
+Bridge Connect Africa Initiative
+</td>
+<td class="listing-state">
+Kano
+</td>
+</tr>
+<tr data-index="32" data-listing-file-modified-sort="1673540875221" data-listing-reading-time-sort="0.275" data-listing-title-sort="Muhammad Ibrahim Isah" data-listing-filename-sort="24.qmd">
+<td class="listing-title">
+<a href="./people/fellows/24.html" class="title">Muhammad Ibrahim Isah</a>
+</td>
+<td class="listing-subtitle">
+Bayero University Kano
+</td>
+<td class="listing-state">
+Kano
+</td>
+</tr>
+<tr data-index="33" data-listing-file-modified-sort="1673540875221" data-listing-reading-time-sort="0.335" data-listing-title-sort="Ibrahim Idris" data-listing-filename-sort="25.qmd">
+<td class="listing-title">
+<a href="./people/fellows/25.html" class="title">Ibrahim Idris</a>
+</td>
+<td class="listing-subtitle">
+Central South University, China
+</td>
+<td class="listing-state">
+Benue
+</td>
+</tr>
+<tr data-index="34" data-listing-file-modified-sort="1673540875221" data-listing-reading-time-sort="0.275" data-listing-title-sort="Munzali Alhassan" data-listing-filename-sort="19.qmd">
+<td class="listing-title">
+<a href="./people/fellows/19.html" class="title">Munzali Alhassan</a>
+</td>
+<td class="listing-subtitle">
+Self-employed
+</td>
+<td class="listing-state">
+Jigawa
+</td>
+</tr>
+<tr data-index="35" data-listing-file-modified-sort="1673540875222" data-listing-reading-time-sort="0.275" data-listing-title-sort="Musa Mohammed" data-listing-filename-sort="36.qmd">
+<td class="listing-title">
+<a href="./people/fellows/36.html" class="title">Musa Mohammed</a>
+</td>
+<td class="listing-subtitle">
+Abubakar Tafawa Balewa University, Bauchi
+</td>
+<td class="listing-state">
+Yobe
+</td>
+</tr>
+<tr data-index="36" data-listing-file-modified-sort="1673540875222" data-listing-reading-time-sort="0.275" data-listing-title-sort="Nur Bala Rabiu" data-listing-filename-sort="34.qmd">
+<td class="listing-title">
+<a href="./people/fellows/34.html" class="title">Nur Bala Rabiu</a>
+</td>
+<td class="listing-subtitle">
+Bayero University Kano
+</td>
+<td class="listing-state">
+Kano
+</td>
+</tr>
+<tr data-index="37" data-listing-file-modified-sort="1673540875222" data-listing-reading-time-sort="0.275" data-listing-title-sort="Rahma Aliyu Yusuf" data-listing-filename-sort="35.qmd">
+<td class="listing-title">
+<a href="./people/fellows/35.html" class="title">Rahma Aliyu Yusuf</a>
+</td>
+<td class="listing-subtitle">
+Actelion consulting
+</td>
+<td class="listing-state">
+Kano
+</td>
+</tr>
+<tr data-index="38" data-listing-file-modified-sort="1673540875221" data-listing-reading-time-sort="0.335" data-listing-title-sort="Ibrahim Idris" data-listing-filename-sort="30.qmd">
+<td class="listing-title">
+<a href="./people/fellows/30.html" class="title">Ibrahim Idris</a>
+</td>
+<td class="listing-subtitle">
+Self-employed
+</td>
+<td class="listing-state">
+Kano
+</td>
+</tr>
+<tr data-index="39" data-listing-file-modified-sort="1673540875222" data-listing-reading-time-sort="0.275" data-listing-title-sort="Zainab Abdulfattah" data-listing-filename-sort="5.qmd">
+<td class="listing-title">
+<a href="./people/fellows/5.html" class="title">Zainab Abdulfattah</a>
+</td>
+<td class="listing-subtitle">
+Student
+</td>
+<td class="listing-state">
+Gombe
+</td>
+</tr>
+</tbody>
+
+</table>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+<nav id="Fellows-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
