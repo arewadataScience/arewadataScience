@@ -1,7 +1,7 @@
 ---
-title: "Ibrahim Idris"
-sortby: "Idris, Ibrahim"
-subtitle: "Bayero University"
+title: "Mahmud Mahmud Ibrahim"
+sortby: "Mahmud, Mahmud Ibrahim"
+subtitle: "Self-employed"
 state: "Kano"
 toc: false
 about:

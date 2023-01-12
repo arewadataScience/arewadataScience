@@ -1,7 +1,7 @@
 ---
 title: "Shamsuddeen H. Muhammad"
 sortby: "2"
-subtitle: "Lecturer in CS/PhD candiate"
+subtitle: "Lecturer in CS/PhD candidate"
 image: shamsu.jpg
 toc: false
 resources: 

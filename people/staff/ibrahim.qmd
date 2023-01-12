@@ -1,7 +1,7 @@
 ---
 title: "Ibrahim S. Ahmad"
 sortby: "1"
-subtitle: "Lecturer"
+subtitle: "Lecturer in CS"
 image: ibrahim.jpg
 started: "Fall 2020"
 toc: false

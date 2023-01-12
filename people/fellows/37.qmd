@@ -1,19 +1,8 @@
 ---
-title: "Ibrahim Idris"
-sortby: "Idris, Ibrahim"
-subtitle: "Bayero University"
-state: "Kano"
-toc: false
-about:
-  id: person-profile
-  template: jolla
----
-
----
-title: "Ibrahim Idris"
-sortby: "Idris, Ibrahim"
-subtitle: "Bayero University"
-state: "Kano"
+title: "Sufiyanu Ibrahim"
+sortby: "Sufiyanu, Ibrahim"
+subtitle: "Ahmadu Bello University, Zaria"
+state: "Katsina"
 toc: false
 about:
   id: person-profile
