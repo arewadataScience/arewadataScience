@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
     "title": "ArewaDS FellowShip",
-    "section": "",
-    "text": "Home\n    Contact"
-  },
-  {
-    "objectID": "contact.html#inquiries",
-    "href": "contact.html#inquiries",
-    "title": "ArewaDS FellowShip",
-    "section": "Inquiries",
-    "text": "Inquiries\nWe’re here to help you take the first step towards your future in data science and machine learning. Whether you have questions about our programs, admissions process, or just want to learn more about what we do, don’t hesitate to reach out.\nFor general inquiries email us at arewadatascience@gmail.com"
+    "section": "Get in Touch",
+    "text": "Get in Touch\nThank you for visiting the Arewa Data Science Academy website. We are dedicated to providing accessible and quality data science education to marginalized students and we value your feedback and input.\nOur team is here to assist you with any questions or inquiries you may have. Whether you are interested in learning more about our programs, exploring potential collaboration opportunities, or just want to know more about what we do, please do not hesitate to reach out.\nFor general inquiries, you can contact us via email at arewadatascience@gmail.com. We will make every effort to respond to your inquiry in a timely manner, typically within 24 hours during business days.\nWe also have a slack channel for students and learners where you can connect with us, collaborate, ask questions and connect with like-minded people, you can join by visiting this link\nHere at Arewa Data Science Academy, we believe that data science education should be accessible to all and we strive to empower marginalized students to achieve their full potential through our programs. We are excited to hear from you and to work together towards a more equitable future in data science.\nThank you for your interest in Arewa Data Science Academy. We value your feedback and would love to hear from you.\nEmail: arewadatascience@gmail.com.\nSlack Channel: click to join."
   },
   {
     "objectID": "posts/application/index.html",
@@ -60,7 +53,7 @@
     "href": "about.html",
     "title": "ArewaDS FellowShip",
     "section": "",
-    "text": "Arewa Data Science Fellowship\nAs part of our desire and motivation to train marginalized students, Arewa Data Science Academy already have student mentoring programs. We offer Nigerian university students seminars on data science, machine learning and related fields.\nWe also offer free training on weekends to affected marginalized students. This year (2023), we are offering a more structured and sreamlined training, being sponsored by Google Research, TensorFlow and HausaNLP, Bayero University Kano. We are targeting underrepresented groups including but not limited to Women and Students from rural communities and communities affected by insecurity."
+    "text": "Arewa Data Science Fellowship\nWelcome to Arewa Data Science Academy! We are a community of educators, learners and data science enthusiasts with a passion for empowering marginalized students to reach their full potential.\nOur mission is to provide students with the skills and knowledge they need to succeed in the rapidly evolving field of data science. We believe that everyone should have access to the tools and resources they need to pursue their dreams, regardless of their background or circumstances.\nTo achieve this mission, we offer a wide range of programs and services to students from all over Nigeria. Our student mentoring programs provide personalized support and guidance to help students succeed in their studies. We also offer seminars and workshops on data science, machine learning and related fields to university students, to help them stay current with the latest advancements in the field.\nOne of the core focus of our academy is free training to affected marginalized students, we hold weekend trainings sessions and this year we are thrilled to announce that these trainings will be more structured and streamlined than ever before, thanks to the sponsorship of Google Research, TensorFlow and HausaNLP and Bayero University Kano. We are particularly focusing on underrepresented groups such as Women and Students from rural communities and communities affected by insecurity as part of our efforts to bridge the gap and bring equal opportunities to all.\nWe invite you to join our community and be a part of our mission to empower marginalized students and build a more equitable future. Thank you for considering Arewa Data Science Academy!"
   },
   {
     "objectID": "people/ras/swift_anna.html",
@@ -84,13 +77,6 @@
     "text": "Home\n    People\n    Alumni\n    Ibrahim Idris"
   },
   {
-    "objectID": "people/staff/almustapha.html",
-    "href": "people/staff/almustapha.html",
-    "title": "Almustapha A. Wakili",
-    "section": "",
-    "text": "Home\n    Mentors\n    Almustapha A. Wakili"
-  },
-  {
     "objectID": "people/staff/almustapha.html#biography",
     "href": "people/staff/almustapha.html#biography",
     "title": "Almustapha A. Wakili",
@@ -112,25 +98,11 @@
     "text": "Biography\n."
   },
   {
-    "objectID": "people/staff/Idris.html",
-    "href": "people/staff/Idris.html",
-    "title": "Idris Abdulmunin",
-    "section": "",
-    "text": "Home\n    Mentors\n    Idris Abdulmunin"
-  },
-  {
     "objectID": "people/staff/Idris.html#biography",
     "href": "people/staff/Idris.html#biography",
     "title": "Idris Abdulmunin",
     "section": "Biography",
     "text": "Biography\nIdris Abdulmumin is a faculty member of Ahmadu Bello University Zaria. His research focuses on low resource natural language processing (NLP), with special interest in machine translation. He received his Bachelor and Master of Science degrees from Bayero University, Kano, and Nottingham Trent University, United Kingdom respectively. Idris has just completed his PhD at Bayero University, Kano, and will resume with the University of Pretoria Data Science for Social Impact Research Group as a Postdoctoral researcher to work on NLP for low resource African languages."
-  },
-  {
-    "objectID": "people/staff/ibrahim.html",
-    "href": "people/staff/ibrahim.html",
-    "title": "Ibrahim S. Ahmad",
-    "section": "",
-    "text": "Home\n    Mentors\n    Ibrahim S. Ahmad"
   },
   {
     "objectID": "people/staff/ibrahim.html#biography",
@@ -154,13 +126,6 @@
     "text": "Education"
   },
   {
-    "objectID": "people/staff/abubakar.html",
-    "href": "people/staff/abubakar.html",
-    "title": "Abubakar Bala",
-    "section": "",
-    "text": "Home\n    Mentors\n    Abubakar Bala"
-  },
-  {
     "objectID": "people/staff/abubakar.html#biography",
     "href": "people/staff/abubakar.html#biography",
     "title": "Abubakar Bala",
@@ -168,25 +133,11 @@
     "text": "Biography\nJust finished a PhD on using AI to detect faults in the engines of aircrafts.\nNow I am focused on building end-end machine learning applications (MLOps)\nI also do public speaking and write thought-provoking stories."
   },
   {
-    "objectID": "people/staff/bashir.html",
-    "href": "people/staff/bashir.html",
-    "title": "Bashir Mohammed",
-    "section": "",
-    "text": "Home\n    Mentors\n    Bashir Mohammed"
-  },
-  {
     "objectID": "people/staff/bashir.html#biography",
     "href": "people/staff/bashir.html#biography",
     "title": "Bashir Mohammed",
     "section": "Biography",
     "text": "Biography\nBashir is an experienced AI/ML researcher and a staff Computational Research Engineer at Berkeley Lab. He is part of Berkeley Lab’s Cybersecurity R&D for Science and Energy in the Integrated Data Frameworks(IDF) group under the Scientific Data Division.\nHis research revolves around AI/ML for networking, systems control, data provenance, and scientific data management in HPC and distributed systems.\nIn the past, he was a postdoc on the Deep Learning and Artificial Intelligence High-Performance Networks(DAPHNE) project at Berkeley Lab. His work focused on developing AI and Machine Learning algorithms to optimally control distributed network resources, improve high-speed big data transfers and control high-speed networks that will minimize network downtime and avoid network traffic congestion for critical exascale scientific workflows.\nHe is a Berkeley Lab research SLAM 2019 award winner. In 2019 he was among six postdoctoral fellows from US National Labs invited to Washington DC, to speak to the Capitol Hill audience about their research. He is a passionate science communicator."
-  },
-  {
-    "objectID": "people/staff/shamsu.html",
-    "href": "people/staff/shamsu.html",
-    "title": "Shamsuddeen H. Muhammad",
-    "section": "",
-    "text": "Home\n    Mentors\n    Shamsuddeen H. Muhammad"
   },
   {
     "objectID": "people/staff/shamsu.html#biography",
@@ -207,7 +158,7 @@
     "href": "mentors.html#research-staff",
     "title": "ArewaDS FellowShip",
     "section": "Research Staff",
-    "text": "Research Staff\n\n\n\n\n\n\n\n\n\n\nIbrahim S. Ahmad\n\n\nLecturer\n\n\n\n\n\n\n\n\n\n\n\n\n\nShamsuddeen H. Muhammad\n\n\nLecturer in CS/PhD candiate\n\n\n\n\n\n\n\n\n\n\n\n\n\nIdris Abdulmunin\n\n\nLecturer in CS/Posdoc Fellow\n\n\n\n\n\n\n\n\n\n\n\n\n\nSaminu M. Aliyu\n\n\nLecturer in CSPhD candidate\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlmustapha A. Wakili\n\n\nLecturer\n\n\n\n\n\n\n\n\n\n\n\n\n\nBashir Mohammed\n\n\nComputational Researcher\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbubakar Bala\n\n\nData Scientist\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Research Staff\n\n\n\n\n\n\n\n\n\n\nIbrahim S. Ahmad\n\n\nLecturer\n\n\n\n\n\n\n\n\n\n\n\n\n\nShamsuddeen H. Muhammad\n\n\nLecturer in CS/PhD candiate\n\n\n\n\n\n\n\n\n\n\n\n\n\nIdris Abdulmunin\n\n\nLecturer in CS/Posdoc Fellow\n\n\n\n\n\n\n\n\n\n\n\n\n\nSaminu M. Aliyu\n\n\nLecturer in CS/PhD candidate\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlmustapha A. Wakili\n\n\nLecturer\n\n\n\n\n\n\n\n\n\n\n\n\n\nBashir Mohammed\n\n\nComputational Researcher\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbubakar Bala\n\n\nData Scientist\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts.html",
