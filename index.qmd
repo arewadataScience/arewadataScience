@@ -57,7 +57,7 @@ include-in-header:
 <div class="card h-100" id="card-second-color">
 <div class="card-body d-flex flex-column">
 <p class="card-text"> Keep up with the latest news and expert insights from our talented mentors and fellows.</p>
-<div style="margin-top: auto;"><a href="posts.qmd" class="card-link second-color-link heading-font">News/Blog</a></div>
+<div style="margin-top: auto;"><a href="posts.qmd" class="card-link second-color-link heading-font">NEWS/BLOG</a></div>
 </div>
 </div>
 :::
@@ -66,7 +66,7 @@ include-in-header:
 <div class="card h-100" id="card-third-color">
 <div class="card-body d-flex flex-column">
 <p class="card-text"> Our mentors are top researchers from renowned universities and labs worldwide.</p>
-<div style="margin-top: auto;"><a href="mentors.qmd" class="card-link third-color-link heading-font">Mentors</a></div>
+<div style="margin-top: auto;"><a href="mentors.qmd" class="card-link third-color-link heading-font">MENTORS</a></div>
 </div>
 </div>
 :::
@@ -75,7 +75,7 @@ include-in-header:
 <div class="card h-100" id="card-second-color">
 <div class="card-body d-flex flex-column">
 <p class="card-text"> Meet the Arewa Data Science 2023 Successful Fellows. </p>
-<div style="margin-top: auto;"><a href="fellows.qmd" class="card-link second-color-link heading-font">Fellows</a></div>
+<div style="margin-top: auto;"><a href="fellows.qmd" class="card-link second-color-link heading-font">FELLOWS</a></div>
 </div>
 </div>
 :::
@@ -84,7 +84,7 @@ include-in-header:
 <div class="card h-100" id="card-third-color">
 <div class="card-body d-flex flex-column">
 <p class="card-text"> Explore our fellows research project, guided by our  mentors.</p>
-<div style="margin-top: auto;"><a href="projects.qmd" class="card-link third-color-link heading-font">Projects</a></div>
+<div style="margin-top: auto;"><a href="projects.qmd" class="card-link third-color-link heading-font">PROJECTS</a></div>
 </div>
 </div>
 :::
