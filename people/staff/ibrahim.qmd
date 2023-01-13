@@ -61,7 +61,7 @@ As a lecturer with Bayero University Kano, my responsibilities include teaching 
 
 :::
 
-## Experience
+<!-- ## Experience -->
 
 <!-- - **University of Kansas** | Lawrence, KS, USA<br /> -->
 <!--   Assistant Professor of Psychology | 2020–Current<br /> -->
@@ -87,7 +87,7 @@ As a lecturer with Bayero University Kano, my responsibilities include teaching 
 <!-- - **Psychological Assessment** <a href="https://www.apa.org/pubs/journals/pas" target="_blank" rel="noopener noreferrer"><i class="bi bi-box-arrow-up-right ms-1"></i></a><br /> -->
 <!--   Consulting Editor | 2020–2022 -->
 
-## Education
+<!-- ## Education -->
 
 <!-- - **University of Pittsburgh** | Pittsburgh, PA, USA<br /> -->
 <!--   PhD in Psychology (Clinical) | 2013–2018 -->
