@@ -2,7 +2,7 @@
 title: "Babangida Sani"
 sortby: "Babangida, Sani"
 subtitle: "Self-employed"
-state: "Jigawa"
+state: "Kano"
 toc: false
 about:
   id: person-profile

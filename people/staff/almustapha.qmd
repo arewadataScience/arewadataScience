@@ -1,7 +1,7 @@
 ---
 title: "Almustapha A. Wakili"
 sortby: "4"
-subtitle: "Lecturer"
+subtitle: "Lecturer in CS"
 image: almustapha.jpeg
 started: "Fall 2020"
 toc: false
