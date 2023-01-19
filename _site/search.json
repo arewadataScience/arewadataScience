@@ -476,6 +476,13 @@
     "text": "Biography\n."
   },
   {
+    "objectID": "people/staff/fauziyya.html#biography",
+    "href": "people/staff/fauziyya.html#biography",
+    "title": "Fauziya Ado Yakasai",
+    "section": "Biography",
+    "text": "Biography\nDr.Yakasai is an experienced researcher and data science professional with over 7 years of combined experience in data science, statistics, mathematics, and research in academia and corporate America. Expert in applied mathematics, statistics, business analytics, and data science with a rich blend of teaching and quantitative research experience.\nHardworking mathematicians, statisticians, and business/data analysts with expertise in statistical and data modeling, probability, and numerical integration. Proficient in data mining techniques, including data entry, compilation, sampling, cleaning, transformation, QA/QC, data visualization, etc. Strong passion and commitment in artificial intelligence (AI), machine learning (ML), and deep learning (DL)\nFauziya holds a Bachelor of Science (BS) in Mathematics from Bayero University, Kano, Nigeria; a Master of Science (MS) in Pure and Applied Mathematics from the African University of Science and Technology, Abuja, Nigeria; a Master of Science (MS) in Probability and Statistics from Auburn University, Auburn, Alabama; and a PhD in Mathematics from Auburn University, Auburn, Alabama. She has a Graduate Certification in Business Analytics from Auburn University in Auburn, Alabama. She is currently a postdoctoral fellow in Data Analysis of R&D partnerships at York University, Canada, and a Data Science consultant at LOCOMeX inc USA."
+  },
+  {
     "objectID": "people/staff/Idris.html#biography",
     "href": "people/staff/Idris.html#biography",
     "title": "Idris Abdulmunin",
@@ -488,20 +495,6 @@
     "title": "Ibrahim S. Ahmad",
     "section": "Biography",
     "text": "Biography\nI am currently a lecturer with the Department of Information Technology, Bayero University Kano. I completed my Ph.D at Universiti Kebangsaan Malaysia, Malaysia in 2020.\nMy research interests lie in the areas of Data Science which includes areas of Natural Language Processing, Machine Learning, and Deep Learning.\nI am a co-founder of the HausaNLP (www.hausanlp.org) research group, where we focus on research related to NLP in African (low resource) languages. We are beneficiaries of over 10 research grants across diverse areas of NLP in low resource languages.\nAs a lecturer with Bayero University Kano, my responsibilities include teaching and supervising both undergraduate and postgraduate students. Currently, I teach CSC8303 Artificial Intelligence for MSc Computer Science program and ICT8302 Enterprise Database Management for Master of Information and Communication Technology."
-  },
-  {
-    "objectID": "people/staff/ibrahim.html#experience",
-    "href": "people/staff/ibrahim.html#experience",
-    "title": "Ibrahim S. Ahmad",
-    "section": "Experience",
-    "text": "Experience"
-  },
-  {
-    "objectID": "people/staff/ibrahim.html#education",
-    "href": "people/staff/ibrahim.html#education",
-    "title": "Ibrahim S. Ahmad",
-    "section": "Education",
-    "text": "Education"
   },
   {
     "objectID": "people/staff/abubakar.html#biography",
@@ -529,7 +522,7 @@
     "href": "people/staff/hafsa.html#biography",
     "title": "Hafsa Kabir Ahmad",
     "section": "Biography",
-    "text": "Biography\nJust finished a PhD on using AI to detect faults in the engines of aircrafts.\nNow I am focused on building end-end machine learning applications (MLOps)\nI also do public speaking and write thought-provoking stories."
+    "text": "Biography\nI am Currently pursuing a Ph.D. degree in computer science at Shaanxi Normal University, China.\nCurrent research interests include Network Science, Network Representation learning and Recommender Systems in online education.\nI am a public speaker."
   },
   {
     "objectID": "mentors.html",
@@ -543,7 +536,7 @@
     "href": "mentors.html#research-staff",
     "title": "ArewaDS FellowShip",
     "section": "Research Staff",
-    "text": "Research Staff\n\n\n\n\n\n\n\n\n\n\nIbrahim S. Ahmad\n\n\nLecturer in CS\n\n\n\n\n\n\n\n\n\n\n\n\n\nShamsuddeen H. Muhammad\n\n\nLecturer in CS/PhD candidate\n\n\n\n\n\n\n\n\n\n\n\n\n\nIdris Abdulmunin\n\n\nLecturer in CS/Posdoc Fellow\n\n\n\n\n\n\n\n\n\n\n\n\n\nSaminu M. Aliyu\n\n\nLecturer in CS/PhD candidate\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlmustapha A. Wakili\n\n\nLecturer in CS\n\n\n\n\n\n\n\n\n\n\n\n\n\nBashir Mohammed\n\n\nComputational Researcher\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbubakar Bala\n\n\nData Scientist\n\n\n\n\n\n\n\n\n\n\n\n\n\nHafsa Kabir Ahmad\n\n\nLecturer in CS/PhD candidate\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Research Staff\n\n\n\n\n\n\n\n\n\n\nIbrahim S. Ahmad\n\n\nLecturer in CS\n\n\n\n\n\n\n\n\n\n\n\n\n\nShamsuddeen H. Muhammad\n\n\nLecturer in CS/PhD candidate\n\n\n\n\n\n\n\n\n\n\n\n\n\nIdris Abdulmunin\n\n\nLecturer in CS/Posdoc Fellow\n\n\n\n\n\n\n\n\n\n\n\n\n\nSaminu M. Aliyu\n\n\nLecturer in CS/PhD candidate\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlmustapha A. Wakili\n\n\nLecturer in CS\n\n\n\n\n\n\n\n\n\n\n\n\n\nBashir Mohammed\n\n\nComputational Researcher\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbubakar Bala\n\n\nData Scientist\n\n\n\n\n\n\n\n\n\n\n\n\n\nHafsa Kabir Ahmad\n\n\nLecturer in CS/PhD candidate\n\n\n\n\n\n\n\n\n\n\n\n\n\nFauziya Ado Yakasai\n\n\nPosdoc\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts.html",

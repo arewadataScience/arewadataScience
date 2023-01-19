@@ -14,16 +14,10 @@ about:
   
     - icon: mortarboard
       text: scholar
-      href: https://scholar.google.com/citations?hl=en&user=Xd63vWQAAAAJ
-    - icon: github
-      text: github
-      href: https://github.com/bala-221
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com/abubakarbala2
+      href: https://scholar.google.com/citations?user=ekmjTNQAAAAJ&hl=en
     - icon: linkedin
       text: linkedin
-      href: https://www.linkedin.com/in/abubakar-bala/
+      href: https://www.linkedin.com/in/hafsa-kabir-ahmad-6230311a7
 format: html
 engine: knitr
 ---
@@ -51,9 +45,9 @@ engine: knitr
 ::: {.justify}
 
 ## Biography
-Just finished a PhD on using AI to detect faults in the engines of aircrafts. 
+I am Currently pursuing a Ph.D. degree in computer science at Shaanxi Normal University, China. 
 
-Now I am focused on building end-end machine learning applications (MLOps) 
+Current research interests include Network Science, Network Representation learning and Recommender Systems in online education.
 
-I also do public speaking and write thought-provoking stories.
+I am a public speaker.
 :::
