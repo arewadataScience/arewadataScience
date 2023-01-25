@@ -37,7 +37,7 @@ Here at Arewa Data Science Academy, we believe that data science education shoul
 
 Thank you for your interest in Arewa Data Science Academy. We value your feedback and would love to hear from you. If you are interested to be a mentor, please, reach out. 
 
-<span style="color:blue">Email: arewadatascience@gmail.com</span>.
+<span style="color:blue">Email: arewadatascience[at]gmail.com</span>.
 
 <span style="color:blue">Slack Channel: [click to join](https://join.slack.com/t/arewadatascience/shared_invite/zt-u0d0eak6-VjVf~BJmE8pmBRBUHXKqZA)</span>.
 
