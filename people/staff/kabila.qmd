@@ -1,8 +1,8 @@
 ---
 title: "Musa Muhammed Kabila"
-sortby: "10"
+sortby: "99"
 subtitle: "Lecturer in CS"
-image: ibrahim.jpg
+image: kabila.jpeg
 started: "Fall 2020"
 toc: false
 resources: 
