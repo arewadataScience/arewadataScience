@@ -25,6 +25,8 @@ Our mentors from Universities across Nigeria and beyond will guide fellows to un
 
 List of Projects, check back, we will update the projects soon!
 
+## List of Projects Completed by ArewaDS Fellows
+
 |S.No|Name of Fellow|Project Github repo|
 |----|--------------|-------------------|
 |    |              |                   |
