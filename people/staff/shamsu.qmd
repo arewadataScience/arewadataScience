@@ -57,7 +57,7 @@ engine: knitr
 
 ## Biography
 
-Shamsuddeen is a Founder of Arewa Data Science Academy (ADSA) and Co-founder of [HausaNLP](https://www.hausanlp.org). He is a faculty member at the Faculty of Computer Science at Bayero University in Kano, Nigeria.
+Shamsuddeen is a Founder of Arewa Data Science Academy (ADSA) and Co-founder of [HausaNLP](https://hausanlp.github.io). He is a faculty member at the Faculty of Computer Science at Bayero University in Kano, Nigeria.
 
 Currently, shamsuddeen is a PhD candidate at the University of Porto in Portugal. His research interests focus on Natural Language Processing for Low-resource languages, Sentiment Analysis, and Deep Learning. He received his Master's degree from the University of Manchester in the UK and a Bachelor's degree from Bayero University in Kano, Nigeria.  
 
