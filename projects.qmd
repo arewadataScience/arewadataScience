@@ -24,3 +24,7 @@ Our mentors from Universities across Nigeria and beyond will guide fellows to un
 
 
 List of Projects, check back, we will update the projects soon!
+
+|S.No|Name of Fellow|Project Github repo|
+|----|--------------|-------------------|
+|    |              |                   |
