@@ -14,7 +14,7 @@ about:
   links:
     - icon: link
       text: website
-      href: https://www.shmuhammad.com
+      href: https://shmuhammadd.github.io
     - icon: mortarboard
       text: scholar
       href: https://scholar.google.nl/citations?hl=en&user=Ne1nt4gAAAAJ
