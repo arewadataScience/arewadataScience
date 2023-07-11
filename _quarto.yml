@@ -12,7 +12,7 @@ website:
   title: "ArewaDS FellowShip"
   site-url: "https://arewadatascience.github.io"
   repo-url: https://github.com/arewadataScience/arewadatascience
-  repo-actions: issue
+  #repo-actions: issue
   #image: images/logo.png
   navbar:
     #logo: ELLAKAYE-logo-light.png
@@ -68,7 +68,7 @@ website:
         
   page-footer:
     border: true
-    #left: "Published with [Quarto](https://quarto.org/) | Hosted by Github pages served by Github Action [{{< iconify simple-icons netlify >}}](https://www.netlify.com)"
+    left: "Published with [Quarto](https://quarto.org/) | Hosted by Github pages served by Github Action [{{< iconify simple-icons netlify >}}](https://www.netlify.com)"
     right: "© 2023 [Arewa DataScience Academy](/about.html) [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
   
 format:
