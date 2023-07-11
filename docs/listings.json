@@ -85,6 +85,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/CohereAI/index.html",
       "/posts/announcement/index.html",
       "/posts/application/index.html"
     ]

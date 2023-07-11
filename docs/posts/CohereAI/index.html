@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Lukman Aliyu Jibril">
+<meta name="dcterms.date" content="2023-07-10">
+<meta name="description" content="ArewaDS-LMBF of Arewa Data Science Fellowship Takes Second Place in Cohere AI Hackathon">
 
-<title>ArewaDS FellowShip – posts</title>
+<title>ArewaDS FellowShip - Arewa Data Science Team Wins Competition</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +26,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,51 +69,79 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <style>html{ scroll-behavior: smooth; }</style>
+<script>
+  
+  function getGiscusTheme() {
+  const quartoTheme = localStorage.getItem("quarto-color-scheme");
+  const giscusTheme = quartoTheme === "alternate" ? "dark" : "light";
+  // const giscusTheme = quartoTheme === "alternate" ? "dark" : "assets/giscus-light-custom.css";
+  return giscusTheme;
+}
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+function setGiscusTheme() {
+  function sendMessage(message) {
+    const iframe = document.querySelector('iframe.giscus-frame');
+    if (!iframe) return;
+    iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+  }
+  sendMessage({
+    setConfig: {
+      theme: getGiscusTheme(),
+    },
+  });
+}
 
-<link rel="stylesheet" href="assets/ek-styles.css">
+document.addEventListener('DOMContentLoaded', function () {
+  const giscusAttributes = {
+    "src": "https://giscus.app/client.js",
+    "data-repo": "EllaKaye/ellakaye-quarto",
+    "data-repo-id": "R_kgDOHwJk_g",
+    "data-category": "General",
+    "data-category-id": "DIC_kwDOHwJk_s4CQr7D",
+    "data-mapping": "title",
+    "data-strict": "0",
+    "data-reactions-enabled": "1",
+    "data-emit-metadata": "0",
+    "data-input-position": "top",
+    "data-theme": getGiscusTheme(),
+    "data-lang": "en",
+    "crossorigin": "anonymous",
+    "async": "",
+  };
+
+  // Dynamically create script tag
+  const giscusScript = document.createElement("script");
+  Object.entries(giscusAttributes).forEach(([key, value]) => giscusScript.setAttribute(key, value));
+  document.body.appendChild(giscusScript);
+
+  // Update giscus theme when theme switcher is clicked
+  const toggle = document.querySelector('.quarto-color-scheme-toggle');
+  if (toggle) {
+    toggle.addEventListener('click', setGiscusTheme);
+  }
+});
+  
+</script>
+
+
+<link rel="stylesheet" href="../../assets/ek-styles.css">
+<meta property="og:title" content="ArewaDS FellowShip - Arewa Data Science Team Wins Competition">
+<meta property="og:description" content="ArewaDS-LMBF of Arewa Data Science Fellowship Takes Second Place in Cohere AI Hackathon">
+<meta property="og:site-name" content="ArewaDS FellowShip">
+<meta name="twitter:title" content="ArewaDS FellowShip - Arewa Data Science Team Wins Competition">
+<meta name="twitter:description" content="ArewaDS-LMBF of Arewa Data Science Fellowship Takes Second Place in Cohere AI Hackathon">
+<meta name="twitter:card" content="summary">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Arewa Data Science Academy</span>
     </a>
   </div>
@@ -123,27 +152,27 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
+    <a class="nav-link" href="../../about.html" rel="" target="">
  <span class="menu-text">about</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./posts.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="../../posts.html" rel="" target="">
  <span class="menu-text">posts</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./fellows.html" rel="" target="">
+    <a class="nav-link" href="../../fellows.html" rel="" target="">
  <span class="menu-text">Fellows</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./mentors.html" rel="" target="">
+    <a class="nav-link" href="../../mentors.html" rel="" target="">
  <span class="menu-text">Mentors</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html" rel="" target="">
+    <a class="nav-link" href="../../projects.html" rel="" target="">
  <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.html" rel="" target="">
+    <a class="nav-link" href="../../contact.html" rel="" target="">
  <span class="menu-text">contact</span></a>
   </li>  
 </ul>
@@ -155,145 +184,72 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Arewa Data Science Team Wins Competition</h1>
+                  <div>
+        <div class="description">
+          <p>ArewaDS-LMBF of Arewa Data Science Fellowship Takes Second Place in Cohere AI Hackathon</p>
+        </div>
+      </div>
+                          <div class="quarto-categories">
+                <div class="quarto-category">News</div>
+                <div class="quarto-category">ArewaDS</div>
+              </div>
+                  </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Lukman Aliyu Jibril </p>
+            </div>
+    </div>
+      
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">July 10, 2023</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="ArewaDS">ArewaDS <span class="quarto-category-count">(3)</span></div><div class="category" data-category="News">News <span class="quarto-category-count">(3)</span></div></div></div>
+    
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
-<section id="posts" class="level1">
-<h1><span class="second-color">POSTS</span></h1>
+
+<div class="cell">
+<style type="text/css">
+.justify {
+  text-align: justify !important
+}
+</style>
+</div>
+<div class="justify">
+<p>ArewaDS-LMBF, a team from the Arewa Data Science Fellowship, achieved an impressive feat on May 13th, 2023, by securing second place in the Cohere AI hackathon. Organized by Cohere and AI Saturdays Lagos, the hackathon centered around the theme “Empower your creativity with Cohere’s Multilingual Embeddings” and was hosted on devpost. The event spanned from May 1st to May 7th, 2023, with participants gathering at multiple locations across the continent, including the enthusiastic Arewa Data Science Academy community.</p>
+<p>The teams representing ArewaDS showcased their expertise in machine learning, particularly in large language models, as they presented their innovative projects utilizing the <a href="https://docs.cohere.com/docs/multilingual-language-models">Cohere multilingual embeddings API</a>. Among the submissions, ArewaDS-LMBF proposed an exceptional solution that utilised the multilingual embeddings API to align Hausa sentences with their potential translations in English. This approach aimed to contribute to the creation of accurate parallel datasets for machine translation. Their outstanding submission propelled them to the finals, securing them a well-deserved second place in the overall rankings.</p>
+<p>Lukman, the team lead of ArewaDS-LMBF, expressed his overwhelming delight at this historic achievement. He remarked, “Starting from scratch in machine learning and winning an AI hackathon within a few months of joining the fellowship is truly incredible. The unwavering support of the mentors in Arewa Data Science Academy played a pivotal role in this accomplishment. They ensured equal opportunities for all fellows and guided us to the right resources. I am immensely grateful for this invaluable experience.”</p>
+<p>As a reward for their outstanding performance, the team was granted a prize of 800 US Dollars, along with 2000 Cohere API credits, to be shared among the five team members. Looking ahead, the team revealed their plans to further enhance their solution while harnessing the cohere platform to deepen their understanding of Natural Language Processing and Large Language Models. Their commitment to continuous improvement and exploration exemplifies their dedication to excellence.</p>
+<p>This accomplishment offers a mere glimpse into the transformative impact that the Arewa Data Science Fellowship has had on the lives of its young fellows within a short span of time. The Arewa Data Science Fellowship stands as an intensive program designed to nurture the next generation of research-oriented data scientists. Through its mentorship, monthly stipends, and provision of data, the fellowship equips aspiring data scientists with the necessary tools to thrive in their field. For more information about the fellowship, please visit our website.</p>
+</div>
 
 
 
-</section>
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="News,ArewaDS" data-listing-date-sort="1688943600000" data-listing-file-modified-sort="1689100335395" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3">
-<div class="thumbnail">
-<p><a href="./posts/CohereAI/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
-</div>
-<div class="body">
-<a href="./posts/CohereAI/index.html">
-<h3 class="no-anchor listing-title">
-Arewa Data Science Team Wins Competition
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('News'); return false;">
-News
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('ArewaDS'); return false;">
-ArewaDS
-</div>
-</div>
-<a href="./posts/CohereAI/index.html">
-<div class="listing-description">
-<p>ArewaDS-LMBF of Arewa Data Science Fellowship Takes Second Place in Cohere AI Hackathon</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/CohereAI/index.html">
-<div class="listing-date">
-Jul 10, 2023
-</div>
-<div class="listing-author">
-Lukman Aliyu Jibril
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="News,ArewaDS" data-listing-date-sort="1673395200000" data-listing-file-modified-sort="1688986426635" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2">
-<div class="thumbnail">
-<p><a href="./posts/announcement/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
-</div>
-<div class="body">
-<a href="./posts/announcement/index.html">
-<h3 class="no-anchor listing-title">
-Arewa Data Science Successful Applicants
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('News'); return false;">
-News
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('ArewaDS'); return false;">
-ArewaDS
-</div>
-</div>
-<a href="./posts/announcement/index.html">
-<div class="listing-description">
-<p>Announcing Successful Applicants for the first Cohort of Arewa Data Science</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/announcement/index.html">
-<div class="listing-date">
-Jan 11, 2023
-</div>
-<div class="listing-author">
-Shamsuddeen Muhammad
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="News,ArewaDS" data-listing-date-sort="1672531200000" data-listing-file-modified-sort="1688986426636" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
-<div class="thumbnail">
-<p><a href="./posts/application/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
-</div>
-<div class="body">
-<a href="./posts/application/index.html">
-<h3 class="no-anchor listing-title">
-Arewa Data Science Fellowship
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('News'); return false;">
-News
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('ArewaDS'); return false;">
-ArewaDS
-</div>
-</div>
-<a href="./posts/application/index.html">
-<div class="listing-description">
-<p>Application for the ArewaDS Fellowship 2023 is Open and closes on 8 January</p>
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/application/index.html">
-<div class="listing-date">
-Jan 1, 2023
-</div>
-<div class="listing-author">
-Shamsuddeen Muhammad
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
+<div class="giscus">
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -759,12 +715,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       &nbsp;
     <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/arewadataScience/arewadatascience/issues/new" class="toc-action">Report an issue</a></p></div></div></div>
     <div class="nav-footer-right">
-<p>© 2023 <a href="./about.html">Arewa DataScience Academy</a> <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></p>
+<p>© 2023 <a href="../../about.html">Arewa DataScience Academy</a> <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></p>
 </div>
   </div>
 </footer>
 
 
 
-<script src="site_libs/quarto-html/zenscroll-min.js"></script>
+</div><script src="../../site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
