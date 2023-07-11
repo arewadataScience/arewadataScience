@@ -7,6 +7,7 @@
     "listing": "/mentors.html",
     "items": [
       "/people/staff/ibrahim.html",
+      "/people/staff/mustapha.html",
       "/people/staff/shamsu.html",
       "/people/staff/Idris.html",
       "/people/staff/Saminu.html",
@@ -16,10 +17,6 @@
       "/people/staff/fauziyya.html",
       "/people/staff/kabila.html"
     ]
-  },
-  {
-    "listing": "/talks.html",
-    "items": []
   },
   {
     "listing": "/fellows.html",
@@ -80,6 +77,10 @@
       "/people/fellows/5.html",
       "/people/fellows/42.html"
     ]
+  },
+  {
+    "listing": "/talks.html",
+    "items": []
   },
   {
     "listing": "/posts.html",
