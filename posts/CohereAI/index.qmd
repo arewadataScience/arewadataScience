@@ -12,6 +12,7 @@ author:
 categories:
   - News
   - ArewaDS
+  - Fellow
 open-graph: true
 twitter-card: true
 # will inherit title, description, image
