@@ -29,5 +29,5 @@ List of Projects, check back, we will update the projects soon!
 
 |S.No|Name of Fellow|Project Github repo|
 |----|--------------|-------------------|
-|    |              |                   |
+|  1  | Lukman Aliyu Jibril             | [project](https://github.com/lukmanaj)                  |
 |    |              |                   |
