@@ -31,7 +31,7 @@ List of Projects by our fellows
 
 ## List of Projects Completed by ArewaDS Fellows
 
-|S.No|Name of Fellow|Project Github repo|
-|----|--------------|-------------------|
-|  1  | Lukman Aliyu Jibril             | [project](https://github.com/lukmanaj)                  |
-|    |              |                   |
+|S.No|Name of Fellow|Project Github repo| Blog/Medium |   
+|----|--------------|-------------------|   https://lukmanaj.medium.com    | 
+|  1  | Lukman Aliyu Jibril             |       |  [project](https://github.com/lukmanaj)  |       | 
+|  2  |    Auwal Abubakar Khalid          |   https://github.com/khalidassalafy                |   https://medium.com/@khalidassalafy    | 
