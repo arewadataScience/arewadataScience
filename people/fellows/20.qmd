@@ -3,6 +3,7 @@ title: "Alhussain Abdullahi"
 sortby: "Alhussain, Abdullahi"
 subtitle: "Sustainable Development Solutions Network (SDSN)"
 state: "Kaduna"
+completed: "❌"
 toc: false
 about:
   id: person-profile

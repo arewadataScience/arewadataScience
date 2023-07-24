@@ -29,14 +29,14 @@ listing:
      contents: "people/fellows/*.qmd"
      type: table
      sort: sortby
-     fields: [title, subtitle,state]
-     sort-ui: [title, subtitle, state]
-     filter-ui: [title, subtitle, state]
+     fields: [title, subtitle, state, completed]
+     sort-ui: [title, subtitle, state, completed]
+     filter-ui: [title, subtitle, state, completed]
      field-display-names: 
        title: "Name"
        subtitle: "Current or most previous institution"
        state: "States"
-      #  ended: "Ended"
+       completed: "Completed"
 ---
 <!-- 
 ```{=html}

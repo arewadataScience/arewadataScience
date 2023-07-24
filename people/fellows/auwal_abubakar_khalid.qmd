@@ -3,6 +3,7 @@ title: "Auwal Abubakar Khalid"
 sortby: "Auwal, Abubakar Khalid"
 subtitle: "Student"
 state: "Zamfara"
+completed: "✅"
 toc: false
 about:
   id: person-profile

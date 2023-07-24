@@ -3,6 +3,7 @@ title: "Sufiyanu Ibrahim"
 sortby: "Sufiyanu, Ibrahim"
 subtitle: "Ahmadu Bello University, Zaria"
 state: "Katsina"
+completed: "❌"
 toc: false
 about:
   id: person-profile

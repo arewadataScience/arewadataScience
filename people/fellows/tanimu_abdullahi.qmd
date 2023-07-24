@@ -3,6 +3,7 @@ title: "Tanimu Abdullahi"
 sortby: "Tanimu, Abdullahi"
 subtitle: "Civil Servant"
 state: "Jigawa"
+completed: "✅"
 toc: false
 about:
   id: person-profile

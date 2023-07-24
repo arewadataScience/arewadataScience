@@ -3,6 +3,7 @@ title: "Auwal Auwal Sulaiman"
 sortby: "Auwal, Auwal Sulaiman"
 subtitle: "National Association Of Computer Science Student"
 state: "Kano"
+completed: "✅"
 toc: false
 about:
   id: person-profile

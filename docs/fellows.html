@@ -73,10 +73,10 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-state',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-subtitle','listing-state','listing-completed',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
       page: 30,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-title","listing-subtitle","listing-state"],
+      searchColumns: ["listing-title","listing-subtitle","listing-state","listing-completed"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -212,6 +212,9 @@ ul.task-list li input[type="checkbox"] {
          <option value="listing-state" data-direction="asc">
           States
         </option>
+         <option value="listing-completed" data-direction="asc">
+          Completed
+        </option>
      </select>
   </div>
     <div class="input-group input-group-sm quarto-listing-filter">
@@ -232,10 +235,13 @@ ul.task-list li input[type="checkbox"] {
 <th>
 <a class="sort" data-sort="listing-state" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">States</a>
 </th>
+<th>
+<a class="sort" data-sort="listing-completed" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Completed</a>
+</th>
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-listing-file-modified-sort="1690192352273" data-listing-reading-time-sort="1" data-listing-title-sort="Abdulkadir Abubakar Abubakar" data-listing-filename-sort="1.qmd">
+<tr data-index="0" data-listing-file-modified-sort="1690208425862" data-listing-reading-time-sort="1" data-listing-title-sort="Abdulkadir Abubakar Abubakar" data-listing-filename-sort="1.qmd">
 <td>
 <a href="./people/fellows/1.html" class="title listing-title">Abdulkadir Abubakar Abubakar</a>
 </td>
@@ -245,8 +251,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kebbi</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="1" data-listing-file-modified-sort="1690200107515" data-listing-reading-time-sort="1" data-listing-title-sort="Abdulkarim Muhammad Baba" data-listing-filename-sort="abdulkarim_muhammad_baba.qmd">
+<tr data-index="1" data-listing-file-modified-sort="1690208851632" data-listing-reading-time-sort="1" data-listing-title-sort="Abdulkarim Muhammad Baba" data-listing-filename-sort="abdulkarim_muhammad_baba.qmd">
 <td>
 <a href="./people/fellows/abdulkarim_muhammad_baba.html" class="title listing-title">Abdulkarim Muhammad Baba</a>
 </td>
@@ -256,8 +265,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kano</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="2" data-listing-file-modified-sort="1690192352280" data-listing-reading-time-sort="1" data-listing-title-sort="Abdulrazak Auwal" data-listing-filename-sort="7.qmd">
+<tr data-index="2" data-listing-file-modified-sort="1690208538094" data-listing-reading-time-sort="1" data-listing-title-sort="Abdulrazak Auwal" data-listing-filename-sort="7.qmd">
 <td>
 <a href="./people/fellows/7.html" class="title listing-title">Abdulrazak Auwal</a>
 </td>
@@ -267,8 +279,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Bauchi</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="3" data-listing-file-modified-sort="1690200123495" data-listing-reading-time-sort="1" data-listing-title-sort="Abubakar Aliyu" data-listing-filename-sort="aliyu_abubakar.qmd">
+<tr data-index="3" data-listing-file-modified-sort="1690208891467" data-listing-reading-time-sort="1" data-listing-title-sort="Abubakar Aliyu" data-listing-filename-sort="aliyu_abubakar.qmd">
 <td>
 <a href="./people/fellows/aliyu_abubakar.html" class="title listing-title">Abubakar Aliyu</a>
 </td>
@@ -278,8 +293,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Bauchi</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="4" data-listing-file-modified-sort="1690200091765" data-listing-reading-time-sort="1" data-listing-title-sort="Abubakar Labaran Salisu" data-listing-filename-sort="abubakar_labaran_salisu.qmd">
+<tr data-index="4" data-listing-file-modified-sort="1690208881072" data-listing-reading-time-sort="1" data-listing-title-sort="Abubakar Labaran Salisu" data-listing-filename-sort="abubakar_labaran_salisu.qmd">
 <td>
 <a href="./people/fellows/abubakar_labaran_salisu.html" class="title listing-title">Abubakar Labaran Salisu</a>
 </td>
@@ -289,8 +307,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kano</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="5" data-listing-file-modified-sort="1690192352279" data-listing-reading-time-sort="1" data-listing-title-sort="Abubakar Mahmud" data-listing-filename-sort="46.qmd">
+<tr data-index="5" data-listing-file-modified-sort="1690208625470" data-listing-reading-time-sort="1" data-listing-title-sort="Abubakar Mahmud" data-listing-filename-sort="46.qmd">
 <td>
 <a href="./people/fellows/46.html" class="title listing-title">Abubakar Mahmud</a>
 </td>
@@ -300,8 +321,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Jigawa</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="6" data-listing-file-modified-sort="1690192352273" data-listing-reading-time-sort="1" data-listing-title-sort="Adamu Ibrahim" data-listing-filename-sort="11.qmd">
+<tr data-index="6" data-listing-file-modified-sort="1690208546777" data-listing-reading-time-sort="1" data-listing-title-sort="Adamu Ibrahim" data-listing-filename-sort="11.qmd">
 <td>
 <a href="./people/fellows/11.html" class="title listing-title">Adamu Ibrahim</a>
 </td>
@@ -311,8 +335,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Bauchi</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="7" data-listing-file-modified-sort="1690192352274" data-listing-reading-time-sort="1" data-listing-title-sort="Ahmed Danjuma Haruna" data-listing-filename-sort="17.qmd">
+<tr data-index="7" data-listing-file-modified-sort="1690208560802" data-listing-reading-time-sort="1" data-listing-title-sort="Ahmed Danjuma Haruna" data-listing-filename-sort="17.qmd">
 <td>
 <a href="./people/fellows/17.html" class="title listing-title">Ahmed Danjuma Haruna</a>
 </td>
@@ -322,8 +349,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kano</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="8" data-listing-file-modified-sort="1690192352276" data-listing-reading-time-sort="1" data-listing-title-sort="Al'amin Ahmad Muhammad" data-listing-filename-sort="29.qmd">
+<tr data-index="8" data-listing-file-modified-sort="1690208578483" data-listing-reading-time-sort="1" data-listing-title-sort="Al'amin Ahmad Muhammad" data-listing-filename-sort="29.qmd">
 <td>
 <a href="./people/fellows/29.html" class="title listing-title">Al’amin Ahmad Muhammad</a>
 </td>
@@ -333,8 +363,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kano</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="9" data-listing-file-modified-sort="1690200114965" data-listing-reading-time-sort="1" data-listing-title-sort="Alamin Musa Magaga" data-listing-filename-sort="alamin_musa_magaga.qmd">
+<tr data-index="9" data-listing-file-modified-sort="1690208887180" data-listing-reading-time-sort="1" data-listing-title-sort="Alamin Musa Magaga" data-listing-filename-sort="alamin_musa_magaga.qmd">
 <td>
 <a href="./people/fellows/alamin_musa_magaga.html" class="title listing-title">Alamin Musa Magaga</a>
 </td>
@@ -344,8 +377,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kaduna</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="10" data-listing-file-modified-sort="1690192352275" data-listing-reading-time-sort="1" data-listing-title-sort="Alhussain Abdullahi" data-listing-filename-sort="20.qmd">
+<tr data-index="10" data-listing-file-modified-sort="1690208569102" data-listing-reading-time-sort="1" data-listing-title-sort="Alhussain Abdullahi" data-listing-filename-sort="20.qmd">
 <td>
 <a href="./people/fellows/20.html" class="title listing-title">Alhussain Abdullahi</a>
 </td>
@@ -355,8 +391,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kaduna</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="11" data-listing-file-modified-sort="1690200129961" data-listing-reading-time-sort="1" data-listing-title-sort="Aminu Hamza Nababa" data-listing-filename-sort="aminu_hamza_nababa.qmd">
+<tr data-index="11" data-listing-file-modified-sort="1690208896658" data-listing-reading-time-sort="1" data-listing-title-sort="Aminu Hamza Nababa" data-listing-filename-sort="aminu_hamza_nababa.qmd">
 <td>
 <a href="./people/fellows/aminu_hamza_nababa.html" class="title listing-title">Aminu Hamza Nababa</a>
 </td>
@@ -366,8 +405,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">N/A</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="12" data-listing-file-modified-sort="1690192352280" data-listing-reading-time-sort="1" data-listing-title-sort="Auwal Abdullahi" data-listing-filename-sort="55.qmd">
+<tr data-index="12" data-listing-file-modified-sort="1690208648574" data-listing-reading-time-sort="1" data-listing-title-sort="Auwal Abdullahi" data-listing-filename-sort="55.qmd">
 <td>
 <a href="./people/fellows/55.html" class="title listing-title">Auwal Abdullahi</a>
 </td>
@@ -377,8 +419,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Adamawa</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="13" data-listing-file-modified-sort="1690200135823" data-listing-reading-time-sort="1" data-listing-title-sort="Auwal Abubakar Khalid" data-listing-filename-sort="auwal_abubakar_khalid.qmd">
+<tr data-index="13" data-listing-file-modified-sort="1690208901255" data-listing-reading-time-sort="1" data-listing-title-sort="Auwal Abubakar Khalid" data-listing-filename-sort="auwal_abubakar_khalid.qmd">
 <td>
 <a href="./people/fellows/auwal_abubakar_khalid.html" class="title listing-title">Auwal Abubakar Khalid</a>
 </td>
@@ -388,8 +433,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Zamfara</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="14" data-listing-file-modified-sort="1690200141408" data-listing-reading-time-sort="1" data-listing-title-sort="Auwal Auwal Sulaiman" data-listing-filename-sort="auwal_auwal_sulaiman.qmd">
+<tr data-index="14" data-listing-file-modified-sort="1690208905355" data-listing-reading-time-sort="1" data-listing-title-sort="Auwal Auwal Sulaiman" data-listing-filename-sort="auwal_auwal_sulaiman.qmd">
 <td>
 <a href="./people/fellows/auwal_auwal_sulaiman.html" class="title listing-title">Auwal Auwal Sulaiman</a>
 </td>
@@ -399,8 +447,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kano</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="15" data-listing-file-modified-sort="1690200146889" data-listing-reading-time-sort="1" data-listing-title-sort="Babangida Sani" data-listing-filename-sort="babangida_sani.qmd">
+<tr data-index="15" data-listing-file-modified-sort="1690208911930" data-listing-reading-time-sort="1" data-listing-title-sort="Babangida Sani" data-listing-filename-sort="babangida_sani.qmd">
 <td>
 <a href="./people/fellows/babangida_sani.html" class="title listing-title">Babangida Sani</a>
 </td>
@@ -410,8 +461,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kano</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="16" data-listing-file-modified-sort="1690200153270" data-listing-reading-time-sort="1" data-listing-title-sort="Bala Mairiga Abduljalil" data-listing-filename-sort="bala_mairiga_abduljalil.qmd">
+<tr data-index="16" data-listing-file-modified-sort="1690208998496" data-listing-reading-time-sort="1" data-listing-title-sort="Bala Mairiga Abduljalil" data-listing-filename-sort="bala_mairiga_abduljalil.qmd">
 <td>
 <a href="./people/fellows/bala_mairiga_abduljalil.html" class="title listing-title">Bala Mairiga Abduljalil</a>
 </td>
@@ -421,8 +475,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Taraba</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="17" data-listing-file-modified-sort="1690192352278" data-listing-reading-time-sort="1" data-listing-title-sort="Bello Abdullahi" data-listing-filename-sort="4.qmd">
+<tr data-index="17" data-listing-file-modified-sort="1690208529180" data-listing-reading-time-sort="1" data-listing-title-sort="Bello Abdullahi" data-listing-filename-sort="4.qmd">
 <td>
 <a href="./people/fellows/4.html" class="title listing-title">Bello Abdullahi</a>
 </td>
@@ -432,8 +489,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Abuja</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="18" data-listing-file-modified-sort="1690192352273" data-listing-reading-time-sort="1" data-listing-title-sort="Deborah Temitope Ajah" data-listing-filename-sort="12.qmd">
+<tr data-index="18" data-listing-file-modified-sort="1690208551589" data-listing-reading-time-sort="1" data-listing-title-sort="Deborah Temitope Ajah" data-listing-filename-sort="12.qmd">
 <td>
 <a href="./people/fellows/12.html" class="title listing-title">Deborah Temitope Ajah</a>
 </td>
@@ -443,8 +503,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Cross River</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="19" data-listing-file-modified-sort="1690200160319" data-listing-reading-time-sort="1" data-listing-title-sort="Faisal Muhammad Adam" data-listing-filename-sort="faisal_muhammad_adam.qmd">
+<tr data-index="19" data-listing-file-modified-sort="1690209003755" data-listing-reading-time-sort="1" data-listing-title-sort="Faisal Muhammad Adam" data-listing-filename-sort="faisal_muhammad_adam.qmd">
 <td>
 <a href="./people/fellows/faisal_muhammad_adam.html" class="title listing-title">Faisal Muhammad Adam</a>
 </td>
@@ -454,8 +517,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kano</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="20" data-listing-file-modified-sort="1690200166135" data-listing-reading-time-sort="1" data-listing-title-sort="Faridah Yusuf Musa" data-listing-filename-sort="faridah_yusuf_musa.qmd">
+<tr data-index="20" data-listing-file-modified-sort="1690209007334" data-listing-reading-time-sort="1" data-listing-title-sort="Faridah Yusuf Musa" data-listing-filename-sort="faridah_yusuf_musa.qmd">
 <td>
 <a href="./people/fellows/faridah_yusuf_musa.html" class="title listing-title">Faridah Yusuf Musa</a>
 </td>
@@ -465,8 +531,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kano</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="21" data-listing-file-modified-sort="1690200172556" data-listing-reading-time-sort="1" data-listing-title-sort="Faruk Hussain Abdullahi" data-listing-filename-sort="faruk_hussain_abdullahi.qmd">
+<tr data-index="21" data-listing-file-modified-sort="1690209012053" data-listing-reading-time-sort="1" data-listing-title-sort="Faruk Hussain Abdullahi" data-listing-filename-sort="faruk_hussain_abdullahi.qmd">
 <td>
 <a href="./people/fellows/faruk_hussain_abdullahi.html" class="title listing-title">Faruk Hussain Abdullahi</a>
 </td>
@@ -476,8 +545,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kano</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="22" data-listing-file-modified-sort="1690200179224" data-listing-reading-time-sort="1" data-listing-title-sort="Fatima Muhammad Adam" data-listing-filename-sort="fatima_muhammad_adam.qmd">
+<tr data-index="22" data-listing-file-modified-sort="1690209016276" data-listing-reading-time-sort="1" data-listing-title-sort="Fatima Muhammad Adam" data-listing-filename-sort="fatima_muhammad_adam.qmd">
 <td>
 <a href="./people/fellows/fatima_muhammad_adam.html" class="title listing-title">Fatima Muhammad Adam</a>
 </td>
@@ -487,8 +559,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">N/A</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="23" data-listing-file-modified-sort="1690192352277" data-listing-reading-time-sort="1" data-listing-title-sort="Habila Akolo Alaku" data-listing-filename-sort="31.qmd">
+<tr data-index="23" data-listing-file-modified-sort="1690208587507" data-listing-reading-time-sort="1" data-listing-title-sort="Habila Akolo Alaku" data-listing-filename-sort="31.qmd">
 <td>
 <a href="./people/fellows/31.html" class="title listing-title">Habila Akolo Alaku</a>
 </td>
@@ -498,8 +573,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Nasarawa</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="24" data-listing-file-modified-sort="1690200184540" data-listing-reading-time-sort="1" data-listing-title-sort="Hamzah Mahmud" data-listing-filename-sort="hamzah_mahmud.qmd">
+<tr data-index="24" data-listing-file-modified-sort="1690209019798" data-listing-reading-time-sort="1" data-listing-title-sort="Hamzah Mahmud" data-listing-filename-sort="hamzah_mahmud.qmd">
 <td>
 <a href="./people/fellows/hamzah_mahmud.html" class="title listing-title">Hamzah Mahmud</a>
 </td>
@@ -509,8 +587,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kano</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="25" data-listing-file-modified-sort="1690192352279" data-listing-reading-time-sort="1" data-listing-title-sort="Hassan Adamu" data-listing-filename-sort="50.qmd">
+<tr data-index="25" data-listing-file-modified-sort="1690208635031" data-listing-reading-time-sort="1" data-listing-title-sort="Hassan Adamu" data-listing-filename-sort="50.qmd">
 <td>
 <a href="./people/fellows/50.html" class="title listing-title">Hassan Adamu</a>
 </td>
@@ -520,8 +601,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Jigawa</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="26" data-listing-file-modified-sort="1690200190075" data-listing-reading-time-sort="1" data-listing-title-sort="Hassan Muhammad Adam" data-listing-filename-sort="hassan_muhammad_adam.qmd">
+<tr data-index="26" data-listing-file-modified-sort="1690209024032" data-listing-reading-time-sort="1" data-listing-title-sort="Hassan Muhammad Adam" data-listing-filename-sort="hassan_muhammad_adam.qmd">
 <td>
 <a href="./people/fellows/hassan_muhammad_adam.html" class="title listing-title">Hassan Muhammad Adam</a>
 </td>
@@ -531,8 +615,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kano</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="27" data-listing-file-modified-sort="1690192352280" data-listing-reading-time-sort="1" data-listing-title-sort="Hassan Sani" data-listing-filename-sort="8.qmd">
+<tr data-index="27" data-listing-file-modified-sort="1690208542401" data-listing-reading-time-sort="1" data-listing-title-sort="Hassan Sani" data-listing-filename-sort="8.qmd">
 <td>
 <a href="./people/fellows/8.html" class="title listing-title">Hassan Sani</a>
 </td>
@@ -542,8 +629,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Zamfara</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="28" data-listing-file-modified-sort="1690200195530" data-listing-reading-time-sort="1" data-listing-title-sort="Ibrahim Sufiyanu" data-listing-filename-sort="ibrahim_sufiyanu.qmd">
+<tr data-index="28" data-listing-file-modified-sort="1690209028058" data-listing-reading-time-sort="1" data-listing-title-sort="Ibrahim Sufiyanu" data-listing-filename-sort="ibrahim_sufiyanu.qmd">
 <td>
 <a href="./people/fellows/ibrahim_sufiyanu.html" class="title listing-title">Ibrahim Sufiyanu</a>
 </td>
@@ -553,8 +643,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kano</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="29" data-listing-file-modified-sort="1690200201464" data-listing-reading-time-sort="1" data-listing-title-sort="Ishaq Hassan" data-listing-filename-sort="ishaq_hassan.qmd">
+<tr data-index="29" data-listing-file-modified-sort="1690209031790" data-listing-reading-time-sort="1" data-listing-title-sort="Ishaq Hassan" data-listing-filename-sort="ishaq_hassan.qmd">
 <td>
 <a href="./people/fellows/ishaq_hassan.html" class="title listing-title">Ishaq Hassan</a>
 </td>
@@ -564,8 +657,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kano</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="30" data-listing-file-modified-sort="1690192352279" data-listing-reading-time-sort="1" data-listing-title-sort="Ismaila Khamis" data-listing-filename-sort="45.qmd">
+<tr data-index="30" data-listing-file-modified-sort="1690208621086" data-listing-reading-time-sort="1" data-listing-title-sort="Ismaila Khamis" data-listing-filename-sort="45.qmd">
 <td>
 <a href="./people/fellows/45.html" class="title listing-title">Ismaila Khamis</a>
 </td>
@@ -575,8 +671,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Taraba</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="31" data-listing-file-modified-sort="1690192352275" data-listing-reading-time-sort="1" data-listing-title-sort="Joshua Samuel Baba" data-listing-filename-sort="2.qmd">
+<tr data-index="31" data-listing-file-modified-sort="1690208524816" data-listing-reading-time-sort="1" data-listing-title-sort="Joshua Samuel Baba" data-listing-filename-sort="2.qmd">
 <td>
 <a href="./people/fellows/2.html" class="title listing-title">Joshua Samuel Baba</a>
 </td>
@@ -586,8 +685,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kaduna</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="32" data-listing-file-modified-sort="1690200207433" data-listing-reading-time-sort="1" data-listing-title-sort="Lukman Aliyu Jibril" data-listing-filename-sort="lukman_aliyu_jibril.qmd">
+<tr data-index="32" data-listing-file-modified-sort="1690209036009" data-listing-reading-time-sort="1" data-listing-title-sort="Lukman Aliyu Jibril" data-listing-filename-sort="lukman_aliyu_jibril.qmd">
 <td>
 <a href="./people/fellows/lukman_aliyu_jibril.html" class="title listing-title">Lukman Aliyu Jibril</a>
 </td>
@@ -597,8 +699,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kaduna</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="33" data-listing-file-modified-sort="1690200213051" data-listing-reading-time-sort="1" data-listing-title-sort="Lurwanu Abdullahi" data-listing-filename-sort="abdullahi_lurwanu.qmd">
+<tr data-index="33" data-listing-file-modified-sort="1690208876850" data-listing-reading-time-sort="1" data-listing-title-sort="Lurwanu Abdullahi" data-listing-filename-sort="abdullahi_lurwanu.qmd">
 <td>
 <a href="./people/fellows/abdullahi_lurwanu.html" class="title listing-title">Lurwanu Abdullahi</a>
 </td>
@@ -608,8 +713,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Katsina</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="34" data-listing-file-modified-sort="1690192352278" data-listing-reading-time-sort="1" data-listing-title-sort="Mahmoud Said Ahmad" data-listing-filename-sort="41.qmd">
+<tr data-index="34" data-listing-file-modified-sort="1690208609607" data-listing-reading-time-sort="1" data-listing-title-sort="Mahmoud Said Ahmad" data-listing-filename-sort="41.qmd">
 <td>
 <a href="./people/fellows/41.html" class="title listing-title">Mahmoud Said Ahmad</a>
 </td>
@@ -619,8 +727,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Jigawa</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="35" data-listing-file-modified-sort="1690192352274" data-listing-reading-time-sort="1" data-listing-title-sort="Mahmud Hamzah" data-listing-filename-sort="15.qmd">
+<tr data-index="35" data-listing-file-modified-sort="1690208556279" data-listing-reading-time-sort="1" data-listing-title-sort="Mahmud Hamzah" data-listing-filename-sort="15.qmd">
 <td>
 <a href="./people/fellows/15.html" class="title listing-title">Mahmud Hamzah</a>
 </td>
@@ -630,8 +741,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Yobe</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="36" data-listing-file-modified-sort="1690200220890" data-listing-reading-time-sort="1" data-listing-title-sort="Mahmud Mahmud Ibrahim" data-listing-filename-sort="mahmud_mahmud_ibrahim.qmd">
+<tr data-index="36" data-listing-file-modified-sort="1690209044292" data-listing-reading-time-sort="1" data-listing-title-sort="Mahmud Mahmud Ibrahim" data-listing-filename-sort="mahmud_mahmud_ibrahim.qmd">
 <td>
 <a href="./people/fellows/mahmud_mahmud_ibrahim.html" class="title listing-title">Mahmud Mahmud Ibrahim</a>
 </td>
@@ -641,8 +755,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kano</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="37" data-listing-file-modified-sort="1690200226500" data-listing-reading-time-sort="1" data-listing-title-sort="Maryam Sabo Abubakar" data-listing-filename-sort="maryam_sabo_abubakar.qmd">
+<tr data-index="37" data-listing-file-modified-sort="1690209048598" data-listing-reading-time-sort="1" data-listing-title-sort="Maryam Sabo Abubakar" data-listing-filename-sort="maryam_sabo_abubakar.qmd">
 <td>
 <a href="./people/fellows/maryam_sabo_abubakar.html" class="title listing-title">Maryam Sabo Abubakar</a>
 </td>
@@ -652,8 +769,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Jigawa</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="38" data-listing-file-modified-sort="1690200231460" data-listing-reading-time-sort="1" data-listing-title-sort="Mohammed Nasiru" data-listing-filename-sort="mohammed_nasiru.qmd">
+<tr data-index="38" data-listing-file-modified-sort="1690209052403" data-listing-reading-time-sort="1" data-listing-title-sort="Mohammed Nasiru" data-listing-filename-sort="mohammed_nasiru.qmd">
 <td>
 <a href="./people/fellows/mohammed_nasiru.html" class="title listing-title">Mohammed Nasiru</a>
 </td>
@@ -663,8 +783,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kogi</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="39" data-listing-file-modified-sort="1690200237038" data-listing-reading-time-sort="1" data-listing-title-sort="Mubarak Daha Isa" data-listing-filename-sort="mubarak_daha_isa.qmd">
+<tr data-index="39" data-listing-file-modified-sort="1690209056191" data-listing-reading-time-sort="1" data-listing-title-sort="Mubarak Daha Isa" data-listing-filename-sort="mubarak_daha_isa.qmd">
 <td>
 <a href="./people/fellows/mubarak_daha_isa.html" class="title listing-title">Mubarak Daha Isa</a>
 </td>
@@ -674,8 +797,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kano</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="40" data-listing-file-modified-sort="1690200243143" data-listing-reading-time-sort="1" data-listing-title-sort="Muhammad Ibrahim Isah" data-listing-filename-sort="muhammad_ibrahim_isah.qmd">
+<tr data-index="40" data-listing-file-modified-sort="1690209060727" data-listing-reading-time-sort="1" data-listing-title-sort="Muhammad Ibrahim Isah" data-listing-filename-sort="muhammad_ibrahim_isah.qmd">
 <td>
 <a href="./people/fellows/muhammad_ibrahim_isah.html" class="title listing-title">Muhammad Ibrahim Isah</a>
 </td>
@@ -685,8 +811,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kano</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="41" data-listing-file-modified-sort="1690192352276" data-listing-reading-time-sort="1" data-listing-title-sort="Muhammed Kabila Musa" data-listing-filename-sort="25.qmd">
+<tr data-index="41" data-listing-file-modified-sort="1690208573684" data-listing-reading-time-sort="1" data-listing-title-sort="Muhammed Kabila Musa" data-listing-filename-sort="25.qmd">
 <td>
 <a href="./people/fellows/25.html" class="title listing-title">Muhammed Kabila Musa</a>
 </td>
@@ -696,8 +825,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Benue</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="42" data-listing-file-modified-sort="1690192352275" data-listing-reading-time-sort="1" data-listing-title-sort="Munzali Alhassan" data-listing-filename-sort="19.qmd">
+<tr data-index="42" data-listing-file-modified-sort="1690208564879" data-listing-reading-time-sort="1" data-listing-title-sort="Munzali Alhassan" data-listing-filename-sort="19.qmd">
 <td>
 <a href="./people/fellows/19.html" class="title listing-title">Munzali Alhassan</a>
 </td>
@@ -707,8 +839,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Jigawa</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="43" data-listing-file-modified-sort="1690192352277" data-listing-reading-time-sort="1" data-listing-title-sort="Musa Mohammed" data-listing-filename-sort="36.qmd">
+<tr data-index="43" data-listing-file-modified-sort="1690208601109" data-listing-reading-time-sort="1" data-listing-title-sort="Musa Mohammed" data-listing-filename-sort="36.qmd">
 <td>
 <a href="./people/fellows/36.html" class="title listing-title">Musa Mohammed</a>
 </td>
@@ -718,8 +853,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Yobe</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="44" data-listing-file-modified-sort="1690192352277" data-listing-reading-time-sort="1" data-listing-title-sort="Nur Bala Rabiu" data-listing-filename-sort="34.qmd">
+<tr data-index="44" data-listing-file-modified-sort="1690208592177" data-listing-reading-time-sort="1" data-listing-title-sort="Nur Bala Rabiu" data-listing-filename-sort="34.qmd">
 <td>
 <a href="./people/fellows/34.html" class="title listing-title">Nur Bala Rabiu</a>
 </td>
@@ -729,8 +867,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kano</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="45" data-listing-file-modified-sort="1690192352277" data-listing-reading-time-sort="1" data-listing-title-sort="Rahma Aliyu Yusuf" data-listing-filename-sort="35.qmd">
+<tr data-index="45" data-listing-file-modified-sort="1690208596574" data-listing-reading-time-sort="1" data-listing-title-sort="Rahma Aliyu Yusuf" data-listing-filename-sort="35.qmd">
 <td>
 <a href="./people/fellows/35.html" class="title listing-title">Rahma Aliyu Yusuf</a>
 </td>
@@ -740,8 +881,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kano</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="46" data-listing-file-modified-sort="1690200248661" data-listing-reading-time-sort="1" data-listing-title-sort="Rufa'i Ibrahim Dikko" data-listing-filename-sort="rufai_ibrahim_dikko.qmd">
+<tr data-index="46" data-listing-file-modified-sort="1690209064862" data-listing-reading-time-sort="1" data-listing-title-sort="Rufa'i Ibrahim Dikko" data-listing-filename-sort="rufai_ibrahim_dikko.qmd">
 <td>
 <a href="./people/fellows/rufai_ibrahim_dikko.html" class="title listing-title">Rufa’i Ibrahim Dikko</a>
 </td>
@@ -751,8 +895,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kaduna</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="47" data-listing-file-modified-sort="1690192352279" data-listing-reading-time-sort="1" data-listing-title-sort="Rufai Zakari Yusuf" data-listing-filename-sort="48.qmd">
+<tr data-index="47" data-listing-file-modified-sort="1690208630223" data-listing-reading-time-sort="1" data-listing-title-sort="Rufai Zakari Yusuf" data-listing-filename-sort="48.qmd">
 <td>
 <a href="./people/fellows/48.html" class="title listing-title">Rufai Zakari Yusuf</a>
 </td>
@@ -762,8 +909,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kano</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="48" data-listing-file-modified-sort="1690200253997" data-listing-reading-time-sort="1" data-listing-title-sort="Sani Umar Muhammad" data-listing-filename-sort="sani_umar_muhammad.qmd">
+<tr data-index="48" data-listing-file-modified-sort="1690209069509" data-listing-reading-time-sort="1" data-listing-title-sort="Sani Umar Muhammad" data-listing-filename-sort="sani_umar_muhammad.qmd">
 <td>
 <a href="./people/fellows/sani_umar_muhammad.html" class="title listing-title">Sani Umar Muhammad</a>
 </td>
@@ -773,8 +923,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Adamawa</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="49" data-listing-file-modified-sort="1690192352277" data-listing-reading-time-sort="1" data-listing-title-sort="Sufiyanu Ibrahim" data-listing-filename-sort="37.qmd">
+<tr data-index="49" data-listing-file-modified-sort="1690208605456" data-listing-reading-time-sort="1" data-listing-title-sort="Sufiyanu Ibrahim" data-listing-filename-sort="37.qmd">
 <td>
 <a href="./people/fellows/37.html" class="title listing-title">Sufiyanu Ibrahim</a>
 </td>
@@ -784,8 +937,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Katsina</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="50" data-listing-file-modified-sort="1690200259529" data-listing-reading-time-sort="1" data-listing-title-sort="Tanimu Abdullahi" data-listing-filename-sort="tanimu_abdullahi.qmd">
+<tr data-index="50" data-listing-file-modified-sort="1690209073876" data-listing-reading-time-sort="1" data-listing-title-sort="Tanimu Abdullahi" data-listing-filename-sort="tanimu_abdullahi.qmd">
 <td>
 <a href="./people/fellows/tanimu_abdullahi.html" class="title listing-title">Tanimu Abdullahi</a>
 </td>
@@ -795,8 +951,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Jigawa</span>
 </td>
+<td>
+<span class="listing-completed">✅</span>
+</td>
 </tr>
-<tr data-index="51" data-listing-file-modified-sort="1690192352279" data-listing-reading-time-sort="1" data-listing-title-sort="Umar Abdulkadir" data-listing-filename-sort="51.qmd">
+<tr data-index="51" data-listing-file-modified-sort="1690208639335" data-listing-reading-time-sort="1" data-listing-title-sort="Umar Abdulkadir" data-listing-filename-sort="51.qmd">
 <td>
 <a href="./people/fellows/51.html" class="title listing-title">Umar Abdulkadir</a>
 </td>
@@ -806,8 +965,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Katsina</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="52" data-listing-file-modified-sort="1690192352276" data-listing-reading-time-sort="1" data-listing-title-sort="Umar Sani Muhammad" data-listing-filename-sort="30.qmd">
+<tr data-index="52" data-listing-file-modified-sort="1690208583419" data-listing-reading-time-sort="1" data-listing-title-sort="Umar Sani Muhammad" data-listing-filename-sort="30.qmd">
 <td>
 <a href="./people/fellows/30.html" class="title listing-title">Umar Sani Muhammad</a>
 </td>
@@ -817,8 +979,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kano</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="53" data-listing-file-modified-sort="1690192352280" data-listing-reading-time-sort="1" data-listing-title-sort="Zahra'u Bello Baidu" data-listing-filename-sort="53.qmd">
+<tr data-index="53" data-listing-file-modified-sort="1690208643695" data-listing-reading-time-sort="1" data-listing-title-sort="Zahra'u Bello Baidu" data-listing-filename-sort="53.qmd">
 <td>
 <a href="./people/fellows/53.html" class="title listing-title">Zahra’u Bello Baidu</a>
 </td>
@@ -828,8 +993,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Kebbi</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="54" data-listing-file-modified-sort="1690192352279" data-listing-reading-time-sort="1" data-listing-title-sort="Zainab Abdulfattah" data-listing-filename-sort="5.qmd">
+<tr data-index="54" data-listing-file-modified-sort="1690208533610" data-listing-reading-time-sort="1" data-listing-title-sort="Zainab Abdulfattah" data-listing-filename-sort="5.qmd">
 <td>
 <a href="./people/fellows/5.html" class="title listing-title">Zainab Abdulfattah</a>
 </td>
@@ -839,8 +1007,11 @@ ul.task-list li input[type="checkbox"] {
 <td>
 <span class="listing-state">Gombe</span>
 </td>
+<td>
+<span class="listing-completed">❌</span>
+</td>
 </tr>
-<tr data-index="55" data-listing-file-modified-sort="1690192352278" data-listing-reading-time-sort="1" data-listing-title-sort="Zara'u Baidu" data-listing-filename-sort="42.qmd">
+<tr data-index="55" data-listing-file-modified-sort="1690208616339" data-listing-reading-time-sort="1" data-listing-title-sort="Zara'u Baidu" data-listing-filename-sort="42.qmd">
 <td>
 <a href="./people/fellows/42.html" class="title listing-title">Zara’u Baidu</a>
 </td>
@@ -849,6 +1020,9 @@ ul.task-list li input[type="checkbox"] {
 </td>
 <td>
 <span class="listing-state">Kebbi</span>
+</td>
+<td>
+<span class="listing-completed">❌</span>
 </td>
 </tr>
 </tbody>

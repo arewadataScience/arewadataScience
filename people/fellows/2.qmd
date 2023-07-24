@@ -3,6 +3,7 @@ title: "Joshua Samuel Baba"
 sortby: "Joshua Samuel Baba"
 subtitle: "International Association of Engineers"
 state: "Kaduna"
+completed: "❌"
 toc: false
 about:
   id: person-profile

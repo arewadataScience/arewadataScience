@@ -3,6 +3,7 @@ title: "Adamu Ibrahim"
 sortby: "Adamu, Ibrahim"
 subtitle: "Federal Fire Service"
 state: "Bauchi"
+completed: "❌"
 toc: false
 about:
   id: person-profile

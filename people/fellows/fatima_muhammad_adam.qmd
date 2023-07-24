@@ -3,6 +3,7 @@ title: "Fatima Muhammad Adam"
 sortby: "Fatima, Muhammad Adam"
 subtitle: "N/A"
 state: "N/A"
+completed: "✅"
 toc: false
 about:
   id: person-profile

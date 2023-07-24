@@ -3,6 +3,7 @@ title: "Al'amin Ahmad Muhammad"
 sortby: "Al'amin, Ahmad Muhammad"
 subtitle: "Alumni EquiTech Futures"
 state: "Kano"
+completed: "❌"
 toc: false
 about:
   id: person-profile

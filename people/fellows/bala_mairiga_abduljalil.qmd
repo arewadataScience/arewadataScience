@@ -3,6 +3,7 @@ title: "Bala Mairiga Abduljalil"
 sortby: "Bala, Mairiga Abduljalil"
 subtitle: "University Of Maiduguri"
 state: "Taraba"
+completed: "✅"
 toc: false
 about:
   id: person-profile

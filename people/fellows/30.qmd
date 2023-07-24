@@ -3,6 +3,7 @@ title: "Umar Sani Muhammad"
 sortby: "Umar, Sani Muhammadm"
 subtitle: "Self-employed"
 state: "Kano"
+completed: "❌"
 toc: false
 about:
   id: person-profile

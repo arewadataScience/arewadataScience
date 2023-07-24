@@ -3,6 +3,7 @@ title: "Lurwanu Abdullahi"
 sortby: "Lurwanu, Abdullahi"
 subtitle: "Self-employed"
 state: "Katsina"
+completed: "✅"
 toc: false
 about:
   id: person-profile

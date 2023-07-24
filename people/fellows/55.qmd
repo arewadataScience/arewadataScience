@@ -3,6 +3,7 @@ title: "Auwal Abdullahi"
 sortby: "Auwal, Abdullahi"
 subtitle: "Bayero University Kano"
 state: "Adamawa"
+completed: "❌"
 toc: false
 about:
   id: person-profile

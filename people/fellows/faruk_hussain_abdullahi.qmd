@@ -3,6 +3,7 @@ title: "Faruk Hussain Abdullahi"
 sortby: "Faruk, Hussain Abdullahi "
 subtitle: "Student"
 state: "Kano"
+completed: "✅"
 toc: false
 about:
   id: person-profile

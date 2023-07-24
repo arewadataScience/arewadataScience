@@ -3,6 +3,7 @@ title: "Alamin Musa Magaga"
 sortby: "Alamin, Musa Magaga"
 subtitle: "Student"
 state: "Kaduna"
+completed: "✅"
 toc: false
 about:
   id: person-profile

@@ -3,6 +3,7 @@ title: "Habila Akolo Alaku"
 sortby: "Habila, Akolo Alaku"
 subtitle: "Federal University Lafia"
 state: "Nasarawa"
+completed: "❌"
 toc: false
 about:
   id: person-profile

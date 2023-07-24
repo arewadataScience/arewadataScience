@@ -3,6 +3,7 @@ title: "Lukman Aliyu Jibril "
 sortby: "Lukman, Aliyu Jibril "
 subtitle: "Zipline, Nigeria. "
 state: "Kaduna"
+completed: "✅"
 toc: false
 about:
   id: person-profile

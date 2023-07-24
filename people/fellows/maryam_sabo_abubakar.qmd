@@ -3,6 +3,7 @@ title: "Maryam Sabo Abubakar "
 sortby: "Maryam Sabo Abubakar "
 subtitle: "Bayero University Kano"
 state: "Jigawa"
+completed: "✅"
 toc: false
 about:
   id: person-profile

@@ -3,6 +3,7 @@ title: "Musa Mohammed "
 sortby: "Musa, Mohammed "
 subtitle: "Abubakar Tafawa Balewa University, Bauchi"
 state: "Yobe"
+completed: "❌"
 toc: false
 about:
   id: person-profile

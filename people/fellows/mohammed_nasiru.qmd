@@ -3,6 +3,7 @@ title: "Mohammed Nasiru"
 sortby: "Mohammed, Nasiru"
 subtitle: "Ahmadu Bello University, Zaria"
 state: "Kogi"
+completed: "✅"
 toc: false
 about:
   id: person-profile

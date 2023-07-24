@@ -3,6 +3,7 @@ title: "Abdulrazak Auwal"
 sortby: "Abdulrazak, Auwal"
 subtitle: "Ahmadu Bello University, Zaria"
 state: "Bauchi"
+completed: "❌"
 toc: false
 about:
   id: person-profile
