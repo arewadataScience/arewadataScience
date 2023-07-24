@@ -28,7 +28,7 @@ listing:
    - id: Fellows
      contents: "people/fellows/*.qmd"
      type: table
-     sort: sortby
+     sort: completed
      fields: [title, subtitle, state, completed]
      sort-ui: [title, subtitle, state, completed]
      filter-ui: [title, subtitle, state, completed]
@@ -37,6 +37,7 @@ listing:
        subtitle: "Current or most previous institution"
        state: "States"
        completed: "🎓"
+     table-hover: true
 ---
 <!-- 
 ```{=html}
