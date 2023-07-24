@@ -34,7 +34,7 @@ include-in-header:
 
 
 ::: {.g-col-12}
-[Arewa Data Science Fellowship 2023]{.home-header} 
+[Arewa DataScience Fellowship 2023]{.home-header} 
 ::: 
 
 ::: {.g-col-12}

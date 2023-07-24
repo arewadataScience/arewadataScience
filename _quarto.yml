@@ -16,7 +16,7 @@ website:
   #image: images/logo.png
   navbar:
     #logo: ELLAKAYE-logo-light.png
-    title: "Arewa Data Science Academy"
+    title: "Arewa DataScience Academy"
     right:
       - text: about
         href: about.qmd
@@ -72,8 +72,7 @@ website:
         
   page-footer:
     border: true
-    left: "Published with [Quarto](https://quarto.org/) | Hosted by Github pages served by Github Action [{{< iconify simple-icons netlify >}}](https://www.netlify.com)"
-    right: "© 2023 [Arewa DataScience Academy](/about.html) [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+    center: "© 2023 [Arewa DataScience Academy](/about.html) [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
   
 format:
   html:
