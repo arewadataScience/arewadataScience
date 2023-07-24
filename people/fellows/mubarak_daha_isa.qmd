@@ -1,15 +1,13 @@
 ---
-title: "Tanimu Abdullahi"
-sortby: "Tanimu, Abdullahi"
-subtitle: "Civil Servant"
-state: "Jigawa"
+title: "Mubarak Daha Isa"
+sortby: "Mubarak, Daha Isa"
+subtitle: "Bridge Connect Africa Initiative"
+state: "Kano"
 toc: false
 about:
   id: person-profile
   template: jolla
 ---
-
-
 
 ```{=html}
 <nav aria-label="breadcrumb">
@@ -21,6 +19,12 @@ about:
   </ol>
 </nav>
 ```
+
+::: {.justify}
+
+## Achievement
+Completed and certificate issued.
+:::
 
  <!-- :::{#person-profile}
 ## Semesters

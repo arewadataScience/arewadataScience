@@ -1,6 +1,6 @@
 ---
-title: "Muhammad Ibrahim Isah"
-sortby: "Muhammad, Ibrahim Isah"
+title: "Babangida Sani"
+sortby: "Babangida, Sani"
 subtitle: "Bayero University Kano"
 state: "Kano"
 toc: false
@@ -19,6 +19,12 @@ about:
   </ol>
 </nav>
 ```
+
+::: {.justify}
+
+## Achievement
+Completed and certificate issued.
+:::
 
  <!-- :::{#person-profile}
 ## Semesters

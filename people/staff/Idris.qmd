@@ -1,5 +1,5 @@
 ---
-title: "Idris Abdulmunin"
+title: "Idris Abdulmumin"
 sortby: "3"
 subtitle: "Lecturer in CS/Posdoc Fellow"
 image: idris.jpg

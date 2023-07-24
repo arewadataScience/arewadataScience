@@ -1,7 +1,7 @@
 ---
-title: "Maryam Sabo Abubakar "
-sortby: "Maryam Sabo Abubakar "
-subtitle: "Bayero University Kano"
+title: "Tanimu Abdullahi"
+sortby: "Tanimu, Abdullahi"
+subtitle: "Civil Servant"
 state: "Jigawa"
 toc: false
 about:
@@ -21,6 +21,12 @@ about:
   </ol>
 </nav>
 ```
+
+::: {.justify}
+
+## Achievement
+Completed and certificate issued.
+:::
 
  <!-- :::{#person-profile}
 ## Semesters

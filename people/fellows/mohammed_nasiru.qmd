@@ -22,6 +22,12 @@ about:
 </nav>
 ```
 
+::: {.justify}
+
+## Achievement
+Completed and certificate issued.
+:::
+
  <!-- :::{#person-profile}
 ## Semesters
 #- Fall 2020, *Research Assistant*

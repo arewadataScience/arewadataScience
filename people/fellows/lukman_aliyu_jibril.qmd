@@ -1,8 +1,8 @@
 ---
-title: "Lurwanu Abdullahi"
-sortby: "Lurwanu, Abdullahi"
-subtitle: "Self-employed"
-state: "Katsina"
+title: "Lukman Aliyu Jibril "
+sortby: "Lukman, Aliyu Jibril "
+subtitle: "Zipline, Nigeria. "
+state: "Kaduna"
 toc: false
 about:
   id: person-profile
@@ -19,6 +19,12 @@ about:
   </ol>
 </nav>
 ```
+
+::: {.justify}
+
+## Achievement
+Completed and certificate issued.
+:::
 
  <!-- :::{#person-profile}
 ## Semesters

@@ -1,13 +1,16 @@
 ---
-title: "Ishaq Hassan"
-sortby: "Ishaq, Hassan"
-subtitle: "Bayero University Kano"
-state: "Kano"
+title: "Auwal Abubakar Khalid"
+sortby: "Auwal, Abubakar Khalid"
+subtitle: "Student"
+state: "Zamfara"
 toc: false
 about:
   id: person-profile
   template: jolla
 ---
+
+
+
 
 ```{=html}
 <nav aria-label="breadcrumb">
@@ -19,6 +22,12 @@ about:
   </ol>
 </nav>
 ```
+
+::: {.justify}
+
+## Achievement
+Completed and certificate issued.
+:::
 
  <!-- :::{#person-profile}
 ## Semesters

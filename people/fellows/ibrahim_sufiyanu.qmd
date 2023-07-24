@@ -1,6 +1,6 @@
 ---
-title: "Abdulkarim Muhammad Baba"
-sortby: "Abdulkarim, Muhammad Baba"
+title: "Ibrahim Sufiyanu"
+sortby: "Ibrahim, Sufiyanu"
 subtitle: "Self-employed"
 state: "Kano"
 toc: false
@@ -8,6 +8,8 @@ about:
   id: person-profile
   template: jolla
 ---
+
+
 
 ```{=html}
 <nav aria-label="breadcrumb">
@@ -19,6 +21,12 @@ about:
   </ol>
 </nav>
 ```
+
+::: {.justify}
+
+## Achievement
+Completed and certificate issued.
+:::
 
  <!-- :::{#person-profile}
 ## Semesters
