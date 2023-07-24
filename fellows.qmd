@@ -36,7 +36,7 @@ listing:
        title: "Name"
        subtitle: "Current or most previous institution"
        state: "States"
-       completed: "Completed"
+       completed: "🎓"
 ---
 <!-- 
 ```{=html}
