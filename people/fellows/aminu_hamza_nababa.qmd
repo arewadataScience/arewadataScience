@@ -2,7 +2,7 @@
 title: "Aminu Hamza Nababa"
 sortby: "Aminu, Hamza Nababa"
 subtitle: "N/A"
-state: "N/A"
+state: "Kano"
 completed: "✅"
 toc: false
 about:

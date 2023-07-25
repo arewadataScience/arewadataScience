@@ -2,7 +2,7 @@
 title: "Fatima Muhammad Adam"
 sortby: "Fatima, Muhammad Adam"
 subtitle: "N/A"
-state: "N/A"
+state: "Jigawa"
 completed: "✅"
 toc: false
 about:
