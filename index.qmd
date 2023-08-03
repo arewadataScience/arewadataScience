@@ -38,7 +38,7 @@ include-in-header:
 ::: 
 
 ::: {.g-col-12}
-![](/images/arewads-hausanlp-vertical.png){.profile-pic fig-align="center" width="100%"}
+![](/images/arewads-hausanlp.png){.profile-pic fig-align="center" width="60%"}
 
 :::
 
