@@ -34,7 +34,7 @@ include-in-header:
 
 
 ::: {.g-col-12}
-[Free Data Science and ML Fellowship]{.home-header} 
+[Free Data Science Fellowship]{.home-header} 
 ::: 
 
 ::: {.g-col-12}
