@@ -30,6 +30,7 @@ include-in-header:
   - _includes/mastodon.html
 
 listing: 
+  contents: posts
   feed: true
 ---
 
