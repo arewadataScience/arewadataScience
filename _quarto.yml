@@ -11,6 +11,8 @@ execute:
 website:
   title: "ArewaDS FellowShip"
   site-url: "https://arewadatascience.github.io"
+  description: "Democratizing data science for everyone and free"
+  margin-header: subscribe.html
   repo-url: https://github.com/arewadataScience/arewadatascience
   comments: 
     utterances:
@@ -39,6 +41,8 @@ website:
         href: contact.qmd
       - icon: github
         href: https://github.com/arewadataScience
+      - icon: rss
+        href: index.xml
       #- icon: twitter
       #  href: https://twitter.com/ellamkaye
   #favicon: images/logo.png
