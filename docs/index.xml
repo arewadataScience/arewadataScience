@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>ArewaDS FellowShip</title>
+<link>https://arewadatascience.github.io/index.html</link>
+<atom:link href="https://arewadatascience.github.io/index.xml" rel="self" type="application/rss+xml"/>
+<description>Democratizing data science for everyone and free</description>
+<generator>quarto-1.3.361</generator>
+<lastBuildDate>Sun, 09 Jul 2023 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Arewa Data Science Team Wins Competition</title>
+  <dc:creator>Lukman Aliyu Jibril</dc:creator>
+  <link>https://arewadatascience.github.io/posts/CohereAI/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="cell">
+<style type="text/css">
+.justify {
+  text-align: justify !important
+}
+</style>
+</div>
+<div class="justify">
+<p>ArewaDS-LMBF, a team from the Arewa Data Science Fellowship, achieved an impressive feat on May 13th, 2023, by securing second place in the Cohere AI hackathon. Organized by Cohere and AI Saturdays Lagos, the hackathon centered around the theme “Empower your creativity with Cohere’s Multilingual Embeddings” and was hosted on devpost. The event spanned from May 1st to May 7th, 2023, with participants gathering at multiple locations across the continent, including the enthusiastic Arewa Data Science Academy community.</p>
+<p>The teams representing ArewaDS showcased their expertise in machine learning, particularly in large language models, as they presented their innovative projects utilizing the <a href="https://docs.cohere.com/docs/multilingual-language-models">Cohere multilingual embeddings API</a>. Among the submissions, ArewaDS-LMBF proposed an exceptional solution that utilised the multilingual embeddings API to align Hausa sentences with their potential translations in English. This approach aimed to contribute to the creation of accurate parallel datasets for machine translation. Their outstanding submission propelled them to the finals, securing them a well-deserved second place in the overall rankings.</p>
+<p>Lukman, the team lead of ArewaDS-LMBF, expressed his overwhelming delight at this historic achievement. He remarked, “Starting from scratch in machine learning and winning an AI hackathon within a few months of joining the fellowship is truly incredible. The unwavering support of the mentors in Arewa Data Science Academy played a pivotal role in this accomplishment. They ensured equal opportunities for all fellows and guided us to the right resources. I am immensely grateful for this invaluable experience.”</p>
+<p>As a reward for their outstanding performance, the team was granted a prize of 800 US Dollars, along with 2000 Cohere API credits, to be shared among the five team members. Looking ahead, the team revealed their plans to further enhance their solution while harnessing the cohere platform to deepen their understanding of Natural Language Processing and Large Language Models. Their commitment to continuous improvement and exploration exemplifies their dedication to excellence.</p>
+<p>This accomplishment offers a mere glimpse into the transformative impact that the Arewa Data Science Fellowship has had on the lives of its young fellows within a short span of time. The Arewa Data Science Fellowship stands as an intensive program designed to nurture the next generation of research-oriented data scientists. Through its mentorship, monthly stipends, and provision of data, the fellowship equips aspiring data scientists with the necessary tools to thrive in their field. For more information about the fellowship, please visit our website.</p>
+</div>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <category>ArewaDS</category>
+  <category>Fellow</category>
+  <guid>https://arewadatascience.github.io/posts/CohereAI/index.html</guid>
+  <pubDate>Sun, 09 Jul 2023 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Arewa Data Science Successful Applicants</title>
+  <dc:creator>Shamsuddeen Muhammad</dc:creator>
+  <link>https://arewadatascience.github.io/posts/announcement/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="cell">
+<style type="text/css">
+.justify {
+  text-align: justify !important
+}
+</style>
+</div>
+<section id="fellowship-successful-applicants" class="level1 justify">
+<h1>Fellowship Successful Applicants</h1>
+<p>We are thrilled to announce the selection of the first cohort of exceptional applicants for the Arewa Data Science Fellowship program. These individuals have shown exceptional aptitude and passion for data science, and we are confident that they will make significant contributions to the program and to the field of data science as a whole.</p>
+<p>The selection process was highly competitive, and we received a large number of excellent applications. We would like to extend our congratulations to all of the successful applicants and we look forward to working with them in the upcoming program.</p>
+<p>We are excited to see the impact that this program will have on the data science community and on the career development of these individuals. This fellowship program is a great step towards creating a more inclusive data science community in Nigeria.</p>
+<p>The full list of the successful applicants is available <a href="https://arewadatascience.github.io/fellows.html">here</a>.</p>
+<p>In addition to the exceptional training and mentorship they will receive through the Arewa Data Science Fellowship program, successful applicants will also receive a generous monthly stipend and free internet data to ensure they have access to the resources they need to be successful in the program.</p>
+<p>Thank you to everyone who applied and we hope to see you again in the next cohort.</p>
+</section>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <category>ArewaDS</category>
+  <category>Mentor</category>
+  <guid>https://arewadatascience.github.io/posts/announcement/index.html</guid>
+  <pubDate>Tue, 10 Jan 2023 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Arewa Data Science Fellowship</title>
+  <dc:creator>Shamsuddeen Muhammad</dc:creator>
+  <link>https://arewadatascience.github.io/posts/application/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="cell">
+<style type="text/css">
+.justify {
+  text-align: justify !important
+}
+</style>
+</div>
+<section id="arewads-application-is-open" class="level1 justify">
+<h1 class="justify">ArewaDS Application is Open :::</h1>
+<p>The Arewa Data Science Fellowship application is open. The Arewa Data Science fellowship (ADSF) provides an opportunity to learn from data scientists and machine learning experts. The fellowship is a 16-week-long free training that provides a hands-on approach to data science, machine learning and deep learning.</p>
+<p>The skills and knowledge acquired during the fellowship will help participants pursue careers in data science, machine learning and research. Our goal is to inspire the next generation of researchers in the North and provide them with the tools they need to be successful. The ADSF fellowship provides support with a monthly stipend during the program.</p>
+<p>Applications will be judged based on the strength of the motivation of the applicant, academic record, and scholarly potential.</p>
+<p>Application is now closed !</p>
+</section>
+
+
+
+ ]]></description>
+  <category>News</category>
+  <category>ArewaDS</category>
+  <category>Mentor</category>
+  <guid>https://arewadatascience.github.io/posts/application/index.html</guid>
+  <pubDate>Sat, 31 Dec 2022 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>404: Page not found</title>
+  <link>https://arewadatascience.github.io/404.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>The page you requested cannot be found (perhaps it was moved or renamed).</p>
+<p>You can look through the listings pages for <a href="/./posts.html">posts</a>, <a href="/./talks.html">talks</a> and <a href="/./packages.html">packages</a> to see if you can find it.</p>
+<p>Alternatively, you can use the search in the navigation bar to look for what you’re after.</p>
+<p>Or head to the <a href="/./contact.html">contact</a> page for ways to get in touch with me if you think what you were looking for should be here.</p>
+
+
+
+ ]]></description>
+  <guid>https://arewadatascience.github.io/404.html</guid>
+  <pubDate>Sun, 06 Aug 2023 12:59:38 GMT</pubDate>
+</item>
+<item>
+  <title>Abdulkadir Abubakar Abubakar</title>
+  <link>https://arewadatascience.github.io/people/fellows-2/1.html</link>
+  <description><![CDATA[ 
+
+<p><!-- :::{#person-profile}
+## Semesters
+#- Fall 2020, *Research Assistant*
+- Spring 2021, *Research Assistant*
+## Education
+**University of Kansas** | Lawrence, KS, USA<br />
+Psychology Major
+::: --></p>
+
+
+ ]]></description>
+  <guid>https://arewadatascience.github.io/people/fellows-2/1.html</guid>
+  <pubDate>Sun, 06 Aug 2023 12:59:38 GMT</pubDate>
+</item>
+<item>
+  <title>Abdulkadir Abubakar Abubakar</title>
+  <link>https://arewadatascience.github.io/people/fellows/1.html</link>
+  <description><![CDATA[ 
+
+<p><!-- :::{#person-profile}
+## Semesters
+#- Fall 2020, *Research Assistant*
+- Spring 2021, *Research Assistant*
+## Education
+**University of Kansas** | Lawrence, KS, USA<br />
+Psychology Major
+::: --></p>
+
+
+ ]]></description>
+  <guid>https://arewadatascience.github.io/people/fellows/1.html</guid>
+  <pubDate>Sun, 06 Aug 2023 12:59:38 GMT</pubDate>
+</item>
+<item>
+  <title>Abdulkarim Muhammad Baba</title>
+  <link>https://arewadatascience.github.io/people/fellows/abdulkarim_muhammad_baba.html</link>
+  <description><![CDATA[ 
+
+
+
+<div class="cell">
+<style type="text/css">
+.justify {
+  text-align: justify !important
+}
+</style>
+</div>
+
+<div class="quarto-about-jolla">
+ <div id="person-profile">
+</div>  
+</div>
+
+<section id="achievement" class="level2 justify">
+<h2 data-anchor-id="achievement">Achievement</h2>
+<p>Completed and certificate issued.</p>
+</section>
+
+
+
+
+ ]]></description>
+  <guid>https://arewadatascience.github.io/people/fellows/abdulkarim_muhammad_baba.html</guid>
+  <pubDate>Sun, 06 Aug 2023 12:59:38 GMT</pubDate>
+</item>
+<item>
+  <title>Abdulrahaman Yusuf</title>
+  <link>https://arewadatascience.github.io/people/fellows/abdulrahaman_yusuf.html</link>
+  <description><![CDATA[ 
+
+
+
+<div class="cell">
+<style type="text/css">
+.justify {
+  text-align: justify !important
+}
+</style>
+</div>
+
+<div class="quarto-about-jolla">
+ <div id="person-profile">
+</div>  
+</div>
+
+<section id="achievement" class="level2 justify">
+<h2 data-anchor-id="achievement">Achievement</h2>
+<p>Completed and certificate issued.</p>
+</section>
+
+
+
+
+ ]]></description>
+  <guid>https://arewadatascience.github.io/people/fellows/abdulrahaman_yusuf.html</guid>
+  <pubDate>Sun, 06 Aug 2023 12:59:38 GMT</pubDate>
+</item>
+<item>
+  <title>Abdulrazak Auwal</title>
+  <link>https://arewadatascience.github.io/people/fellows/7.html</link>
+  <description><![CDATA[ 
+
+<p><!-- :::{#person-profile}
+## Semesters
+#- Fall 2020, *Research Assistant*
+- Spring 2021, *Research Assistant*
+## Education
+**University of Kansas** | Lawrence, KS, USA<br />
+Psychology Major
+::: --></p>
+
+
+ ]]></description>
+  <guid>https://arewadatascience.github.io/people/fellows/7.html</guid>
+  <pubDate>Sun, 06 Aug 2023 12:59:38 GMT</pubDate>
+</item>
+<item>
+  <title>Abubakar Aliyu</title>
+  <link>https://arewadatascience.github.io/people/fellows/aliyu_abubakar.html</link>
+  <description><![CDATA[ 
+
+
+
+<div class="cell">
+<style type="text/css">
+.justify {
+  text-align: justify !important
+}
+</style>
+</div>
+
+<div class="quarto-about-jolla">
+ <div id="person-profile">
+</div>  
+</div>
+
+<section id="achievement" class="level2 justify">
+<h2 data-anchor-id="achievement">Achievement</h2>
+<p>Completed and certificate issued.</p>
+</section>
+
+
+
+
+ ]]></description>
+  <guid>https://arewadatascience.github.io/people/fellows/aliyu_abubakar.html</guid>
+  <pubDate>Sun, 06 Aug 2023 12:59:38 GMT</pubDate>
+</item>
+<item>
+  <title>Abubakar Bala</title>
+  <link>https://arewadatascience.github.io/people/staff/abubakar.html</link>
+  <description><![CDATA[ 
+
+
+
+<div class="cell">
+<style type="text/css">
+.justify {
+  text-align: justify !important
+}
+</style>
+</div>
+
+<div class="quarto-about-jolla">
+  <img src="https://arewadatascience.github.io/people/staff/abubakar.jpeg" class="about-image
+  round " style="height: 15em; width: 15em;">
+ <div id="person-profile">
+</div> 
+  <hr class="about-sep">
+   <div class="about-links">
+  <a href="https://scholar.google.com/citations?hl=en&amp;user=Xd63vWQAAAAJ" class="about-link" rel="" target="">
+    <i class="bi bi-mortarboard"></i>
+     <span class="about-link-text">scholar</span>
+  </a>
+  <a href="https://github.com/bala-221" class="about-link" rel="" target="">
+    <i class="bi bi-github"></i>
+     <span class="about-link-text">github</span>
+  </a>
+  <a href="https://twitter.com/abubakarbala2" class="about-link" rel="" target="">
+    <i class="bi bi-twitter"></i>
+     <span class="about-link-text">twitter</span>
+  </a>
+  <a href="https://www.linkedin.com/in/abubakar-bala/" class="about-link" rel="" target="">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">linkedin</span>
+  </a>
+</div>
+</div>
+
+<section id="biography" class="level2 justify">
+<h2 data-anchor-id="biography">Biography</h2>
+<p>Just finished a PhD on using AI to detect faults in the engines of aircrafts.</p>
+<p>Now I am focused on building end-end machine learning applications (MLOps)</p>
+<p>I also do public speaking and write thought-provoking stories.</p>
+</section>
+
+
+
+
+ ]]></description>
+  <guid>https://arewadatascience.github.io/people/staff/abubakar.html</guid>
+  <pubDate>Sun, 06 Aug 2023 12:59:38 GMT</pubDate>
+  <media:content url="https://arewadatascience.github.io/people/staff/abubakar.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Abubakar Labaran Salisu</title>
+  <link>https://arewadatascience.github.io/people/fellows/abubakar_labaran_salisu.html</link>
+  <description><![CDATA[ 
+
+
+
+<div class="cell">
+<style type="text/css">
+.justify {
+  text-align: justify !important
+}
+</style>
+</div>
+
+<div class="quarto-about-jolla">
+ <div id="person-profile">
+</div>  
+</div>
+
+<section id="achievement" class="level2 justify">
+<h2 data-anchor-id="achievement">Achievement</h2>
+<p>Completed and certificate issued.</p>
+</section>
+
+
+
+
+ ]]></description>
+  <guid>https://arewadatascience.github.io/people/fellows/abubakar_labaran_salisu.html</guid>
+  <pubDate>Sun, 06 Aug 2023 12:59:38 GMT</pubDate>
+</item>
+<item>
+  <title>Abubakar Mahmud</title>
+  <link>https://arewadatascience.github.io/people/fellows/46.html</link>
+  <description><![CDATA[ 
+
+<p><!-- :::{#person-profile}
+## Semesters
+#- Fall 2020, *Research Assistant*
+- Spring 2021, *Research Assistant*
+## Education
+**University of Kansas** | Lawrence, KS, USA<br />
+Psychology Major
+::: --></p>
+
+
+ ]]></description>
+  <guid>https://arewadatascience.github.io/people/fellows/46.html</guid>
+  <pubDate>Sun, 06 Aug 2023 12:59:38 GMT</pubDate>
+</item>
+<item>
+  <title>Adamu Ibrahim</title>
+  <link>https://arewadatascience.github.io/people/fellows/11.html</link>
+  <description><![CDATA[ 
+
+<p><!-- :::{#person-profile}
+## Semesters
+#- Fall 2020, *Research Assistant*
+- Spring 2021, *Research Assistant*
+## Education
+**University of Kansas** | Lawrence, KS, USA<br />
+Psychology Major
+::: --></p>
+
+
+ ]]></description>
+  <guid>https://arewadatascience.github.io/people/fellows/11.html</guid>
+  <pubDate>Sun, 06 Aug 2023 12:59:38 GMT</pubDate>
+</item>
+<item>
+  <title>Ahmed Danjuma Haruna</title>
+  <link>https://arewadatascience.github.io/people/fellows/17.html</link>
+  <description><![CDATA[ 
+
+<p><!-- :::{#person-profile}
+## Semesters
+#- Fall 2020, *Research Assistant*
+- Spring 2021, *Research Assistant*
+## Education
+**University of Kansas** | Lawrence, KS, USA<br />
+Psychology Major
+::: --></p>
+
+
+ ]]></description>
+  <guid>https://arewadatascience.github.io/people/fellows/17.html</guid>
+  <pubDate>Sun, 06 Aug 2023 12:59:38 GMT</pubDate>
+</item>
+<item>
+  <title>Al’amin Ahmad Muhammad</title>
+  <link>https://arewadatascience.github.io/people/fellows/29.html</link>
+  <description><![CDATA[ 
+
+<p><!-- :::{#person-profile}
+## Semesters
+#- Fall 2020, *Research Assistant*
+- Spring 2021, *Research Assistant*
+## Education
+**University of Kansas** | Lawrence, KS, USA<br />
+Psychology Major
+::: --></p>
+
+
+ ]]></description>
+  <guid>https://arewadatascience.github.io/people/fellows/29.html</guid>
+  <pubDate>Sun, 06 Aug 2023 12:59:38 GMT</pubDate>
+</item>
+<item>
+  <title>Alamin Musa Magaga</title>
+  <link>https://arewadatascience.github.io/people/fellows/alamin_musa_magaga.html</link>
+  <description><![CDATA[ 
+
+
+
+<div class="cell">
+<style type="text/css">
+.justify {
+  text-align: justify !important
+}
+</style>
+</div>
+
+<div class="quarto-about-jolla">
+ <div id="person-profile">
+</div>  
+</div>
+
+<section id="achievement" class="level2 justify">
+<h2 data-anchor-id="achievement">Achievement</h2>
+<p>Completed and certificate issued.</p>
+</section>
+
+
+
+
+ ]]></description>
+  <guid>https://arewadatascience.github.io/people/fellows/alamin_musa_magaga.html</guid>
+  <pubDate>Sun, 06 Aug 2023 12:59:38 GMT</pubDate>
+</item>
+<item>
+  <title>Alhussain Abdullahi</title>
+  <link>https://arewadatascience.github.io/people/fellows/20.html</link>
+  <description><![CDATA[ 
+
+<p><!-- :::{#person-profile}
+## Semesters
+#- Fall 2020, *Research Assistant*
+- Spring 2021, *Research Assistant*
+## Education
+**University of Kansas** | Lawrence, KS, USA<br />
+Psychology Major
+::: --></p>
+
+
+ ]]></description>
+  <guid>https://arewadatascience.github.io/people/fellows/20.html</guid>
+  <pubDate>Sun, 06 Aug 2023 12:59:38 GMT</pubDate>
+</item>
+<item>
+  <title>Almustapha A. Wakili</title>
+  <link>https://arewadatascience.github.io/people/staff/almustapha.html</link>
+  <description><![CDATA[ 
+
+
+
+<div class="cell">
+<style type="text/css">
+.justify {
+  text-align: justify !important
+}
+</style>
+</div>
+
+<div class="quarto-about-jolla">
+  <img src="https://arewadatascience.github.io/people/staff/almustapha.jpeg" class="about-image
+  round " style="height: 15em; width: 15em;">
+ <div id="person-profile">
+</div> 
+  <hr class="about-sep">
+   <div class="about-links">
+  <a href="https://mobile.twitter.com/binwakili" class="about-link" rel="" target="">
+    <i class="bi bi-twitter"></i>
+     <span class="about-link-text">twitter</span>
+  </a>
+  <a href="https://www.linkedin.com/in/binwakeel" class="about-link" rel="" target="">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">linkedin</span>
+  </a>
+</div>
+</div>
+
+<section id="biography" class="level2">
+<h2 data-anchor-id="biography">Biography</h2>
+<p>.</p>
+
+
+
+</section>
+
+ ]]></description>
+  <guid>https://arewadatascience.github.io/people/staff/almustapha.html</guid>
+  <pubDate>Sun, 06 Aug 2023 12:59:38 GMT</pubDate>
+  <media:content url="https://arewadatascience.github.io/people/staff/almustapha.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Aminu Hamza Nababa</title>
+  <link>https://arewadatascience.github.io/people/fellows/aminu_hamza_nababa.html</link>
+  <description><![CDATA[ 
+
+
+
+<div class="cell">
+<style type="text/css">
+.justify {
+  text-align: justify !important
+}
+</style>
+</div>
+
+<div class="quarto-about-jolla">
+ <div id="person-profile">
+</div>  
+</div>
+
+<section id="achievement" class="level2 justify">
+<h2 data-anchor-id="achievement">Achievement</h2>
+<p>Completed and certificate issued.</p>
+</section>
+
+
+
+
+ ]]></description>
+  <guid>https://arewadatascience.github.io/people/fellows/aminu_hamza_nababa.html</guid>
+  <pubDate>Sun, 06 Aug 2023 12:59:38 GMT</pubDate>
+</item>
+</channel>
+</rss>
