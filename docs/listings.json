@@ -72,9 +72,10 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/application/index.html",
+      "/posts/arewads-impact/index.html",
+      "/posts/CohereAI/index.html",
       "/posts/announcement/index.html",
-      "/posts/CohereAI/index.html"
+      "/posts/application/index.html"
     ]
   },
   {
@@ -99,6 +100,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/arewads-impact/index.html",
       "/posts/CohereAI/index.html",
       "/posts/announcement/index.html",
       "/posts/application/index.html"
