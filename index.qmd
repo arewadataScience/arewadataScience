@@ -28,11 +28,6 @@ page-layout: full
 include-in-header: 
   - _includes/fontawesome-2up.html
   - _includes/mastodon.html
-
-listing: 
-  contents: posts
-  sort: "date desc"
-  feed: true
 ---
 
 ::: {.grid}
@@ -159,3 +154,4 @@ redirects <- c(distill_redirects,
 # write the _redirect file
 writeLines(redirects, here::here("_site", "_redirects"))
 ```
+
