@@ -12,6 +12,9 @@ website:
   title: "ArewaDS FellowShip"
   site-url: "https://arewadatascience.github.io"
   repo-url: https://github.com/arewadataScience/arewadatascience
+  comments: 
+    utterances:
+      repo: arewadataScience/arewadatascience.github.io
   #repo-actions: issue
   #image: images/logo.png
   navbar:

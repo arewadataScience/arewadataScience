@@ -34,3 +34,7 @@ execute:
   
 include-in-header: ../_includes/giscus.html
 include-after-body: ../_includes/div-giscus.html
+
+comments: 
+    utterances:
+      repo: arewadataScience/arewadatascience.github.io
