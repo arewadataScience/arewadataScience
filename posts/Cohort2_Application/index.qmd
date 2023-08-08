@@ -42,7 +42,7 @@ editor:
 ```
 
 ::: justify
-# Application is now Open  {.justify}
+# Application is now Open {.justify}
 
 Are you passionate about the power of data and its potential to drive positive change in society?
 Are you eager to enhance your data science skills and make a significant impact in your community?

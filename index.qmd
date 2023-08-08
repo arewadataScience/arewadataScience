@@ -38,9 +38,11 @@ include-in-header:
 ::: 
 
 ::: {.g-col-12}
-<span style="color: blue;">
-Fellowship Application for Second Cohort is open - Apply <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYJBERpEM7bkO3aI8SG0CuJuKNedKfxP6crQeyh555pU4Lhg/viewform" style="color: blue;">here</a>!</span>
-::: 
+
+
+- <span style="color: blue;">For Data Science and Machine Learning, Apply <a href="https://docs.google.com/forms/d/e/1FAIpQLSfYJBERpEM7bkO3aI8SG0CuJuKNedKfxP6crQeyh555pU4Lhg/viewform" style="color: blue;">here</a>!</span>
+- <span style="color: blue;">For Deep Learning, Apply <a href="https://docs.google.com/forms/d/e/1FAIpQLSdh9XpS17y2K3BOXoBXEbNmYHo-9rfRCY2PFq1UsimEoc32hQ/viewform" style="color: blue;">here</a>!</span>
+:::
 
 ::: {.g-col-12}
 ![](/images/arewads-hausanlp-vertical.png){.profile-pic fig-align="center" width="70%"}
