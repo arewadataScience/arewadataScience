@@ -14,6 +14,7 @@ website:
   description: "Democratizing data science for everyone and free"
   margin-header: subscribe.html
   repo-url: https://github.com/arewadataScience/arewadatascience
+  google-analytics: "G-M701ZTGPSE"
   #repo-actions: issue
   #image: images/logo.png
   navbar:
