@@ -1,22 +1,10 @@
 [
   {
-    "listing": "/packages.html",
-    "items": []
-  },
-  {
-    "listing": "/mentors.html",
+    "listing": "/fellows-2.html",
     "items": [
-      "/people/staff/ibrahim.html",
-      "/people/staff/mustapha.html",
-      "/people/staff/shamsu.html",
-      "/people/staff/Idris.html",
-      "/people/staff/Saminu.html",
-      "/people/staff/almustapha.html",
-      "/people/staff/lukman.html",
-      "/people/staff/bashir.html",
-      "/people/staff/abubakar.html",
-      "/people/staff/fauziyya.html",
-      "/people/staff/kabila.html"
+      "/people/fellows-2/1.html",
+      "/people/fellows-2/4.html",
+      "/people/fellows-2/2.html"
     ]
   },
   {
@@ -82,16 +70,24 @@
     ]
   },
   {
-    "listing": "/talks.html",
-    "items": []
+    "listing": "/mentors.html",
+    "items": [
+      "/people/staff/ibrahim.html",
+      "/people/staff/mustapha.html",
+      "/people/staff/shamsu.html",
+      "/people/staff/Idris.html",
+      "/people/staff/Saminu.html",
+      "/people/staff/almustapha.html",
+      "/people/staff/lukman.html",
+      "/people/staff/bashir.html",
+      "/people/staff/abubakar.html",
+      "/people/staff/fauziyya.html",
+      "/people/staff/kabila.html"
+    ]
   },
   {
-    "listing": "/fellows-2.html",
-    "items": [
-      "/people/fellows-2/1.html",
-      "/people/fellows-2/4.html",
-      "/people/fellows-2/2.html"
-    ]
+    "listing": "/packages.html",
+    "items": []
   },
   {
     "listing": "/posts.html",
@@ -102,5 +98,9 @@
       "/posts/announcement/index.html",
       "/posts/application/index.html"
     ]
+  },
+  {
+    "listing": "/talks.html",
+    "items": []
   }
 ]
