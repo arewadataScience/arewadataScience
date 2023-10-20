@@ -14,8 +14,7 @@ website:
   description: "Democratizing data science for everyone and free"
   margin-header: subscribe.html
   repo-url: https://github.com/arewadataScience/arewadatascience
-  google-analytics: "G
-  -M701ZTGPSE"
+  google-analytics: "G-M701ZTGPSE"
   #repo-actions: issue
   #image: images/logo.png
   navbar:
@@ -28,14 +27,10 @@ website:
         href: posts.qmd
       - text: Fellows
         menu:
-          - text: Machine Learning
-            - text: Cohort 1
-              href: fellows.qmd
-            - text: Cohort 2
-              href: fellows-2.qmd
-          - text: Deep Learning with PyTorch
-            - text: Cohort 1
-              href: fellows-3.qmd
+          - text: Cohort 1
+            href: fellows.qmd
+          - text: Cohort 2
+            href: fellows-2.qmd
       - text: Mentors
         href: mentors.qmd
       - text: Projects
