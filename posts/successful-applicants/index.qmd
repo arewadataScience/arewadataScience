@@ -41,8 +41,7 @@ engine: knitr
 
 ::: {.justify}
 
-# Announcing the Arewa Data Science Fellowship Cohort Selections
- ::: {.justify}
+# Announcing the Arewa Data Science Fellowship Cohort Selections {.justify}
 
 
 ## Second Cohort of Machine Learning Fellowship
