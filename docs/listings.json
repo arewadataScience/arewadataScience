@@ -8,6 +8,37 @@
     ]
   },
   {
+    "listing": "/packages.html",
+    "items": []
+  },
+  {
+    "listing": "/mentors.html",
+    "items": [
+      "/people/staff/ibrahim.html",
+      "/people/staff/mustapha.html",
+      "/people/staff/shamsu.html",
+      "/people/staff/Idris.html",
+      "/people/staff/Saminu.html",
+      "/people/staff/almustapha.html",
+      "/people/staff/lukman.html",
+      "/people/staff/bashir.html",
+      "/people/staff/abubakar.html",
+      "/people/staff/fauziyya.html",
+      "/people/staff/kabila.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/successful-applicants/index.html",
+      "/posts/Cohort2_Application/index.html",
+      "/posts/arewads-impact/index.html",
+      "/posts/CohereAI/index.html",
+      "/posts/announcement/index.html",
+      "/posts/application/index.html"
+    ]
+  },
+  {
     "listing": "/fellows.html",
     "items": [
       "/people/fellows/abdulkarim_muhammad_baba.html",
@@ -68,40 +99,5 @@
       "/people/fellows/7.html",
       "/people/fellows/8.html"
     ]
-  },
-  {
-    "listing": "/mentors.html",
-    "items": [
-      "/people/staff/ibrahim.html",
-      "/people/staff/mustapha.html",
-      "/people/staff/shamsu.html",
-      "/people/staff/Idris.html",
-      "/people/staff/Saminu.html",
-      "/people/staff/almustapha.html",
-      "/people/staff/lukman.html",
-      "/people/staff/bashir.html",
-      "/people/staff/abubakar.html",
-      "/people/staff/fauziyya.html",
-      "/people/staff/kabila.html"
-    ]
-  },
-  {
-    "listing": "/packages.html",
-    "items": []
-  },
-  {
-    "listing": "/posts.html",
-    "items": [
-      "/posts/successful-applicants/index.html",
-      "/posts/Cohort2_Application/index.html",
-      "/posts/arewads-impact/index.html",
-      "/posts/CohereAI/index.html",
-      "/posts/announcement/index.html",
-      "/posts/application/index.html"
-    ]
-  },
-  {
-    "listing": "/talks.html",
-    "items": []
   }
 ]

@@ -41,8 +41,8 @@ website:
         href: https://github.com/arewadataScience
       - icon: rss
         href: index.xml
-      #- icon: twitter
-      #  href: https://twitter.com/ellamkaye
+      - icon: twitter
+        href: https://twitter.com/arewadatasc
   #favicon: images/logo.png
   twitter-card: 
   #  title: Arewa DS
@@ -77,7 +77,7 @@ website:
         
   page-footer:
     border: true
-    center: "© 2023 [Arewa DataScience Academy](/about.html) [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+  #  center: "© 2023 [Arewa DataScience Academy](/about.html) [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
   
 format:
   html:
