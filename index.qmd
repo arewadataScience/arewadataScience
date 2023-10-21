@@ -54,9 +54,10 @@ share:
 [Free Data Science Fellowship]{.home-header} 
 ::: 
 
+
 ::: {.g-col-12}
 
-<span style="color: blue;">Application to join ArewaDS is cloed. To join our Telegram group, kindly click on this <a href="https://t.me/+vGZvQdggp1A4NzNk" style="color: blue;">link</a>!</span>
+<span style="color: blue;"> Application to join ArewaDS is cloed. To join our Telegram group, kindly click on this <a href="https://t.me/+vGZvQdggp1A4NzNk" style="color: blue;">link</a>!</span>
 
 <img src="/images/arewads.jpg" alt="Alt text" class="lightbox profile-pic" style="width:100%; margin:auto;">
 
