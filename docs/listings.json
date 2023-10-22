@@ -1,5 +1,13 @@
 [
   {
+    "listing": "/fellows-2.html",
+    "items": [
+      "/people/fellows-2/1.html",
+      "/people/fellows-2/4.html",
+      "/people/fellows-2/2.html"
+    ]
+  },
+  {
     "listing": "/packages.html",
     "items": []
   },

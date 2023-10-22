@@ -11,7 +11,10 @@ execute:
 website:
   title: "ArewaDS FellowShip"
   site-url: "https://arewadatascience.github.io"
+  description: "Democratizing data science for everyone and free"
+  margin-header: subscribe.html
   repo-url: https://github.com/arewadataScience/arewadatascience
+  google-analytics: "G-M701ZTGPSE"
   #repo-actions: issue
   #image: images/logo.png
   navbar:
@@ -38,8 +41,10 @@ website:
         href: contact.qmd
       - icon: github
         href: https://github.com/arewadataScience
-      #- icon: twitter
-      #  href: https://twitter.com/ellamkaye
+      - icon: rss
+        href: index.xml
+      - icon: twitter
+        href: https://twitter.com/arewadatasc
   #favicon: images/logo.png
   twitter-card: 
   #  title: Arewa DS
@@ -74,7 +79,7 @@ website:
         
   page-footer:
     border: true
-    center: "© 2023 [Arewa DataScience Academy](/about.html) [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+  #  center: "© 2023 [Arewa DataScience Academy](/about.html) [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
   
 format:
   html:
