@@ -1,11 +1,16 @@
 {
-  "hash": "f85adfcea91bb2b4ebcf52e43aad36ae",
+  "hash": "0970548d63ce35ce2635b87b67aee93c",
   "result": {
-    "markdown": "    ---\n    title: \"Zainab Ya'U Abdulkadir\"\n    sortby: \"Zainab, YaU Abdulkadir\"\n    subtitle: \"Bayero University Kano\"\n    state: \"Kogi\"\n    completed: \"❌\"\n    toc: false\n    about:\n      id: person-profile\n      template: jolla\n    format: html\n    engine: knitr\n    ---\n\n\n    ```{css, echo = FALSE}\n    .justify {\n      text-align: justify !important\n    }\n    ```\n\n    ```{=html}\n    <nav aria-label=\"breadcrumb\">\n      <ol class=\"breadcrumb\">\n        <li class=\"breadcrumb-item\"><a href=\"../../index.html\">Home</a></li>\n        <li class=\"breadcrumb-item\"><a href=\"../../people.html\">People</a></li>\n        <li class=\"breadcrumb-item active\">Alumni</li>\n        <li class=\"breadcrumb-item active\" aria-current=\"page\">{{< meta title >}}</li>\n      </ol>\n    </nav>\n    ```\n\n\n    :::{#person-profile}\n    :::\n\n    ::: {.justify}\n\n    ## Achievement\n    Admitted\n    :::\n\n",
+    "markdown": "---\ntitle: \"Zainab Ya'U Abdulkadir\"\nsortby: \"Zainab, YaU Abdulkadir\"\nsubtitle: \"Bayero University Kano\"\nstate: \"Kogi\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n::: {.cell}\n<style type=\"text/css\">\n.justify {\n  text-align: justify !important\n}\n</style>\n:::\n\n```{=html}\n<nav aria-label=\"breadcrumb\">\n  <ol class=\"breadcrumb\">\n    <li class=\"breadcrumb-item\"><a href=\"../../index.html\">Home</a></li>\n    <li class=\"breadcrumb-item\"><a href=\"../../people.html\">People</a></li>\n    <li class=\"breadcrumb-item active\">Alumni</li>\n    <li class=\"breadcrumb-item active\" aria-current=\"page\">{{< meta title >}}</li>\n  </ol>\n</nav>\n```\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::",
     "supporting": [
       "zainab_yau_abdulkadir_files"
     ],
-    "filters": [],
-    "includes": {}
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
   }
 }

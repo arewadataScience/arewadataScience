@@ -1,31 +1,18 @@
 [
   {
-    "listing": "/fellows-2.html",
-    "items": [
-      "/people/fellows-2/1.html",
-      "/people/fellows-2/4.html",
-      "/people/fellows-2/2.html"
-    ]
-  },
-  {
     "listing": "/packages.html",
     "items": []
   },
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/successful-applicants/index.html",
+      "/posts/Cohort2_Application/index.html",
+      "/posts/arewads-impact/index.html",
       "/posts/CohereAI/index.html",
       "/posts/announcement/index.html",
       "/posts/application/index.html"
     ]
-  },
-  {
-    "listing": "/fellows-2-ml.html",
-    "items": []
-  },
-  {
-    "listing": "/talks.html",
-    "items": []
   },
   {
     "listing": "/fellows.html",
@@ -90,6 +77,96 @@
     ]
   },
   {
+    "listing": "/talks.html",
+    "items": []
+  },
+  {
+    "listing": "/fellows-2-ml.html",
+    "items": [
+      "/people/fellows-2-ml/abbas_hashim.html",
+      "/people/fellows-2-ml/abdulkadir_muhammad.html",
+      "/people/fellows-2-ml/abdullahi_mujaheed_saleh.html",
+      "/people/fellows-2-ml/abdullahi_nurudeen_usman.html",
+      "/people/fellows-2-ml/abdullateef_mubarak.html",
+      "/people/fellows-2-ml/abdulwasiu_sulaiman.html",
+      "/people/fellows-2-ml/abubakar_aminu.html",
+      "/people/fellows-2-ml/abubakar_bello_aliyu.html",
+      "/people/fellows-2-ml/abubakar_g_saleh.html",
+      "/people/fellows-2-ml/abubakar_idris.html",
+      "/people/fellows-2-ml/abubakar_ruwa.html",
+      "/people/fellows-2-ml/abubakar_salisu_bashir.html",
+      "/people/fellows-2-ml/ahmad_ab_said.html",
+      "/people/fellows-2-ml/aishatu_ibrahim_abubakar.html",
+      "/people/fellows-2-ml/alkamatu_hussaini_abdulkadir.html",
+      "/people/fellows-2-ml/amori_umar_faruq.html",
+      "/people/fellows-2-ml/asmau_abdullahi.html",
+      "/people/fellows-2-ml/auwal_alhassan.html",
+      "/people/fellows-2-ml/auwalu_ibrahim.html",
+      "/people/fellows-2-ml/bala_ntong_jonathan.html",
+      "/people/fellows-2-ml/faiz_tijjani_abdullahi.html",
+      "/people/fellows-2-ml/fatima_ado_musa.html",
+      "/people/fellows-2-ml/fatima_tukur.html",
+      "/people/fellows-2-ml/fauziyya_sani_yunusa.html",
+      "/people/fellows-2-ml/fuad_sani_ibrahim.html",
+      "/people/fellows-2-ml/gideon_markus.html",
+      "/people/fellows-2-ml/habib_yusuf.html",
+      "/people/fellows-2-ml/haleemah_hamzah.html",
+      "/people/fellows-2-ml/halima_mahmoud.html",
+      "/people/fellows-2-ml/hamza.html",
+      "/people/fellows-2-ml/hasin_hayatu.html",
+      "/people/fellows-2-ml/helen_atlabachew_gebrye.html",
+      "/people/fellows-2-ml/huzaifa_aliyu_salisu.html",
+      "/people/fellows-2-ml/ibrahim_m_shehu.html",
+      "/people/fellows-2-ml/ibrahim_manasseh.html",
+      "/people/fellows-2-ml/ibrahim_suleiman_hussain.html",
+      "/people/fellows-2-ml/ibtasam_ahmad.html",
+      "/people/fellows-2-ml/ishaq_ibrahim.html",
+      "/people/fellows-2-ml/jabiru_muhammad_adamu.html",
+      "/people/fellows-2-ml/jibril_labaran_jibril.html",
+      "/people/fellows-2-ml/khadijah_ibrahim_balarabe.html",
+      "/people/fellows-2-ml/muhammad_abdullahi.html",
+      "/people/fellows-2-ml/muhammad_bashir_musa.html",
+      "/people/fellows-2-ml/muhammad_dabo_muhammad.html",
+      "/people/fellows-2-ml/muhammad_dahiru_usman.html",
+      "/people/fellows-2-ml/muhammadurabiu_halimat_oyiza.html",
+      "/people/fellows-2-ml/muhammmadu_hamza_yalwa.html",
+      "/people/fellows-2-ml/musa_idris.html",
+      "/people/fellows-2-ml/musa_muhammad_khalid.html",
+      "/people/fellows-2-ml/musa_umar_katamba.html",
+      "/people/fellows-2-ml/musbahu_muhammed.html",
+      "/people/fellows-2-ml/naziru_muhammad_inuwa.html",
+      "/people/fellows-2-ml/nuhu_ibrahim_garba.html",
+      "/people/fellows-2-ml/nura_shehu_usman.html",
+      "/people/fellows-2-ml/oluwadare_taye.html",
+      "/people/fellows-2-ml/peter_dalatu.html",
+      "/people/fellows-2-ml/precious.html",
+      "/people/fellows-2-ml/quadri_ganiu_olawale.html",
+      "/people/fellows-2-ml/rilwanu_saeed_sallau.html",
+      "/people/fellows-2-ml/sadiq_muhammad_aliyu.html",
+      "/people/fellows-2-ml/sadisu_rabiu_khamis.html",
+      "/people/fellows-2-ml/salim_yahuza_gwarjo.html",
+      "/people/fellows-2-ml/salisu_ibrahim.html",
+      "/people/fellows-2-ml/salisu_sabo.html",
+      "/people/fellows-2-ml/sangari_habiba_muhammad.html",
+      "/people/fellows-2-ml/sufiyanu_ibrahim.html",
+      "/people/fellows-2-ml/umar_aliyu_ibrahim.html",
+      "/people/fellows-2-ml/umar_mohammed_fili.html",
+      "/people/fellows-2-ml/umar_yahaya.html",
+      "/people/fellows-2-ml/usman_adamu_muhammed.html",
+      "/people/fellows-2-ml/usman_audu.html",
+      "/people/fellows-2-ml/usman_idris_usman.html",
+      "/people/fellows-2-ml/usman_muhammad.html",
+      "/people/fellows-2-ml/usman_rabiu_bello.html",
+      "/people/fellows-2-ml/wenoumi_rejuste.html",
+      "/people/fellows-2-ml/yahaya_muhammad.html",
+      "/people/fellows-2-ml/yohanna_joseph_waliya.html",
+      "/people/fellows-2-ml/yunus_isah.html",
+      "/people/fellows-2-ml/yusuf_sidi_kilishi.html",
+      "/people/fellows-2-ml/zainab_yau_abdulkadir.html",
+      "/people/fellows-2-ml/zarah_malah_kachalla.html"
+    ]
+  },
+  {
     "listing": "/mentors.html",
     "items": [
       "/people/staff/ibrahim.html",
@@ -98,6 +175,7 @@
       "/people/staff/Idris.html",
       "/people/staff/Saminu.html",
       "/people/staff/almustapha.html",
+      "/people/staff/lukman.html",
       "/people/staff/bashir.html",
       "/people/staff/abubakar.html",
       "/people/staff/fauziyya.html",
@@ -106,6 +184,10 @@
   },
   {
     "listing": "/fellows-2-dl.html",
-    "items": []
+    "items": [
+      "/people/fellows-2-dl/1.html",
+      "/people/fellows-2-dl/4.html",
+      "/people/fellows-2-dl/2.html"
+    ]
   }
 ]

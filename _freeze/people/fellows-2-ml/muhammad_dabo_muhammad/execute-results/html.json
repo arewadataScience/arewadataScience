@@ -1,11 +1,16 @@
 {
-  "hash": "085f5285de88a352d0b89c9b35d4a5d0",
+  "hash": "0537bf199a3804a62d4b73e7cde299db",
   "result": {
-    "markdown": "    ---\n    title: \"Muhammad Dabo Muhammad \"\n    sortby: \"Muhammad, Dabo Muhammad\"\n    subtitle: \"Hassan Usman Katsina Polytechnic \"\n    state: \"Kaduna\"\n    completed: \"❌\"\n    toc: false\n    about:\n      id: person-profile\n      template: jolla\n    format: html\n    engine: knitr\n    ---\n\n\n    ```{css, echo = FALSE}\n    .justify {\n      text-align: justify !important\n    }\n    ```\n\n    ```{=html}\n    <nav aria-label=\"breadcrumb\">\n      <ol class=\"breadcrumb\">\n        <li class=\"breadcrumb-item\"><a href=\"../../index.html\">Home</a></li>\n        <li class=\"breadcrumb-item\"><a href=\"../../people.html\">People</a></li>\n        <li class=\"breadcrumb-item active\">Alumni</li>\n        <li class=\"breadcrumb-item active\" aria-current=\"page\">{{< meta title >}}</li>\n      </ol>\n    </nav>\n    ```\n\n\n    :::{#person-profile}\n    :::\n\n    ::: {.justify}\n\n    ## Achievement\n    Admitted\n    :::\n\n",
+    "markdown": "---\ntitle: \"Muhammad Dabo Muhammad \"\nsortby: \"Muhammad, Dabo Muhammad\"\nsubtitle: \"Hassan Usman Katsina Polytechnic \"\nstate: \"Kaduna\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n::: {.cell}\n<style type=\"text/css\">\n.justify {\n  text-align: justify !important\n}\n</style>\n:::\n\n```{=html}\n<nav aria-label=\"breadcrumb\">\n  <ol class=\"breadcrumb\">\n    <li class=\"breadcrumb-item\"><a href=\"../../index.html\">Home</a></li>\n    <li class=\"breadcrumb-item\"><a href=\"../../people.html\">People</a></li>\n    <li class=\"breadcrumb-item active\">Alumni</li>\n    <li class=\"breadcrumb-item active\" aria-current=\"page\">{{< meta title >}}</li>\n  </ol>\n</nav>\n```\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::",
     "supporting": [
       "muhammad_dabo_muhammad_files"
     ],
-    "filters": [],
-    "includes": {}
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
   }
 }

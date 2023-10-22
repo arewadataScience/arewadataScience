@@ -1,11 +1,16 @@
 {
-  "hash": "ff0ac087b67fece4852e01b62f9be839",
+  "hash": "f5d0c716f19f0c1f7995e39a12058a2f",
   "result": {
-    "markdown": "    ---\n    title: \"Zarah Malah Kachalla\"\n    sortby: \"Zarah, Malah Kachalla\"\n    subtitle: \"Yobe State University\"\n    state: \"Togdheer Region\"\n    completed: \"❌\"\n    toc: false\n    about:\n      id: person-profile\n      template: jolla\n    format: html\n    engine: knitr\n    ---\n\n\n    ```{css, echo = FALSE}\n    .justify {\n      text-align: justify !important\n    }\n    ```\n\n    ```{=html}\n    <nav aria-label=\"breadcrumb\">\n      <ol class=\"breadcrumb\">\n        <li class=\"breadcrumb-item\"><a href=\"../../index.html\">Home</a></li>\n        <li class=\"breadcrumb-item\"><a href=\"../../people.html\">People</a></li>\n        <li class=\"breadcrumb-item active\">Alumni</li>\n        <li class=\"breadcrumb-item active\" aria-current=\"page\">{{< meta title >}}</li>\n      </ol>\n    </nav>\n    ```\n\n\n    :::{#person-profile}\n    :::\n\n    ::: {.justify}\n\n    ## Achievement\n    Admitted\n    :::\n\n",
+    "markdown": "---\ntitle: \"Zarah Malah Kachalla\"\nsortby: \"Zarah, Malah Kachalla\"\nsubtitle: \"Yobe State University\"\nstate: \"Togdheer Region\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n::: {.cell}\n<style type=\"text/css\">\n.justify {\n  text-align: justify !important\n}\n</style>\n:::\n\n```{=html}\n<nav aria-label=\"breadcrumb\">\n  <ol class=\"breadcrumb\">\n    <li class=\"breadcrumb-item\"><a href=\"../../index.html\">Home</a></li>\n    <li class=\"breadcrumb-item\"><a href=\"../../people.html\">People</a></li>\n    <li class=\"breadcrumb-item active\">Alumni</li>\n    <li class=\"breadcrumb-item active\" aria-current=\"page\">{{< meta title >}}</li>\n  </ol>\n</nav>\n```\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::",
     "supporting": [
       "zarah_malah_kachalla_files"
     ],
-    "filters": [],
-    "includes": {}
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
   }
 }
