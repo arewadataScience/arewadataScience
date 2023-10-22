@@ -7,74 +7,46 @@
     "text": "PACKAGES\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "mentors.html",
-    "href": "mentors.html",
-    "title": "ArewaDS FellowShip",
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "POSTS",
     "section": "",
-    "text": "Home\n    People"
+    "text": "POSTS\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nArewa Data Science Team Wins Competition\n\n\n\n\n\n\n\nNews\n\n\nArewaDS\n\n\nFellow\n\n\n\n\nArewaDS-LMBF of Arewa Data Science Fellowship Takes Second Place in Cohere AI Hackathon\n\n\n\n\n\n\nJul 10, 2023\n\n\nLukman Aliyu Jibril\n\n\n\n\n\n\n  \n\n\n\n\nArewa Data Science Successful Applicants\n\n\n\n\n\n\n\nNews\n\n\nArewaDS\n\n\nMentor\n\n\n\n\nAnnouncing Successful Applicants for the first Cohort of Arewa Data Science\n\n\n\n\n\n\nJan 11, 2023\n\n\nShamsuddeen Muhammad\n\n\n\n\n\n\n  \n\n\n\n\nArewa Data Science Fellowship\n\n\n\n\n\n\n\nNews\n\n\nArewaDS\n\n\nMentor\n\n\n\n\nApplication for the ArewaDS Fellowship 2023 is Open and closes on 8 January\n\n\n\n\n\n\nJan 1, 2023\n\n\nShamsuddeen Muhammad\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "mentors.html#mentors",
-    "href": "mentors.html#mentors",
-    "title": "ArewaDS FellowShip",
-    "section": "Mentors",
-    "text": "Mentors\n\n\n\n\n\n\n\n\n\n\nIbrahim S. Ahmad\n\n\nLecturer in CS\n\n\n\n\n\n\n\n\n\n\n\n\n\nMustapha Abdullahi\n\n\nMSc Student at Queen Mary University of London\n\n\n\n\n\n\n\n\n\n\n\n\n\nShamsuddeen H. Muhammad\n\n\nLecturer in CS/PhD candidate\n\n\n\n\n\n\n\n\n\n\n\n\n\nIdris Abdulmumin\n\n\nLecturer in CS/Posdoc Fellow\n\n\n\n\n\n\n\n\n\n\n\n\n\nSaminu M. Aliyu\n\n\nLecturer in CS/PhD candidate\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlmustapha A. Wakili\n\n\nLecturer in CS\n\n\n\n\n\n\n\n\n\n\n\n\n\nBashir Mohammed\n\n\nComputational Researcher\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbubakar Bala\n\n\nData Scientist\n\n\n\n\n\n\n\n\n\n\n\n\n\nFauziya Ado Yakasai\n\n\nPosdoc\n\n\n\n\n\n\n\n\n\n\n\n\n\nMusa Muhammed Kabila\n\n\nLecturer in CS\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people/staff/shamsu.html#biography",
-    "href": "people/staff/shamsu.html#biography",
-    "title": "Shamsuddeen H. Muhammad",
+    "objectID": "people/staff/bashir.html#biography",
+    "href": "people/staff/bashir.html#biography",
+    "title": "Bashir Mohammed",
     "section": "Biography",
-    "text": "Biography\nShamsuddeen is a Founder of Arewa Data Science Academy (ADSA) and Co-founder of HausaNLP. He is a faculty member at the Faculty of Computer Science at Bayero University in Kano, Nigeria.\nCurrently, shamsuddeen is a PhD candidate at the University of Porto in Portugal. His research interests focus on Natural Language Processing for Low-resource languages, Sentiment Analysis, and Deep Learning. He received his Master’s degree from the University of Manchester in the UK and a Bachelor’s degree from Bayero University in Kano, Nigeria."
+    "text": "Biography\nBashir is an experienced AI/ML researcher and a staff Computational Research Engineer at Berkeley Lab. He is part of Berkeley Lab’s Cybersecurity R&D for Science and Energy in the Integrated Data Frameworks(IDF) group under the Scientific Data Division.\nHis research revolves around AI/ML for networking, systems control, data provenance, and scientific data management in HPC and distributed systems.\nIn the past, he was a postdoc on the Deep Learning and Artificial Intelligence High-Performance Networks(DAPHNE) project at Berkeley Lab. His work focused on developing AI and Machine Learning algorithms to optimally control distributed network resources, improve high-speed big data transfers and control high-speed networks that will minimize network downtime and avoid network traffic congestion for critical exascale scientific workflows.\nHe is a Berkeley Lab research SLAM 2019 award winner. In 2019 he was among six postdoctoral fellows from US National Labs invited to Washington DC, to speak to the Capitol Hill audience about their research. He is a passionate science communicator."
   },
   {
-    "objectID": "people/staff/abubakar.html#biography",
-    "href": "people/staff/abubakar.html#biography",
-    "title": "Abubakar Bala",
+    "objectID": "people/staff/ibrahim.html#biography",
+    "href": "people/staff/ibrahim.html#biography",
+    "title": "Ibrahim S. Ahmad",
     "section": "Biography",
-    "text": "Biography\nJust finished a PhD on using AI to detect faults in the engines of aircrafts.\nNow I am focused on building end-end machine learning applications (MLOps)\nI also do public speaking and write thought-provoking stories."
+    "text": "Biography\nI am currently a lecturer with the Department of Information Technology, Bayero University Kano. I completed my Ph.D at Universiti Kebangsaan Malaysia, Malaysia in 2020.\nMy research interests lie in the areas of Data Science which includes areas of Natural Language Processing, Machine Learning, and Deep Learning.\nI am a co-founder of the HausaNLP (www.hausanlp.org) research group, where we focus on research related to NLP in African (low resource) languages. We are beneficiaries of over 10 research grants across diverse areas of NLP in low resource languages.\nAs a lecturer with Bayero University Kano, my responsibilities include teaching and supervising both undergraduate and postgraduate students. Currently, I teach CSC8303 Artificial Intelligence for MSc Computer Science program and ICT8302 Enterprise Database Management for Master of Information and Communication Technology."
   },
   {
-    "objectID": "people/staff/Idris.html#biography",
-    "href": "people/staff/Idris.html#biography",
-    "title": "Idris Abdulmumin",
+    "objectID": "people/staff/kabila.html#biography",
+    "href": "people/staff/kabila.html#biography",
+    "title": "Musa Muhammed Kabila",
     "section": "Biography",
-    "text": "Biography\nIdris Abdulmumin is a faculty member of Ahmadu Bello University Zaria. His research focuses on low resource natural language processing (NLP), with special interest in machine translation. He received his Bachelor and Master of Science degrees from Bayero University, Kano, and Nottingham Trent University, United Kingdom respectively. Idris has just completed his PhD at Bayero University, Kano, and will resume with the University of Pretoria Data Science for Social Impact Research Group as a Postdoctoral researcher to work on NLP for low resource African languages."
+    "text": "Biography\nKabila is an enthusiastic data analyst experienced with Machine learning (ML), Artificial Intelligence (AI), Data Mining, and Natural Language Processing (NLP).\nHe received his Bachelor of Science degrees from Bayero University, Kano, Master of Engineering from Central South University, China and Master of Education from University of the People, USA.\nKabila’s research interests lie in the areas of Data Science with keen interest in areas of Natural Language Processing, Data Mining, Machine Learning, Deep Learning, and Artificial Intelligence."
   },
   {
-    "objectID": "people/staff/mustapha.html#biography",
-    "href": "people/staff/mustapha.html#biography",
-    "title": "Mustapha Abdullahi",
+    "objectID": "people/staff/fauziyya.html#biography",
+    "href": "people/staff/fauziyya.html#biography",
+    "title": "Fauziya Ado Yakasai",
     "section": "Biography",
-    "text": "Biography\nMustapha is a Master’s in Artificial Intelligence student at the Queen Mary University of London. He is a recipient of the Google DeepMind Scholarship and the joint QuantumBlack (a McKinsey Company) and Office of AI scholarship. He is a student intern at the Large Scale and Data Systems (LSDS), Imperial College London.\nBefore his Master’s, Mustapha obtained a Bachelor’s degree in Computer Engineering from Ahmadu Bello University, Zaria. His interests span Machine Learning, Reinforcement Learning, and Robotics."
+    "text": "Biography\nDr.Yakasai is an experienced researcher and data science professional with over 7 years of combined experience in data science, statistics, mathematics, and research in academia and corporate America. Expert in applied mathematics, statistics, business analytics, and data science with a rich blend of teaching and quantitative research experience.\nHardworking mathematicians, statisticians, and business/data analysts with expertise in statistical and data modeling, probability, and numerical integration. Proficient in data mining techniques, including data entry, compilation, sampling, cleaning, transformation, QA/QC, data visualization, etc. Strong passion and commitment in artificial intelligence (AI), machine learning (ML), and deep learning (DL)\nFauziya holds a Bachelor of Science (BS) in Mathematics from Bayero University, Kano, Nigeria; a Master of Science (MS) in Pure and Applied Mathematics from the African University of Science and Technology, Abuja, Nigeria; a Master of Science (MS) in Probability and Statistics from Auburn University, Auburn, Alabama; and a PhD in Mathematics from Auburn University, Auburn, Alabama. She has a Graduate Certification in Business Analytics from Auburn University in Auburn, Alabama. She is currently a postdoctoral fellow in Data Analysis of R&D partnerships at York University, Canada, and a Data Science consultant at LOCOMeX inc USA."
   },
   {
-    "objectID": "people/staff/Saminu.html",
-    "href": "people/staff/Saminu.html",
-    "title": "Saminu M. Aliyu",
-    "section": "",
-    "text": "Home\n    Mentors\n    Saminu M. Aliyu"
-  },
-  {
-    "objectID": "people/staff/Saminu.html#biography",
-    "href": "people/staff/Saminu.html#biography",
-    "title": "Saminu M. Aliyu",
+    "objectID": "people/staff/almustapha.html#biography",
+    "href": "people/staff/almustapha.html#biography",
+    "title": "Almustapha A. Wakili",
     "section": "Biography",
     "text": "Biography\n."
-  },
-  {
-    "objectID": "people/fellows-2/2.html",
-    "href": "people/fellows-2/2.html",
-    "title": "Joshua Samuel Baba",
-    "section": "",
-    "text": "Home\n    People\n    Alumni\n    Joshua Samuel Baba"
-  },
-  {
-    "objectID": "people/fellows-2/4.html",
-    "href": "people/fellows-2/4.html",
-    "title": "Bello Abdullahi",
-    "section": "",
-    "text": "Home\n    People\n    Alumni\n    Bello Abdullahi"
   },
   {
     "objectID": "people/fellows/19.html",
@@ -280,6 +252,300 @@
     "text": "Home\n    People\n    Research Assistants\n    Fellow\n  \n\n:::{#person-profile} ## Biography"
   },
   {
+    "objectID": "people/fellows-2-dl/2.html",
+    "href": "people/fellows-2-dl/2.html",
+    "title": "Joshua Samuel Baba",
+    "section": "",
+    "text": "Home\n    People\n    Alumni\n    Joshua Samuel Baba"
+  },
+  {
+    "objectID": "people/fellows-2-dl/4.html",
+    "href": "people/fellows-2-dl/4.html",
+    "title": "Bello Abdullahi",
+    "section": "",
+    "text": "Home\n    People\n    Alumni\n    Bello Abdullahi"
+  },
+  {
+    "objectID": "people/fellows-2-ml/umar_yahaya.html",
+    "href": "people/fellows-2-ml/umar_yahaya.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Umar Yahaya \"\nsortby: \"Umar, Yahaya\"\nsubtitle: \"Usmanu Danfodiyo University Sokoto \"\nstate: \"Addis Ababa\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/auwal_alhassan.html",
+    "href": "people/fellows-2-ml/auwal_alhassan.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Auwal Alhassan\"\nsortby: \"Auwal, Alhassan\"\nsubtitle: \"Kebbi State University Of Science And Technology, Aliero\"\nstate: \"Adamawa \"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/ishaq_ibrahim.html",
+    "href": "people/fellows-2-ml/ishaq_ibrahim.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Ishaq Ibrahim \"\nsortby: \"Ishaq, Ibrahim\"\nsubtitle: \"Sa'Adatu Rimi University Of Education \"\nstate: \"Gombe\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/abbas_hashim.html",
+    "href": "people/fellows-2-ml/abbas_hashim.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Abbas Hashim \"\nsortby: \"Abbas, Hashim\"\nsubtitle: \"Modibbo Adama University Yola \"\nstate: \"Adamawa\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/yahaya_muhammad.html",
+    "href": "people/fellows-2-ml/yahaya_muhammad.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Yahaya Muhammad \"\nsortby: \"Yahaya, Muhammad\"\nsubtitle: \"Ahmadu Bello University \"\nstate: \"Katsina\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/hamza.html",
+    "href": "people/fellows-2-ml/hamza.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Hamza\"\nsortby: \"Hamza\"\nsubtitle: \"Fcapt Kano\"\nstate: \"Kaduna\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/sangari_habiba_muhammad.html",
+    "href": "people/fellows-2-ml/sangari_habiba_muhammad.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Sangari Habiba Muhammad\"\nsortby: \"Sangari, Habiba Muhammad\"\nsubtitle: \"Federal University Dutse, Jigawa State\"\nstate: \"Punjab \"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/bala_ntong_jonathan.html",
+    "href": "people/fellows-2-ml/bala_ntong_jonathan.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Bala Ntong Jonathan \"\nsortby: \"Bala, Ntong Jonathan\"\nsubtitle: \"Kaduna State University\"\nstate: \"Katsina\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/zarah_malah_kachalla.html",
+    "href": "people/fellows-2-ml/zarah_malah_kachalla.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Zarah Malah Kachalla\"\nsortby: \"Zarah, Malah Kachalla\"\nsubtitle: \"Yobe State University\"\nstate: \"Togdheer Region\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/nura_shehu_usman.html",
+    "href": "people/fellows-2-ml/nura_shehu_usman.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Nura Shehu Usman\"\nsortby: \"Nura, Shehu Usman\"\nsubtitle: \"Yusuf Maitama Sule University,Kano\"\nstate: \"Jigawa State\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/ibtasam_ahmad.html",
+    "href": "people/fellows-2-ml/ibtasam_ahmad.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Ibtasam Ahmad\"\nsortby: \"Ibtasam, Ahmad\"\nsubtitle: \"University Of The Punjab \"\nstate: \"Kaduna \"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/jabiru_muhammad_adamu.html",
+    "href": "people/fellows-2-ml/jabiru_muhammad_adamu.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Jabiru Muhammad Adamu\"\nsortby: \"Jabiru, Muhammad Adamu\"\nsubtitle: \"Bayero University Kano\"\nstate: \"Bauchi\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/yohanna_joseph_waliya.html",
+    "href": "people/fellows-2-ml/yohanna_joseph_waliya.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Yohanna Joseph Waliya\"\nsortby: \"Yohanna, Joseph Waliya\"\nsubtitle: \"Ahmadu Bello University Zaria\"\nstate: \"South\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/musa_idris.html",
+    "href": "people/fellows-2-ml/musa_idris.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Musa Idris \"\nsortby: \"Musa, Idris\"\nsubtitle: \"DMIMS \"\nstate: \"Gombe State\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/wenoumi_rejuste.html",
+    "href": "people/fellows-2-ml/wenoumi_rejuste.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Wenoumi Rejuste \"\nsortby: \"Wenoumi, Rejuste\"\nsubtitle: \"Faculty Of Economic And Management Sciences At The University Of Abomey-Calavi\"\nstate: \"Katsina\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/musa_umar_katamba.html",
+    "href": "people/fellows-2-ml/musa_umar_katamba.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Musa Umar Katamba \"\nsortby: \"Musa, Umar Katamba\"\nsubtitle: \"AHMADU BELLO UNIVERSITY ZARIA\"\nstate: \"Yobe \"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/usman_muhammad.html",
+    "href": "people/fellows-2-ml/usman_muhammad.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Usman Muhammad\"\nsortby: \"Usman, Muhammad\"\nsubtitle: \"Nasarawa State University, Keffi\"\nstate: \"Tamale,Ghana\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/abubakar_g_saleh.html",
+    "href": "people/fellows-2-ml/abubakar_g_saleh.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Abubakar G. Saleh\"\nsortby: \"Abubakar, G Saleh\"\nsubtitle: \"Abubakar Tafawa Balewa University \"\nstate: \"Jigawa\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/ibrahim_manasseh.html",
+    "href": "people/fellows-2-ml/ibrahim_manasseh.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Ibrahim Manasseh \"\nsortby: \"Ibrahim, Manasseh\"\nsubtitle: \"Kaduna State University \"\nstate: \"Zamfara\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/fatima_tukur.html",
+    "href": "people/fellows-2-ml/fatima_tukur.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Fatima Tukur\"\nsortby: \"Fatima, Tukur\"\nsubtitle: \"Iya Abubakar Ict Abu, Zaria\"\nstate: \"Yobe\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/abdullahi_nurudeen_usman.html",
+    "href": "people/fellows-2-ml/abdullahi_nurudeen_usman.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Abdullahi Nurudeen Usman \"\nsortby: \"Abdullahi, Nurudeen Usman\"\nsubtitle: \"Ahmadu Bello University \"\nstate: \"Jigawa \"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/salisu_ibrahim.html",
+    "href": "people/fellows-2-ml/salisu_ibrahim.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Salisu Ibrahim\"\nsortby: \"Salisu, Ibrahim\"\nsubtitle: \"Federal University Dutse\"\nstate: \"Kwara\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/asmau_abdullahi.html",
+    "href": "people/fellows-2-ml/asmau_abdullahi.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Asmau Abdullahi \"\nsortby: \"Asmau, Abdullahi\"\nsubtitle: \"National Open University \"\nstate: \"Kaduna\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/yunus_isah.html",
+    "href": "people/fellows-2-ml/yunus_isah.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Yunus Isah \"\nsortby: \"Yunus, Isah\"\nsubtitle: \"Bayero University Kano \"\nstate: \"Kaduna State\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/usman_adamu_muhammed.html",
+    "href": "people/fellows-2-ml/usman_adamu_muhammed.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Usman Adamu Muhammed\"\nsortby: \"Usman, Adamu Muhammed\"\nsubtitle: \"Adamawa State University Mubi\"\nstate: \"Katsina\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/sadiq_muhammad_aliyu.html",
+    "href": "people/fellows-2-ml/sadiq_muhammad_aliyu.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Sadiq Muhammad Aliyu\"\nsortby: \"Sadiq, Muhammad Aliyu\"\nsubtitle: \"Yusuf Maitama Sule University \"\nstate: \"Kaduna \"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/quadri_ganiu_olawale.html",
+    "href": "people/fellows-2-ml/quadri_ganiu_olawale.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Quadri Ganiu Olawale\"\nsortby: \"Quadri, Ganiu Olawale\"\nsubtitle: \"Bayero University, Kano\"\nstate: \"Nasarawa State\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/musa_muhammad_khalid.html",
+    "href": "people/fellows-2-ml/musa_muhammad_khalid.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Musa Muhammad Khalid \"\nsortby: \"Musa, Muhammad Khalid\"\nsubtitle: \"Ahmadu Bello University \"\nstate: \"Jigawa\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/abdullahi_mujaheed_saleh.html",
+    "href": "people/fellows-2-ml/abdullahi_mujaheed_saleh.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Abdullahi Mujaheed Saleh\"\nsortby: \"Abdullahi, Mujaheed Saleh\"\nsubtitle: \"Infrastructure University Kuala Lumpur (Iukl)\"\nstate: \"Katsina\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/muhammad_dabo_muhammad.html",
+    "href": "people/fellows-2-ml/muhammad_dabo_muhammad.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Muhammad Dabo Muhammad \"\nsortby: \"Muhammad, Dabo Muhammad\"\nsubtitle: \"Hassan Usman Katsina Polytechnic \"\nstate: \"Kaduna\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/muhammad_bashir_musa.html",
+    "href": "people/fellows-2-ml/muhammad_bashir_musa.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Muhammad Bashir Musa \"\nsortby: \"Muhammad, Bashir Musa\"\nsubtitle: \"Bayero University Kano \"\nstate: \"Abuja\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/jibril_labaran_jibril.html",
+    "href": "people/fellows-2-ml/jibril_labaran_jibril.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Jibril Labaran Jibril \"\nsortby: \"Jibril, Labaran Jibril\"\nsubtitle: \"Bayero University, Kano\"\nstate: \"Adamawa\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/zainab_yau_abdulkadir.html",
+    "href": "people/fellows-2-ml/zainab_yau_abdulkadir.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Zainab Ya'U Abdulkadir\"\nsortby: \"Zainab, YaU Abdulkadir\"\nsubtitle: \"Bayero University Kano\"\nstate: \"Kogi\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/abubakar_salisu_bashir.html",
+    "href": "people/fellows-2-ml/abubakar_salisu_bashir.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Abubakar Salisu Bashir\"\nsortby: \"Abubakar, Salisu Bashir\"\nsubtitle: \"University Of Sheffield, United Kingdom\"\nstate: \"Kaduna\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/aishatu_ibrahim_abubakar.html",
+    "href": "people/fellows-2-ml/aishatu_ibrahim_abubakar.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Aishatu Ibrahim Abubakar\"\nsortby: \"Aishatu, Ibrahim Abubakar\"\nsubtitle: \"Gombe State University\"\nstate: \"Yobe State\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/abubakar_idris.html",
+    "href": "people/fellows-2-ml/abubakar_idris.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Abubakar Idris\"\nsortby: \"Abubakar, Idris\"\nsubtitle: \"Federal University Gusau\"\nstate: \"Katsina\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/ibrahim_suleiman_hussain.html",
+    "href": "people/fellows-2-ml/ibrahim_suleiman_hussain.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Ibrahim Suleiman Hussain\"\nsortby: \"Ibrahim, Suleiman Hussain\"\nsubtitle: \"Yusuf Maitama Sule University Kano\"\nstate: \"Niger State\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/abdulkadir_muhammad.html",
+    "href": "people/fellows-2-ml/abdulkadir_muhammad.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Abdulkadir Muhammad \"\nsortby: \"Abdulkadir, Muhammad\"\nsubtitle: \"Sa’Adatu Rimi University Of Education \"\nstate: \"Borno State\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/musbahu_muhammed.html",
+    "href": "people/fellows-2-ml/musbahu_muhammed.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Musbahu Muhammed\"\nsortby: \"Musbahu, Muhammed\"\nsubtitle: \"Nuhu Bamalli Polytechnic Zaria\"\nstate: \"Borno\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/halima_mahmoud.html",
+    "href": "people/fellows-2-ml/halima_mahmoud.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Halima Mahmoud \"\nsortby: \"Halima, Mahmoud\"\nsubtitle: \"University Of Maiduguri\"\nstate: \"Yobe \"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "ArewaDS FellowShip",
@@ -287,18 +553,25 @@
     "text": "Arewa DataScience Fellowship 2023\n\n\n\n\n\nOur mentors are top researchers from renowned universities and labs worldwide.\n\n\nMENTORS\n\n\n\n\n\n\n\n\nMeet the Arewa DataScience Fellows.\n\n\nFELLOWS"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "fellows-2-ml.html",
+    "href": "fellows-2-ml.html",
     "title": "ArewaDS FellowShip",
     "section": "",
-    "text": "Arewa DataScience Fellowship 2023\n\n\n\n\n\n\n\n\n\n\n\n\nA 16-week, free hands-on data science, machine learning and deep learning training program.\n\n\nABOUT\n\n\n\n\n\n\n\n\nKeep up with the latest news and expert insights from our talented mentors and fellows.\n\n\nNEWS/BLOG\n\n\n\n\n\n\n\n\nOur mentors are top researchers from renowned universities and labs worldwide.\n\n\nMENTORS\n\n\n\n\n\n\n\n\nMeet the Arewa Data Science 2023 Successful Fellows.\n\n\nFELLOWS\n\n\n\n\n\n\n\n\nExplore our fellows research project, guided by our mentors.\n\n\nPROJECTS\n\n\n\n\n\n\n\n\nGet in touch. Join us as a mentor\n\n\nCONTACT"
+    "text": "Order By\n       Default\n         \n          Name\n        \n         \n          Current or most previous institution\n        \n         \n          States\n        \n         \n          🎓\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nName\n\n\nCurrent or most previous institution\n\n\nStates\n\n\n🎓\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "fellows-2.html",
-    "href": "fellows-2.html",
-    "title": "ArewaDS FellowShip",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Name\n        \n         \n          Current or most previous institution\n        \n         \n          States\n        \n         \n          🎓\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nName\n\n\nCurrent or most previous institution\n\n\nStates\n\n\n🎓\n\n\n\n\n\n\nAbdulkadir Abubakar Abubakar\n\n\nPm4success International\n\n\nKebbi\n\n\n❌\n\n\n\n\nBello Abdullahi\n\n\nIntern/Corp Member\n\n\nAbuja\n\n\n❌\n\n\n\n\nJoshua Samuel Baba\n\n\nInternational Association of Engineers\n\n\nKaduna\n\n\n❌\n\n\n\n\n\n\nNo matching items"
+    "text": "Learn by doing. Theory is nice, but nothing replaces actual experience. -Tony Hsieh\n\nThat’s why our mentors from leading Universities across Nigeria and beyond will guide fellows to undertake challenging and rewarding projects on data science and machine learning tailored to their experience and background.\nBelow are some of the amazing projects that our fellows have completed or are working on:\nList of Projects by our fellows\n\n\n\n\n\nS.No\nName of Fellow\nProject Github repo\nBlog/Medium\n\n\n\n\n1\nLukman Aliyu Jibril\nproject\nMedium\n\n\n2\nAuwal Abubakar Khalid\nproject\nMedium\n\n\n3\nYusuf Faridah Musa\nproject\nMedium\n\n\n4\nFatima Muhammad Adam\nproject\nMedium\n\n\n5\nBala Mairiga Abduljalil\nproject\nMedium\n\n\n6\nMohammed Nasiru\nproject\nMedium\n\n\n7\nBabangida Sani\nproject\nMedium\n\n\n8\nAbdulkarim Muhammad Baba\nproject\nMedium\n\n\n9\nFaisal Muhammad Adam\nproject\nMedium\n\n\n10\nMubarak Daha Isa\nproject\nMedium\n\n\n11\nMuhammad Ibrahim Isah\nproject\nMedium\n\n\n12\nAbubakar Labaran Salisu\nproject\nMedium\n\n\n13\nAminu Hamza Nababa\nproject\nMedium\n\n\n14\nAuwal Auwal Sulaiman\nproject\nMedium\n\n\n15\nTanimu Abdullahi\nproject\nMedium\n\n\n16\nAbdullahi Lurwanu\nproject\nMedium\n\n\n17\nFaruk Hussain Abdullahi\nproject\nMedium\n\n\n18\nIshaq Hassan\nproject\nMedium\n\n\n19\nMahmud Mahmud Ibrahim\nproject\nMedium\n\n\n20\nMaryam Sabo Abubakar\nproject\nMedium\n\n\n21\nRufa’i Ibrahim Dikko\nproject\nMedium\n\n\n22\nHamzah Mahmud\nproject\nMedium\n\n\n23\nSani UmarMuhammad\nproject\nMedium\n\n\n24\nAlamin Musa Magaga\nproject\nMedium\n\n\n25\nAbubakar Aliyu\nproject\nMedium\n\n\n26\nHassan Muhammad Adam\nproject\nMedium\n\n\n27\nIbrahim Sufiyanu\nproject\nMedium"
+  },
+  {
+    "objectID": "projects.html#list-of-projects-completed-by-arewads-fellows",
+    "href": "projects.html#list-of-projects-completed-by-arewads-fellows",
+    "title": "Projects",
+    "section": "",
+    "text": "S.No\nName of Fellow\nProject Github repo\nBlog/Medium\n\n\n\n\n1\nLukman Aliyu Jibril\nproject\nMedium\n\n\n2\nAuwal Abubakar Khalid\nproject\nMedium\n\n\n3\nYusuf Faridah Musa\nproject\nMedium\n\n\n4\nFatima Muhammad Adam\nproject\nMedium\n\n\n5\nBala Mairiga Abduljalil\nproject\nMedium\n\n\n6\nMohammed Nasiru\nproject\nMedium\n\n\n7\nBabangida Sani\nproject\nMedium\n\n\n8\nAbdulkarim Muhammad Baba\nproject\nMedium\n\n\n9\nFaisal Muhammad Adam\nproject\nMedium\n\n\n10\nMubarak Daha Isa\nproject\nMedium\n\n\n11\nMuhammad Ibrahim Isah\nproject\nMedium\n\n\n12\nAbubakar Labaran Salisu\nproject\nMedium\n\n\n13\nAminu Hamza Nababa\nproject\nMedium\n\n\n14\nAuwal Auwal Sulaiman\nproject\nMedium\n\n\n15\nTanimu Abdullahi\nproject\nMedium\n\n\n16\nAbdullahi Lurwanu\nproject\nMedium\n\n\n17\nFaruk Hussain Abdullahi\nproject\nMedium\n\n\n18\nIshaq Hassan\nproject\nMedium\n\n\n19\nMahmud Mahmud Ibrahim\nproject\nMedium\n\n\n20\nMaryam Sabo Abubakar\nproject\nMedium\n\n\n21\nRufa’i Ibrahim Dikko\nproject\nMedium\n\n\n22\nHamzah Mahmud\nproject\nMedium\n\n\n23\nSani UmarMuhammad\nproject\nMedium\n\n\n24\nAlamin Musa Magaga\nproject\nMedium\n\n\n25\nAbubakar Aliyu\nproject\nMedium\n\n\n26\nHassan Muhammad Adam\nproject\nMedium\n\n\n27\nIbrahim Sufiyanu\nproject\nMedium"
   },
   {
     "objectID": "posts/announcement/index.html",
@@ -343,18 +616,11 @@
     "text": "Order By\n       Default\n         \n          Name\n        \n         \n          Current or most previous institution\n        \n         \n          States\n        \n         \n          🎓\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nName\n\n\nCurrent or most previous institution\n\n\nStates\n\n\n🎓\n\n\n\n\n\n\nAbdulkarim Muhammad Baba\n\n\nSelf-employed\n\n\nKano\n\n\n✅\n\n\n\n\nLurwanu Abdullahi\n\n\nSelf-employed\n\n\nKatsina\n\n\n✅\n\n\n\n\nAbdulrahaman Yusuf\n\n\nN/A\n\n\nN/A\n\n\n✅\n\n\n\n\nAbubakar Labaran Salisu\n\n\nScientist\n\n\nKano\n\n\n✅\n\n\n\n\nAlamin Musa Magaga\n\n\nStudent\n\n\nKaduna\n\n\n✅\n\n\n\n\nAbubakar Aliyu\n\n\nNigerian Computer Society\n\n\nBauchi\n\n\n✅\n\n\n\n\nAminu Hamza Nababa\n\n\nN/A\n\n\nKano\n\n\n✅\n\n\n\n\nAuwal Abubakar Khalid\n\n\nStudent\n\n\nZamfara\n\n\n✅\n\n\n\n\nAuwal Auwal Sulaiman\n\n\nNational Association Of Computer Science Student\n\n\nKano\n\n\n✅\n\n\n\n\nBabangida Sani\n\n\nBayero University Kano\n\n\nKano\n\n\n✅\n\n\n\n\nBala Mairiga Abduljalil\n\n\nUniversity Of Maiduguri\n\n\nTaraba\n\n\n✅\n\n\n\n\nFaisal Muhammad Adam\n\n\nUTAMU\n\n\nKano\n\n\n✅\n\n\n\n\nFaridah Yusuf Musa\n\n\nSelf-employed\n\n\nKano\n\n\n✅\n\n\n\n\nFaruk Hussain Abdullahi\n\n\nStudent\n\n\nKano\n\n\n✅\n\n\n\n\nFatima Muhammad Adam\n\n\nN/A\n\n\nJigawa\n\n\n✅\n\n\n\n\nHamzah Mahmud\n\n\nFederal University Dutse\n\n\nKano\n\n\n✅\n\n\n\n\nHassan Muhammad Adam\n\n\nBayero University Kano\n\n\nKano\n\n\n✅\n\n\n\n\nIbrahim Sufiyanu\n\n\nSelf-employed\n\n\nKano\n\n\n✅\n\n\n\n\nIshaq Hassan\n\n\nBayero University Kano\n\n\nKano\n\n\n✅\n\n\n\n\nLukman Aliyu Jibril\n\n\nZipline, Nigeria. \n\n\nKaduna\n\n\n✅\n\n\n\n\nMahmud Mahmud Ibrahim\n\n\nSelf-employed\n\n\nKano\n\n\n✅\n\n\n\n\nMaryam Sabo Abubakar\n\n\nBayero University Kano\n\n\nJigawa\n\n\n✅\n\n\n\n\nMohammed Nasiru\n\n\nAhmadu Bello University, Zaria\n\n\nKogi\n\n\n✅\n\n\n\n\nMubarak Daha Isa\n\n\nBridge Connect Africa Initiative\n\n\nKano\n\n\n✅\n\n\n\n\nMuhammad Ibrahim Isah\n\n\nBayero University Kano\n\n\nKano\n\n\n✅\n\n\n\n\nRufa’i Ibrahim Dikko\n\n\nSteadfast Tech. Limited, Kano.\n\n\nKaduna\n\n\n✅\n\n\n\n\nSani Umar Muhammad\n\n\nBayero University Kano\n\n\nAdamawa\n\n\n✅\n\n\n\n\nTanimu Abdullahi\n\n\nCivil Servant\n\n\nJigawa\n\n\n✅\n\n\n\n\nAbdulkadir Abubakar Abubakar\n\n\nPm4success International\n\n\nKebbi\n\n\n❌\n\n\n\n\nAdamu Ibrahim\n\n\nFederal Fire Service\n\n\nBauchi\n\n\n❌\n\n\n\n\nDeborah Temitope Ajah\n\n\nData School Abuja\n\n\nCross River\n\n\n❌\n\n\n\n\nMahmud Hamzah\n\n\nBayero University Kano\n\n\nYobe\n\n\n❌\n\n\n\n\nAhmed Danjuma Haruna\n\n\nDeepLearning.AI\n\n\nKano\n\n\n❌\n\n\n\n\nMunzali Alhassan\n\n\nSelf-employed\n\n\nJigawa\n\n\n❌\n\n\n\n\nJoshua Samuel Baba\n\n\nInternational Association of Engineers\n\n\nKaduna\n\n\n❌\n\n\n\n\nAlhussain Abdullahi\n\n\nSustainable Development Solutions Network (SDSN)\n\n\nKaduna\n\n\n❌\n\n\n\n\nMuhammed Kabila Musa\n\n\nCentral South University, China\n\n\nBenue\n\n\n❌\n\n\n\n\nAl’amin Ahmad Muhammad\n\n\nAlumni EquiTech Futures\n\n\nKano\n\n\n❌\n\n\n\n\nUmar Sani Muhammad\n\n\nSelf-employed\n\n\nKano\n\n\n❌\n\n\n\n\nHabila Akolo Alaku\n\n\nFederal University Lafia\n\n\nNasarawa\n\n\n❌\n\n\n\n\nNur Bala Rabiu\n\n\nBayero University Kano\n\n\nKano\n\n\n❌\n\n\n\n\nRahma Aliyu Yusuf\n\n\nActelion consulting\n\n\nKano\n\n\n❌\n\n\n\n\nMusa Mohammed\n\n\nAbubakar Tafawa Balewa University, Bauchi\n\n\nYobe\n\n\n❌\n\n\n\n\nSufiyanu Ibrahim\n\n\nAhmadu Bello University, Zaria\n\n\nKatsina\n\n\n❌\n\n\n\n\nBello Abdullahi\n\n\nIntern/Corp Member\n\n\nAbuja\n\n\n❌\n\n\n\n\nMahmoud Said Ahmad\n\n\nHausaNLP Research Group Intern\n\n\nJigawa\n\n\n❌\n\n\n\n\nZara’u Baidu\n\n\nNYSC\n\n\nKebbi\n\n\n❌\n\n\n\n\nIsmaila Khamis\n\n\nValuable\n\n\nTaraba\n\n\n❌\n\n\n\n\nAbubakar Mahmud\n\n\nSelf-employed\n\n\nJigawa\n\n\n❌\n\n\n\n\nRufai Zakari Yusuf\n\n\nUniversiti Brunei Darussalam\n\n\nKano\n\n\n❌\n\n\n\n\nZainab Abdulfattah\n\n\nStudent\n\n\nGombe\n\n\n❌\n\n\n\n\nHassan Adamu\n\n\nBinyaminu Usman Polytechnic, Hadejia\n\n\nJigawa\n\n\n❌\n\n\n\n\nUmar Abdulkadir\n\n\nSelf-employed\n\n\nKatsina\n\n\n❌\n\n\n\n\nZahra’u Bello Baidu\n\n\nNYSC\n\n\nKebbi\n\n\n❌\n\n\n\n\nAuwal Abdullahi\n\n\nBayero University Kano\n\n\nAdamawa\n\n\n❌\n\n\n\n\nAbdulrazak Auwal\n\n\nAhmadu Bello University, Zaria\n\n\nBauchi\n\n\n❌\n\n\n\n\nHassan Sani\n\n\nStudent\n\n\nZamfara\n\n\n❌\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ArewaDS FellowShip",
     "section": "",
-    "text": "Learn by doing. Theory is nice, but nothing replaces actual experience. -Tony Hsieh\n\nThat’s why our mentors from leading Universities across Nigeria and beyond will guide fellows to undertake challenging and rewarding projects on data science and machine learning tailored to their experience and background.\nBelow are some of the amazing projects that our fellows have completed or are working on:\nList of Projects by our fellows\n\n\n\n\n\nS.No\nName of Fellow\nProject Github repo\nBlog/Medium\n\n\n\n\n1\nLukman Aliyu Jibril\nproject\nMedium\n\n\n2\nAuwal Abubakar Khalid\nproject\nMedium\n\n\n3\nYusuf Faridah Musa\nproject\nMedium\n\n\n4\nFatima Muhammad Adam\nproject\nMedium\n\n\n5\nBala Mairiga Abduljalil\nproject\nMedium\n\n\n6\nMohammed Nasiru\nproject\nMedium\n\n\n7\nBabangida Sani\nproject\nMedium\n\n\n8\nAbdulkarim Muhammad Baba\nproject\nMedium\n\n\n9\nFaisal Muhammad Adam\nproject\nMedium\n\n\n10\nMubarak Daha Isa\nproject\nMedium\n\n\n11\nMuhammad Ibrahim Isah\nproject\nMedium\n\n\n12\nAbubakar Labaran Salisu\nproject\nMedium\n\n\n13\nAminu Hamza Nababa\nproject\nMedium\n\n\n14\nAuwal Auwal Sulaiman\nproject\nMedium\n\n\n15\nTanimu Abdullahi\nproject\nMedium\n\n\n16\nAbdullahi Lurwanu\nproject\nMedium\n\n\n17\nFaruk Hussain Abdullahi\nproject\nMedium\n\n\n18\nIshaq Hassan\nproject\nMedium\n\n\n19\nMahmud Mahmud Ibrahim\nproject\nMedium\n\n\n20\nMaryam Sabo Abubakar\nproject\nMedium\n\n\n21\nRufa’i Ibrahim Dikko\nproject\nMedium\n\n\n22\nHamzah Mahmud\nproject\nMedium\n\n\n23\nSani UmarMuhammad\nproject\nMedium\n\n\n24\nAlamin Musa Magaga\nproject\nMedium\n\n\n25\nAbubakar Aliyu\nproject\nMedium\n\n\n26\nHassan Muhammad Adam\nproject\nMedium\n\n\n27\nIbrahim Sufiyanu\nproject\nMedium"
-  },
-  {
-    "objectID": "projects.html#list-of-projects-completed-by-arewads-fellows",
-    "href": "projects.html#list-of-projects-completed-by-arewads-fellows",
-    "title": "Projects",
-    "section": "",
-    "text": "S.No\nName of Fellow\nProject Github repo\nBlog/Medium\n\n\n\n\n1\nLukman Aliyu Jibril\nproject\nMedium\n\n\n2\nAuwal Abubakar Khalid\nproject\nMedium\n\n\n3\nYusuf Faridah Musa\nproject\nMedium\n\n\n4\nFatima Muhammad Adam\nproject\nMedium\n\n\n5\nBala Mairiga Abduljalil\nproject\nMedium\n\n\n6\nMohammed Nasiru\nproject\nMedium\n\n\n7\nBabangida Sani\nproject\nMedium\n\n\n8\nAbdulkarim Muhammad Baba\nproject\nMedium\n\n\n9\nFaisal Muhammad Adam\nproject\nMedium\n\n\n10\nMubarak Daha Isa\nproject\nMedium\n\n\n11\nMuhammad Ibrahim Isah\nproject\nMedium\n\n\n12\nAbubakar Labaran Salisu\nproject\nMedium\n\n\n13\nAminu Hamza Nababa\nproject\nMedium\n\n\n14\nAuwal Auwal Sulaiman\nproject\nMedium\n\n\n15\nTanimu Abdullahi\nproject\nMedium\n\n\n16\nAbdullahi Lurwanu\nproject\nMedium\n\n\n17\nFaruk Hussain Abdullahi\nproject\nMedium\n\n\n18\nIshaq Hassan\nproject\nMedium\n\n\n19\nMahmud Mahmud Ibrahim\nproject\nMedium\n\n\n20\nMaryam Sabo Abubakar\nproject\nMedium\n\n\n21\nRufa’i Ibrahim Dikko\nproject\nMedium\n\n\n22\nHamzah Mahmud\nproject\nMedium\n\n\n23\nSani UmarMuhammad\nproject\nMedium\n\n\n24\nAlamin Musa Magaga\nproject\nMedium\n\n\n25\nAbubakar Aliyu\nproject\nMedium\n\n\n26\nHassan Muhammad Adam\nproject\nMedium\n\n\n27\nIbrahim Sufiyanu\nproject\nMedium"
+    "text": "Arewa DataScience Fellowship 2023\n\n\n\n\n\n\n\n\n\n\n\n\nA 16-week, free hands-on data science, machine learning and deep learning training program.\n\n\nABOUT\n\n\n\n\n\n\n\n\nKeep up with the latest news and expert insights from our talented mentors and fellows.\n\n\nNEWS/BLOG\n\n\n\n\n\n\n\n\nOur mentors are top researchers from renowned universities and labs worldwide.\n\n\nMENTORS\n\n\n\n\n\n\n\n\nMeet the Arewa Data Science 2023 Successful Fellows.\n\n\nFELLOWS\n\n\n\n\n\n\n\n\nExplore our fellows research project, guided by our mentors.\n\n\nPROJECTS\n\n\n\n\n\n\n\n\nGet in touch. Join us as a mentor\n\n\nCONTACT"
   },
   {
     "objectID": "about.html",
@@ -362,6 +628,300 @@
     "title": "Arewa Data Science Fellowship",
     "section": "",
     "text": "Arewa Data Science Fellowship\nWelcome to Arewa Data Science Academy! We are a community of educators, learners and data science enthusiasts with a passion for empowering marginalized students to reach their full potential.\nOur mission is to provide students with the skills and knowledge they need to succeed in the rapidly evolving field of data science. We believe that everyone should have access to the tools and resources they need to pursue their dreams, regardless of their background or circumstances.\nTo achieve this mission, we offer a wide range of programs and services to students from all over Nigeria. Our student mentoring programs provide personalized support and guidance to help students succeed in their studies. We also offer seminars and workshops on data science, machine learning and related fields to university students, to help them stay current with the latest advancements in the field.\nOne of the core focus of our academy is free training to affected marginalized students, we hold weekend training sessions and this year we are thrilled to announce that these training will be more structured and streamlined than ever before, thanks to the sponsorship of Google Research, TensorFlow and HausaNLP and Bayero University Kano. We are particularly focusing on underrepresented groups such as Women and Students from Arewa and communities affected by insecurity as part of our efforts to bridge the gap and bring equal opportunities to all.\nWe invite you to join our community and be a part of our mission to empower marginalized students and build a more equitable future. Thank you for considering Arewa Data Science Academy!"
+  },
+  {
+    "objectID": "people/fellows-2-ml/khadijah_ibrahim_balarabe.html",
+    "href": "people/fellows-2-ml/khadijah_ibrahim_balarabe.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Khadijah Ibrahim Balarabe\"\nsortby: \"Khadijah, Ibrahim Balarabe\"\nsubtitle: \"Yusuf Maitama Sule University Kano\"\nstate: \"Single\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/gideon_markus.html",
+    "href": "people/fellows-2-ml/gideon_markus.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Gideon Markus\"\nsortby: \"Gideon, Markus\"\nsubtitle: \"University Of Jos\"\nstate: \"Katsina\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/abdulwasiu_sulaiman.html",
+    "href": "people/fellows-2-ml/abdulwasiu_sulaiman.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Abdulwasiu Sulaiman\"\nsortby: \"Abdulwasiu, Sulaiman\"\nsubtitle: \"Kano University Of Science And Technology Wudil\"\nstate: \"Benin\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/muhammadurabiu_halimat_oyiza.html",
+    "href": "people/fellows-2-ml/muhammadurabiu_halimat_oyiza.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Muhammadurabiu Halimat Oyiza\"\nsortby: \"Muhammadurabiu, Halimat Oyiza\"\nsubtitle: \"Ahmadu Bello University Zaria\"\nstate: \"Oromia  Ethiopia \"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/nuhu_ibrahim_garba.html",
+    "href": "people/fellows-2-ml/nuhu_ibrahim_garba.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Nuhu Ibrahim Garba \"\nsortby: \"Nuhu, Ibrahim Garba\"\nsubtitle: \"Nuhu Bamalli Polytechnic \"\nstate: \"Adamawa\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/abubakar_ruwa.html",
+    "href": "people/fellows-2-ml/abubakar_ruwa.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Abubakar Ruwa\"\nsortby: \"Abubakar, Ruwa\"\nsubtitle: \"Kebbi State University Of Science And Technology Aliero\"\nstate: \"Jigawa\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/haleemah_hamzah.html",
+    "href": "people/fellows-2-ml/haleemah_hamzah.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Haleemah Hamzah\"\nsortby: \"Haleemah, Hamzah\"\nsubtitle: \"Usmanu Danfodiyo University, Sokoto, Sokoto State.\"\nstate: \"Taraba\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/usman_rabiu_bello.html",
+    "href": "people/fellows-2-ml/usman_rabiu_bello.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Usman Rabiu Bello \"\nsortby: \"Usman, Rabiu Bello\"\nsubtitle: \"Mewar University \"\nstate: \"Kaduna\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/ibrahim_m_shehu.html",
+    "href": "people/fellows-2-ml/ibrahim_m_shehu.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Ibrahim M Shehu\"\nsortby: \"Ibrahim, M Shehu\"\nsubtitle: \"Sokoto State University Sokoto\"\nstate: \"Kaduna\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/naziru_muhammad_inuwa.html",
+    "href": "people/fellows-2-ml/naziru_muhammad_inuwa.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Naziru Muhammad Inuwa\"\nsortby: \"Naziru, Muhammad Inuwa\"\nsubtitle: \"Bayero University, Kano\"\nstate: \"Jigawa \"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/salisu_sabo.html",
+    "href": "people/fellows-2-ml/salisu_sabo.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Salisu Sabo \"\nsortby: \"Salisu, Sabo\"\nsubtitle: \"Informatics Kazaure\"\nstate: \"Gombe\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/helen_atlabachew_gebrye.html",
+    "href": "people/fellows-2-ml/helen_atlabachew_gebrye.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Helen Atlabachew Gebrye\"\nsortby: \"Helen, Atlabachew Gebrye\"\nsubtitle: \"ASTU\"\nstate: \"Kaduna\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/salim_yahuza_gwarjo.html",
+    "href": "people/fellows-2-ml/salim_yahuza_gwarjo.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Salim Yahuza Gwarjo\"\nsortby: \"Salim, Yahuza Gwarjo\"\nsubtitle: \"Manipal Academy Of Higher Education India (Online)\"\nstate: \"Lagos\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/oluwadare_taye.html",
+    "href": "people/fellows-2-ml/oluwadare_taye.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Oluwadare Taye \"\nsortby: \"Oluwadare, Taye\"\nsubtitle: \"Federal Polytechnic Ado Ekiti\"\nstate: \"Sokoto\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/fauziyya_sani_yunusa.html",
+    "href": "people/fellows-2-ml/fauziyya_sani_yunusa.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Fauziyya  Sani Yunusa\"\nsortby: \"Fauziyya, Sani Yunusa\"\nsubtitle: \"Yusuf Maitama Sule University \"\nstate: \"Plateau State \"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/huzaifa_aliyu_salisu.html",
+    "href": "people/fellows-2-ml/huzaifa_aliyu_salisu.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Huzaifa Aliyu Salisu\"\nsortby: \"Huzaifa, Aliyu Salisu\"\nsubtitle: \"BUK\"\nstate: \"Abuja, Imo\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/yusuf_sidi_kilishi.html",
+    "href": "people/fellows-2-ml/yusuf_sidi_kilishi.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Yusuf Sidi Kilishi\"\nsortby: \"Yusuf, Sidi Kilishi\"\nsubtitle: \"KANO STATE POLYTECHNIC\"\nstate: \"Sokoto \"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/usman_audu.html",
+    "href": "people/fellows-2-ml/usman_audu.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Usman  Audu\"\nsortby: \"Usman, Audu\"\nsubtitle: \"Federal University Of Kashere Gombe\"\nstate: \"Kaduna\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/abdullateef_mubarak.html",
+    "href": "people/fellows-2-ml/abdullateef_mubarak.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Abdullateef Mubarak \"\nsortby: \"Abdullateef, Mubarak\"\nsubtitle: \"Ahmadu Bello University \"\nstate: \"Kwara State\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/ahmad_ab_said.html",
+    "href": "people/fellows-2-ml/ahmad_ab_said.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Ahmad Ab Said\"\nsortby: \"Ahmad, Ab Said\"\nsubtitle: \"Srm Institute Of Science And Technology India\"\nstate: \"Kwara\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/abubakar_aminu.html",
+    "href": "people/fellows-2-ml/abubakar_aminu.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Abubakar Aminu\"\nsortby: \"Abubakar, Aminu\"\nsubtitle: \"Srm Institute Of Science And Technology\"\nstate: \"Zamfara State\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/fuad_sani_ibrahim.html",
+    "href": "people/fellows-2-ml/fuad_sani_ibrahim.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Fuad Sani Ibrahim\"\nsortby: \"Fuad, Sani Ibrahim\"\nsubtitle: \"Sharda University \"\nstate: \"Nasarawa State\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/faiz_tijjani_abdullahi.html",
+    "href": "people/fellows-2-ml/faiz_tijjani_abdullahi.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Faiz Tijjani Abdullahi \"\nsortby: \"Faiz, Tijjani Abdullahi\"\nsubtitle: \"Kano State Polytechnic\"\nstate: \"Kaduna \"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/fatima_ado_musa.html",
+    "href": "people/fellows-2-ml/fatima_ado_musa.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Fatima Ado Musa \"\nsortby: \"Fatima, Ado Musa\"\nsubtitle: \"Yusuf Maitama Sule University \"\nstate: \"Ondo State\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/peter_dalatu.html",
+    "href": "people/fellows-2-ml/peter_dalatu.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Peter Dalatu\"\nsortby: \"Peter, Dalatu\"\nsubtitle: \"Adamawa State University Mubi \"\nstate: \"Lagos\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/abubakar_bello_aliyu.html",
+    "href": "people/fellows-2-ml/abubakar_bello_aliyu.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Abubakar Bello Aliyu \"\nsortby: \"Abubakar, Bello Aliyu\"\nsubtitle: \"Kust Wudil \"\nstate: \"Adamawa State\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/muhammad_dahiru_usman.html",
+    "href": "people/fellows-2-ml/muhammad_dahiru_usman.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Muhammad Dahiru Usman \"\nsortby: \"Muhammad, Dahiru Usman\"\nsubtitle: \"Yusuf Maitama Sule University Kano\"\nstate: \"Kebbi State\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/hasin_hayatu.html",
+    "href": "people/fellows-2-ml/hasin_hayatu.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Hasin Hayatu \"\nsortby: \"Hasin, Hayatu\"\nsubtitle: \"Ahmadu Bello University \"\nstate: \"Bauchi\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/precious.html",
+    "href": "people/fellows-2-ml/precious.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Precious\"\nsortby: \"Precious\"\nsubtitle: \"Enugu State University Of Science And Technology\"\nstate: \"Kebbi State\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/amori_umar_faruq.html",
+    "href": "people/fellows-2-ml/amori_umar_faruq.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Amori, Umar Faruq\"\nsortby: \"Amori, Umar Faruq\"\nsubtitle: \"Usmanu Danfodiyo University, Sokoto\"\nstate: \"Yobe \"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/muhammmadu_hamza_yalwa.html",
+    "href": "people/fellows-2-ml/muhammmadu_hamza_yalwa.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Muhammmadu Hamza Yalwa \"\nsortby: \"Muhammmadu, Hamza Yalwa\"\nsubtitle: \"Sr University Of Education,Kano\"\nstate: \"Ondo\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/sufiyanu_ibrahim.html",
+    "href": "people/fellows-2-ml/sufiyanu_ibrahim.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Sufiyanu Ibrahim\"\nsortby: \"Sufiyanu, Ibrahim\"\nsubtitle: \"AHMADU BELLO UNIVERSITY ZARIA\"\nstate: \"Kebbi\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/rilwanu_saeed_sallau.html",
+    "href": "people/fellows-2-ml/rilwanu_saeed_sallau.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Rilwanu Saeed Sallau \"\nsortby: \"Rilwanu, Saeed Sallau\"\nsubtitle: \"Bayero University Kano \"\nstate: \"Kaduna\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/sadisu_rabiu_khamis.html",
+    "href": "people/fellows-2-ml/sadisu_rabiu_khamis.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Sadisu Rabiu Khamis \"\nsortby: \"Sadisu, Rabiu Khamis\"\nsubtitle: \"Bayero University Kano\"\nstate: \"Abuja\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/habib_yusuf.html",
+    "href": "people/fellows-2-ml/habib_yusuf.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Habib Yusuf\"\nsortby: \"Habib, Yusuf\"\nsubtitle: \"Bayero University Kano\"\nstate: \"Kebbi State\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/muhammad_abdullahi.html",
+    "href": "people/fellows-2-ml/muhammad_abdullahi.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Muhammad Abdullahi \"\nsortby: \"Muhammad, Abdullahi\"\nsubtitle: \"Ahmadu Bello University Zaria \"\nstate: \"Kaduna\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/umar_aliyu_ibrahim.html",
+    "href": "people/fellows-2-ml/umar_aliyu_ibrahim.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Umar Aliyu Ibrahim \"\nsortby: \"Umar, Aliyu Ibrahim\"\nsubtitle: \"Yusuf Maitama Sule University, Kano\"\nstate: \"Niger State \"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/umar_mohammed_fili.html",
+    "href": "people/fellows-2-ml/umar_mohammed_fili.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Umar Mohammed Fili\"\nsortby: \"Umar, Mohammed Fili\"\nsubtitle: \"ESM UNIVERSITY\"\nstate: \"Kaduna \"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/alkamatu_hussaini_abdulkadir.html",
+    "href": "people/fellows-2-ml/alkamatu_hussaini_abdulkadir.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Alkamatu Hussaini Abdulkadir\"\nsortby: \"Alkamatu, Hussaini Abdulkadir\"\nsubtitle: \"BUK\"\nstate: \"Bauchi\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/usman_idris_usman.html",
+    "href": "people/fellows-2-ml/usman_idris_usman.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Usman Idris Usman \"\nsortby: \"Usman, Idris Usman\"\nsubtitle: \"Yusuf Maitama Sule University \"\nstate: \"Plateau\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-ml/auwalu_ibrahim.html",
+    "href": "people/fellows-2-ml/auwalu_ibrahim.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "---\ntitle: \"Auwalu Ibrahim \"\nsortby: \"Auwalu, Ibrahim\"\nsubtitle: \"Nims University Jaipur Rajasthan India \"\nstate: \"Jigawa\"\ncompleted: \"❌\"\ntoc: false\nabout:\n  id: person-profile\n  template: jolla\nformat: html\nengine: knitr\n---\n\n\n\n```{css, echo = FALSE}\n.justify {\n  text-align: justify !important\n}\n```\n\n```{=html}\n&lt;nav aria-label=\"breadcrumb\"&gt;\n  &lt;ol class=\"breadcrumb\"&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../index.html\"&gt;Home&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item\"&gt;&lt;a href=\"../../people.html\"&gt;People&lt;/a&gt;&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\"&gt;Alumni&lt;/li&gt;\n    &lt;li class=\"breadcrumb-item active\" aria-current=\"page\"&gt;?meta:title&lt;/li&gt;\n  &lt;/ol&gt;\n&lt;/nav&gt;\n```\n\n\n\n:::{#person-profile}\n:::\n\n::: {.justify}\n\n## Achievement\nAdmitted\n:::"
+  },
+  {
+    "objectID": "people/fellows-2-dl/1.html",
+    "href": "people/fellows-2-dl/1.html",
+    "title": "Abdulkadir Abubakar Abubakar",
+    "section": "",
+    "text": "Home\n    People\n    Alumni\n    Abdulkadir Abubakar Abubakar"
   },
   {
     "objectID": "people/ras/swift_anna.html",
@@ -574,52 +1134,66 @@
     "text": "Home\n    People\n    Alumni\n    Umar Sani Muhammad"
   },
   {
-    "objectID": "people/fellows-2/1.html",
-    "href": "people/fellows-2/1.html",
-    "title": "Abdulkadir Abubakar Abubakar",
+    "objectID": "people/staff/Saminu.html",
+    "href": "people/staff/Saminu.html",
+    "title": "Saminu M. Aliyu",
     "section": "",
-    "text": "Home\n    People\n    Alumni\n    Abdulkadir Abubakar Abubakar"
+    "text": "Home\n    Mentors\n    Saminu M. Aliyu"
   },
   {
-    "objectID": "people/staff/almustapha.html#biography",
-    "href": "people/staff/almustapha.html#biography",
-    "title": "Almustapha A. Wakili",
+    "objectID": "people/staff/Saminu.html#biography",
+    "href": "people/staff/Saminu.html#biography",
+    "title": "Saminu M. Aliyu",
     "section": "Biography",
     "text": "Biography\n."
   },
   {
-    "objectID": "people/staff/fauziyya.html#biography",
-    "href": "people/staff/fauziyya.html#biography",
-    "title": "Fauziya Ado Yakasai",
+    "objectID": "people/staff/mustapha.html#biography",
+    "href": "people/staff/mustapha.html#biography",
+    "title": "Mustapha Abdullahi",
     "section": "Biography",
-    "text": "Biography\nDr.Yakasai is an experienced researcher and data science professional with over 7 years of combined experience in data science, statistics, mathematics, and research in academia and corporate America. Expert in applied mathematics, statistics, business analytics, and data science with a rich blend of teaching and quantitative research experience.\nHardworking mathematicians, statisticians, and business/data analysts with expertise in statistical and data modeling, probability, and numerical integration. Proficient in data mining techniques, including data entry, compilation, sampling, cleaning, transformation, QA/QC, data visualization, etc. Strong passion and commitment in artificial intelligence (AI), machine learning (ML), and deep learning (DL)\nFauziya holds a Bachelor of Science (BS) in Mathematics from Bayero University, Kano, Nigeria; a Master of Science (MS) in Pure and Applied Mathematics from the African University of Science and Technology, Abuja, Nigeria; a Master of Science (MS) in Probability and Statistics from Auburn University, Auburn, Alabama; and a PhD in Mathematics from Auburn University, Auburn, Alabama. She has a Graduate Certification in Business Analytics from Auburn University in Auburn, Alabama. She is currently a postdoctoral fellow in Data Analysis of R&D partnerships at York University, Canada, and a Data Science consultant at LOCOMeX inc USA."
+    "text": "Biography\nMustapha is a Master’s in Artificial Intelligence student at the Queen Mary University of London. He is a recipient of the Google DeepMind Scholarship and the joint QuantumBlack (a McKinsey Company) and Office of AI scholarship. He is a student intern at the Large Scale and Data Systems (LSDS), Imperial College London.\nBefore his Master’s, Mustapha obtained a Bachelor’s degree in Computer Engineering from Ahmadu Bello University, Zaria. His interests span Machine Learning, Reinforcement Learning, and Robotics."
   },
   {
-    "objectID": "people/staff/kabila.html#biography",
-    "href": "people/staff/kabila.html#biography",
-    "title": "Musa Muhammed Kabila",
+    "objectID": "people/staff/Idris.html#biography",
+    "href": "people/staff/Idris.html#biography",
+    "title": "Idris Abdulmumin",
     "section": "Biography",
-    "text": "Biography\nKabila is an enthusiastic data analyst experienced with Machine learning (ML), Artificial Intelligence (AI), Data Mining, and Natural Language Processing (NLP).\nHe received his Bachelor of Science degrees from Bayero University, Kano, Master of Engineering from Central South University, China and Master of Education from University of the People, USA.\nKabila’s research interests lie in the areas of Data Science with keen interest in areas of Natural Language Processing, Data Mining, Machine Learning, Deep Learning, and Artificial Intelligence."
+    "text": "Biography\nIdris Abdulmumin is a faculty member of Ahmadu Bello University Zaria. His research focuses on low resource natural language processing (NLP), with special interest in machine translation. He received his Bachelor and Master of Science degrees from Bayero University, Kano, and Nottingham Trent University, United Kingdom respectively. Idris has just completed his PhD at Bayero University, Kano, and will resume with the University of Pretoria Data Science for Social Impact Research Group as a Postdoctoral researcher to work on NLP for low resource African languages."
   },
   {
-    "objectID": "people/staff/ibrahim.html#biography",
-    "href": "people/staff/ibrahim.html#biography",
-    "title": "Ibrahim S. Ahmad",
+    "objectID": "people/staff/abubakar.html#biography",
+    "href": "people/staff/abubakar.html#biography",
+    "title": "Abubakar Bala",
     "section": "Biography",
-    "text": "Biography\nI am currently a lecturer with the Department of Information Technology, Bayero University Kano. I completed my Ph.D at Universiti Kebangsaan Malaysia, Malaysia in 2020.\nMy research interests lie in the areas of Data Science which includes areas of Natural Language Processing, Machine Learning, and Deep Learning.\nI am a co-founder of the HausaNLP (www.hausanlp.org) research group, where we focus on research related to NLP in African (low resource) languages. We are beneficiaries of over 10 research grants across diverse areas of NLP in low resource languages.\nAs a lecturer with Bayero University Kano, my responsibilities include teaching and supervising both undergraduate and postgraduate students. Currently, I teach CSC8303 Artificial Intelligence for MSc Computer Science program and ICT8302 Enterprise Database Management for Master of Information and Communication Technology."
+    "text": "Biography\nJust finished a PhD on using AI to detect faults in the engines of aircrafts.\nNow I am focused on building end-end machine learning applications (MLOps)\nI also do public speaking and write thought-provoking stories."
   },
   {
-    "objectID": "people/staff/bashir.html#biography",
-    "href": "people/staff/bashir.html#biography",
-    "title": "Bashir Mohammed",
+    "objectID": "people/staff/shamsu.html#biography",
+    "href": "people/staff/shamsu.html#biography",
+    "title": "Shamsuddeen H. Muhammad",
     "section": "Biography",
-    "text": "Biography\nBashir is an experienced AI/ML researcher and a staff Computational Research Engineer at Berkeley Lab. He is part of Berkeley Lab’s Cybersecurity R&D for Science and Energy in the Integrated Data Frameworks(IDF) group under the Scientific Data Division.\nHis research revolves around AI/ML for networking, systems control, data provenance, and scientific data management in HPC and distributed systems.\nIn the past, he was a postdoc on the Deep Learning and Artificial Intelligence High-Performance Networks(DAPHNE) project at Berkeley Lab. His work focused on developing AI and Machine Learning algorithms to optimally control distributed network resources, improve high-speed big data transfers and control high-speed networks that will minimize network downtime and avoid network traffic congestion for critical exascale scientific workflows.\nHe is a Berkeley Lab research SLAM 2019 award winner. In 2019 he was among six postdoctoral fellows from US National Labs invited to Washington DC, to speak to the Capitol Hill audience about their research. He is a passionate science communicator."
+    "text": "Biography\nShamsuddeen is a Founder of Arewa Data Science Academy (ADSA) and Co-founder of HausaNLP. He is a faculty member at the Faculty of Computer Science at Bayero University in Kano, Nigeria.\nCurrently, shamsuddeen is a PhD candidate at the University of Porto in Portugal. His research interests focus on Natural Language Processing for Low-resource languages, Sentiment Analysis, and Deep Learning. He received his Master’s degree from the University of Manchester in the UK and a Bachelor’s degree from Bayero University in Kano, Nigeria."
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "POSTS",
+    "objectID": "mentors.html",
+    "href": "mentors.html",
+    "title": "ArewaDS FellowShip",
     "section": "",
-    "text": "POSTS\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nArewa Data Science Team Wins Competition\n\n\n\n\n\n\n\nNews\n\n\nArewaDS\n\n\nFellow\n\n\n\n\nArewaDS-LMBF of Arewa Data Science Fellowship Takes Second Place in Cohere AI Hackathon\n\n\n\n\n\n\nJul 10, 2023\n\n\nLukman Aliyu Jibril\n\n\n\n\n\n\n  \n\n\n\n\nArewa Data Science Successful Applicants\n\n\n\n\n\n\n\nNews\n\n\nArewaDS\n\n\nMentor\n\n\n\n\nAnnouncing Successful Applicants for the first Cohort of Arewa Data Science\n\n\n\n\n\n\nJan 11, 2023\n\n\nShamsuddeen Muhammad\n\n\n\n\n\n\n  \n\n\n\n\nArewa Data Science Fellowship\n\n\n\n\n\n\n\nNews\n\n\nArewaDS\n\n\nMentor\n\n\n\n\nApplication for the ArewaDS Fellowship 2023 is Open and closes on 8 January\n\n\n\n\n\n\nJan 1, 2023\n\n\nShamsuddeen Muhammad\n\n\n\n\n\n\nNo matching items"
+    "text": "Home\n    People"
+  },
+  {
+    "objectID": "mentors.html#mentors",
+    "href": "mentors.html#mentors",
+    "title": "ArewaDS FellowShip",
+    "section": "Mentors",
+    "text": "Mentors\n\n\n\n\n\n\n\n\n\n\nIbrahim S. Ahmad\n\n\nLecturer in CS\n\n\n\n\n\n\n\n\n\n\n\n\n\nMustapha Abdullahi\n\n\nMSc Student at Queen Mary University of London\n\n\n\n\n\n\n\n\n\n\n\n\n\nShamsuddeen H. Muhammad\n\n\nLecturer in CS/PhD candidate\n\n\n\n\n\n\n\n\n\n\n\n\n\nIdris Abdulmumin\n\n\nLecturer in CS/Posdoc Fellow\n\n\n\n\n\n\n\n\n\n\n\n\n\nSaminu M. Aliyu\n\n\nLecturer in CS/PhD candidate\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlmustapha A. Wakili\n\n\nLecturer in CS\n\n\n\n\n\n\n\n\n\n\n\n\n\nBashir Mohammed\n\n\nComputational Researcher\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbubakar Bala\n\n\nData Scientist\n\n\n\n\n\n\n\n\n\n\n\n\n\nFauziya Ado Yakasai\n\n\nPosdoc\n\n\n\n\n\n\n\n\n\n\n\n\n\nMusa Muhammed Kabila\n\n\nLecturer in CS\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "fellows-2-dl.html",
+    "href": "fellows-2-dl.html",
+    "title": "ArewaDS FellowShip",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Name\n        \n         \n          Current or most previous institution\n        \n         \n          States\n        \n         \n          🎓\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nName\n\n\nCurrent or most previous institution\n\n\nStates\n\n\n🎓\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

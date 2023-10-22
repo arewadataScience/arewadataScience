@@ -1,0 +1,11 @@
+{
+  "hash": "4145c3407c6985b4807e28ac3ce0e32b",
+  "result": {
+    "markdown": "    ---\n    title: \"Haleemah Hamzah\"\n    sortby: \"Haleemah, Hamzah\"\n    subtitle: \"Usmanu Danfodiyo University, Sokoto, Sokoto State.\"\n    state: \"Taraba\"\n    completed: \"❌\"\n    toc: false\n    about:\n      id: person-profile\n      template: jolla\n    format: html\n    engine: knitr\n    ---\n\n\n    ```{css, echo = FALSE}\n    .justify {\n      text-align: justify !important\n    }\n    ```\n\n    ```{=html}\n    <nav aria-label=\"breadcrumb\">\n      <ol class=\"breadcrumb\">\n        <li class=\"breadcrumb-item\"><a href=\"../../index.html\">Home</a></li>\n        <li class=\"breadcrumb-item\"><a href=\"../../people.html\">People</a></li>\n        <li class=\"breadcrumb-item active\">Alumni</li>\n        <li class=\"breadcrumb-item active\" aria-current=\"page\">{{< meta title >}}</li>\n      </ol>\n    </nav>\n    ```\n\n\n    :::{#person-profile}\n    :::\n\n    ::: {.justify}\n\n    ## Achievement\n    Admitted\n    :::\n\n",
+    "supporting": [
+      "haleemah_hamzah_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

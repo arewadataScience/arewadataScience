@@ -26,8 +26,10 @@ website:
         menu:
           - text: Cohort 1
             href: fellows.qmd
-          - text: Cohort 2
-            href: fellows-2.qmd
+          - text: Cohort 2 ML
+            href: fellows-2-ml.qmd
+          - text: Cohort 2 DL
+            href: fellows-2-dl.qmd
       - text: Mentors
         href: mentors.qmd
       - text: Projects

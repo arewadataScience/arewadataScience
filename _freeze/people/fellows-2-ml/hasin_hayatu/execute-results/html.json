@@ -1,0 +1,11 @@
+{
+  "hash": "47304dec87c10970d17f7b763a0ea405",
+  "result": {
+    "markdown": "    ---\n    title: \"Hasin Hayatu \"\n    sortby: \"Hasin, Hayatu\"\n    subtitle: \"Ahmadu Bello University \"\n    state: \"Bauchi\"\n    completed: \"❌\"\n    toc: false\n    about:\n      id: person-profile\n      template: jolla\n    format: html\n    engine: knitr\n    ---\n\n\n    ```{css, echo = FALSE}\n    .justify {\n      text-align: justify !important\n    }\n    ```\n\n    ```{=html}\n    <nav aria-label=\"breadcrumb\">\n      <ol class=\"breadcrumb\">\n        <li class=\"breadcrumb-item\"><a href=\"../../index.html\">Home</a></li>\n        <li class=\"breadcrumb-item\"><a href=\"../../people.html\">People</a></li>\n        <li class=\"breadcrumb-item active\">Alumni</li>\n        <li class=\"breadcrumb-item active\" aria-current=\"page\">{{< meta title >}}</li>\n      </ol>\n    </nav>\n    ```\n\n\n    :::{#person-profile}\n    :::\n\n    ::: {.justify}\n\n    ## Achievement\n    Admitted\n    :::\n\n",
+    "supporting": [
+      "hasin_hayatu_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}
