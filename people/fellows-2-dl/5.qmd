@@ -1,14 +1,15 @@
 ---
-title: "Abdulkadir Abubakar Abubakar"
-sortby: "Abdulkadir, Abubakar Abubakar"
-subtitle: "Pm4success International"
-state: "Kebbi"
+title: "Lukman Aliyu Jibril"
+sortby: "Lukman Aliyu Jibril"
+subtitle: "Intern/Corp Member"
+state: "Abuja"
 completed: "❌"
 toc: false
 about:
   id: person-profile
   template: jolla
 ---
+
 
 ```{=html}
 <nav aria-label="breadcrumb">
@@ -20,5 +21,17 @@ about:
   </ol>
 </nav>
 ```
+
+ <!-- :::{#person-profile}
+## Semesters
+#- Fall 2020, *Research Assistant*
+- Spring 2021, *Research Assistant*
+
+## Education
+
+**University of Kansas** | Lawrence, KS, USA<br />
+Psychology Major
+::: -->
+
 
 
