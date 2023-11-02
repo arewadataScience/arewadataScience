@@ -1,7 +1,7 @@
 ---
-title: "Fuad Sani Ibrahim"
-sortby: "Fuad, Sani Ibrahim"
-subtitle: "Sharda University "
+title: "Ibrahim Dazeen Danjuma"
+sortby: "Ibrahim, Dazeen Danjuma"
+subtitle: "Bayero University Kano"
 state: "Kano"
 completed: "❌"
 toc: false

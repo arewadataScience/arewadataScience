@@ -2,7 +2,7 @@
 title: "Muhammmadu Hamza Yalwa "
 sortby: "Muhammmadu, Hamza Yalwa"
 subtitle: "Sr University Of Education,Kano"
-state: "Ondo"
+state: "Kano"
 completed: "❌"
 toc: false
 about:

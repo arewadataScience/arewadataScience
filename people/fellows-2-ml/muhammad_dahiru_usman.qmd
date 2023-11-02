@@ -2,7 +2,7 @@
 title: "Muhammad Dahiru Usman "
 sortby: "Muhammad, Dahiru Usman"
 subtitle: "Yusuf Maitama Sule University Kano"
-state: "Kebbi State"
+state: "Kano "
 completed: "❌"
 toc: false
 about:

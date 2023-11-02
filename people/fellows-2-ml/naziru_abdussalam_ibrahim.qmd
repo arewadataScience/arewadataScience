@@ -1,8 +1,8 @@
 ---
-title: "Fuad Sani Ibrahim"
-sortby: "Fuad, Sani Ibrahim"
-subtitle: "Sharda University "
-state: "Kano"
+title: "Naziru Abdussalam Ibrahim"
+sortby: "Naziru, Abdussalam Ibrahim"
+subtitle: "Bayero University, Kano"
+state: "Kano State"
 completed: "❌"
 toc: false
 about:

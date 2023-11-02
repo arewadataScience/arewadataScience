@@ -1,7 +1,7 @@
 ---
-title: "Fuad Sani Ibrahim"
-sortby: "Fuad, Sani Ibrahim"
-subtitle: "Sharda University "
+title: "Musbahu Umar Yakubu "
+sortby: "Musbahu, Umar Yakubu"
+subtitle: "Kano State Polytechnic School Of Technology "
 state: "Kano"
 completed: "❌"
 toc: false

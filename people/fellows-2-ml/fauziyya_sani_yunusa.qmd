@@ -2,7 +2,7 @@
 title: "Fauziyya  Sani Yunusa"
 sortby: "Fauziyya, Sani Yunusa"
 subtitle: "Yusuf Maitama Sule University "
-state: "Plateau State "
+state: "Kano"
 completed: "❌"
 toc: false
 about:

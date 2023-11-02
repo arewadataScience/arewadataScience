@@ -2,7 +2,7 @@
 title: "Khadijah Ibrahim Balarabe"
 sortby: "Khadijah, Ibrahim Balarabe"
 subtitle: "Yusuf Maitama Sule University Kano"
-state: "Single"
+state: "Kano"
 completed: "❌"
 toc: false
 about:

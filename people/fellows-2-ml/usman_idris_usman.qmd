@@ -2,7 +2,7 @@
 title: "Usman Idris Usman "
 sortby: "Usman, Idris Usman"
 subtitle: "Yusuf Maitama Sule University "
-state: "Plateau"
+state: "Kano "
 completed: "❌"
 toc: false
 about:

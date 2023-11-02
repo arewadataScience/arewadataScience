@@ -1,7 +1,7 @@
 ---
-title: "Fuad Sani Ibrahim"
-sortby: "Fuad, Sani Ibrahim"
-subtitle: "Sharda University "
+title: "Zaharaddeen Nura Ibrahim"
+sortby: "Zaharaddeen, Nura Ibrahim"
+subtitle: "Yusuf Maitama Sule University, Kano"
 state: "Kano"
 completed: "❌"
 toc: false

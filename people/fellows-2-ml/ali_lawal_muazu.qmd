@@ -1,7 +1,7 @@
 ---
-title: "Fuad Sani Ibrahim"
-sortby: "Fuad, Sani Ibrahim"
-subtitle: "Sharda University "
+title: "Ali Lawal Muazu"
+sortby: "Ali, Lawal Muazu"
+subtitle: "UNIVERSITY OF JOS"
 state: "Kano"
 completed: "❌"
 toc: false

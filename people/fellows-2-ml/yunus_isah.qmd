@@ -2,7 +2,7 @@
 title: "Yunus Isah "
 sortby: "Yunus, Isah"
 subtitle: "Bayero University Kano "
-state: "Kaduna State"
+state: "Kano "
 completed: "❌"
 toc: false
 about:

@@ -2,7 +2,7 @@
 title: "Abubakar Salisu Bashir"
 sortby: "Abubakar, Salisu Bashir"
 subtitle: "University Of Sheffield, United Kingdom"
-state: "Kaduna"
+state: "Kano"
 completed: "❌"
 toc: false
 about:

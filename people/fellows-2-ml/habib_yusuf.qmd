@@ -2,7 +2,7 @@
 title: "Habib Yusuf"
 sortby: "Habib, Yusuf"
 subtitle: "Bayero University Kano"
-state: "Kebbi State"
+state: "Kano"
 completed: "❌"
 toc: false
 about:

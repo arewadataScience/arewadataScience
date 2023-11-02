@@ -2,7 +2,7 @@
 title: "Sadisu Rabiu Khamis "
 sortby: "Sadisu, Rabiu Khamis"
 subtitle: "Bayero University Kano"
-state: "Abuja"
+state: "Kano"
 completed: "❌"
 toc: false
 about:

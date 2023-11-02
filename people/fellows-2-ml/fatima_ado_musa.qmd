@@ -2,7 +2,7 @@
 title: "Fatima Ado Musa "
 sortby: "Fatima, Ado Musa"
 subtitle: "Yusuf Maitama Sule University "
-state: "Ondo State"
+state: "Kano"
 completed: "❌"
 toc: false
 about:

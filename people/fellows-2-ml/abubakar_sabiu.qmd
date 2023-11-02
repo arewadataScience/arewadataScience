@@ -1,7 +1,7 @@
 ---
-title: "Fuad Sani Ibrahim"
-sortby: "Fuad, Sani Ibrahim"
-subtitle: "Sharda University "
+title: "Abubakar Sabiu"
+sortby: "Abubakar, Sabiu"
+subtitle: "Isfop Benin University, Kano Institute For Information Technology "
 state: "Kano"
 completed: "❌"
 toc: false

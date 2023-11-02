@@ -2,7 +2,7 @@
 title: "Halima Mahmoud "
 sortby: "Halima, Mahmoud"
 subtitle: "University Of Maiduguri"
-state: "Yobe "
+state: "Kano"
 completed: "❌"
 toc: false
 about:

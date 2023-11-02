@@ -2,7 +2,7 @@
 title: "Ishaq Ibrahim "
 sortby: "Ishaq, Ibrahim"
 subtitle: "Sa'Adatu Rimi University Of Education "
-state: "Gombe"
+state: "Kano"
 completed: "❌"
 toc: false
 about:

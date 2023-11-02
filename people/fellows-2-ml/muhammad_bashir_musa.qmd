@@ -2,7 +2,7 @@
 title: "Muhammad Bashir Musa "
 sortby: "Muhammad, Bashir Musa"
 subtitle: "Bayero University Kano "
-state: "Abuja"
+state: "Kano"
 completed: "❌"
 toc: false
 about:

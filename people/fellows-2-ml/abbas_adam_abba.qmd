@@ -1,7 +1,7 @@
 ---
-title: "Fuad Sani Ibrahim"
-sortby: "Fuad, Sani Ibrahim"
-subtitle: "Sharda University "
+title: "Abbas Adam Abba"
+sortby: "Abbas, Adam Abba"
+subtitle: "Kano School Of Health Technology"
 state: "Kano"
 completed: "❌"
 toc: false

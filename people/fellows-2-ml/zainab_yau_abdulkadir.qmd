@@ -2,7 +2,7 @@
 title: "Zainab Ya'U Abdulkadir"
 sortby: "Zainab, YaU Abdulkadir"
 subtitle: "Bayero University Kano"
-state: "Kogi"
+state: "Kano State"
 completed: "❌"
 toc: false
 about:

@@ -2,7 +2,7 @@
 title: "Sadiq Muhammad Aliyu"
 sortby: "Sadiq, Muhammad Aliyu"
 subtitle: "Yusuf Maitama Sule University "
-state: "Kaduna "
+state: "Kano"
 completed: "❌"
 toc: false
 about:

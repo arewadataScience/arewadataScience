@@ -2,7 +2,7 @@
 title: "Ibrahim Suleiman Hussain"
 sortby: "Ibrahim, Suleiman Hussain"
 subtitle: "Yusuf Maitama Sule University Kano"
-state: "Niger State"
+state: "Kano"
 completed: "❌"
 toc: false
 about:
