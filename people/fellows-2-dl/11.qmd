@@ -22,16 +22,4 @@ about:
 </nav>
 ```
 
- <!-- :::{#person-profile}
-## Semesters
-#- Fall 2020, *Research Assistant*
-- Spring 2021, *Research Assistant*
-
-## Education
-
-**University of Kansas** | Lawrence, KS, USA<br />
-Psychology Major
-::: -->
-
-
 
