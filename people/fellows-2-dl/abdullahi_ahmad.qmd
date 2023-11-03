@@ -26,7 +26,7 @@ engine: knitr
     <li class="breadcrumb-item active">Alumni</li>
     <li class="breadcrumb-item active" aria-current="page">{{< meta title >}}</li>
   </ol>
-</nav>
+</nav> 
 ```
 
 :::{#person-profile}
