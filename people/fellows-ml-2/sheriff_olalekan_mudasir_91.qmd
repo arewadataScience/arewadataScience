@@ -1,6 +1,6 @@
 ---
-title: "Sheriff  Mudasir "
-sortby: "Sheriff, Mudasir"
+title: "Sheriff Olalekan Mudasir"
+sortby: "Sheriff, Olalekan Mudasir"
 subtitle: "Bayero University "
 state: "Kano"
 completed: "❌"
