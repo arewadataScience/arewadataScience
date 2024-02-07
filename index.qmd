@@ -51,13 +51,13 @@ share:
 
 
 ::: {.g-col-12}
-[Free Data Science Fellowship]{.home-header} 
+[Free Data Science Fellowship]{.home-header}
+<div style="font-size: 12px; color: rgb(0, 0, 128);"><b style="vertical-align: top"><i>in collaboration with:</i></b> <img src="/images/DC_Donates_logo_navy_bg.png" alt="Alt text" class="lightbox profile-pic" style="width: 70%; margin:auto;"></div>
 :::
 
 
 ::: {.g-col-12}
-<div style="vertical-align: text-top; color: green;"><b><i>in collaboration with:</i></b> <img src="/images/DC_Donates_logo_navy_bg.png" alt="Alt text" class="lightbox profile-pic" style="width: 30%; margin:auto;"></div>
-<span style="color: blue;"> Application to join cohort 2.0 is now closed but you can join our Telegram group for updates: <a href="https://t.me/+vGZvQdggp1A4NzNk" style="color: blue;"> click to join</a>!</span>
+<marquee><span style="color: blue;"> Application to join cohort 2.0 is now closed but you can join our Telegram group for updates: <a href="https://t.me/+vGZvQdggp1A4NzNk" style="color: blue;"> click to join</a>!</span></marquee>
 
 <img src="/images/Arewa2.0.png" alt="Alt text" class="lightbox profile-pic" style="width:100%; margin:auto;">
 <!-- ![](/images/arewads.jpg){.lightbox}{.profile-pic fig-align="center" width="70%"} -->
