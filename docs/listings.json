@@ -231,6 +231,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/datacamp/index.html",
       "/posts/successful-applicants/index.html",
       "/posts/Cohort2_Application/index.html",
       "/posts/arewads-impact/index.html",
