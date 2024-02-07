@@ -56,7 +56,7 @@ share:
 
 
 ::: {.g-col-12}
-<div style="color: green;"><b><i>in collaboration with:</i></b> <img src="/images/DC_Donates_logo_inverted.png" alt="Alt text" class="lightbox profile-pic" style="width: 50%; margin:auto;"></div>
+<div style="vertical-align: text-top; color: green;"><b><i>in collaboration with:</i></b> <img src="/images/DC_Donates_logo_navy_bg.png" alt="Alt text" class="lightbox profile-pic" style="width: 30%; margin:auto;"></div>
 <span style="color: blue;"> Application to join cohort 2.0 is now closed but you can join our Telegram group for updates: <a href="https://t.me/+vGZvQdggp1A4NzNk" style="color: blue;"> click to join</a>!</span>
 
 <img src="/images/Arewa2.0.png" alt="Alt text" class="lightbox profile-pic" style="width:100%; margin:auto;">
