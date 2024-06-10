@@ -132,32 +132,14 @@ share:
 </div>
 :::
 
-::: {.g-col-12}
 
-:::
-
-::: {.g-col-12  .g-col-md-2}
-<b style="font-size: 12px; color: rgb(0, 0, 128)">Our collaborators:</b>
-:::
-
-::: {.g-col-12 .g-col-md-5}
-<div> <img src="/images/hausa_nlp_no_bg.png" alt="Alt text" class="lightbox profile-pic" style="width: 70%; margin:auto;"></div>
-:::
-
-::: {.g-col-12 .g-col-md-5}
-<div> <img src="/images/google.png" alt="Alt text" class="lightbox profile-pic" style="width: 70%; margin:auto;"></div>
-:::
-
-::: {.g-col-12  .g-col-md-2}
-
-:::
-
-::: {.g-col-12 .g-col-md-5}
-<div> <img src="/images/DC_Donates_logo_navy_bg.png" alt="Alt text" class="lightbox profile-pic" style="width: 70%; margin:auto;"></div>
-:::
-
-::: {.g-col-12 .g-col-md-5}
-<div> <img src="/images/tensorflow.png" alt="Alt text" class="lightbox profile-pic" style="width: 70%; margin:auto;"></div>
+::: {.g-col-12 .g-col-md-12}
+<div style="text-align: center; margin: 12px"><span class="card-link third-color-link heading-font">Our Collaborators:</span></div>
+<div style="text-align: center; margin: auto; background-color: #f6f6f6; padding: 0.5px;"> <span style="margin: 10px" > <img src="/images/hausa_nlp_no_bg.png" alt="Alt text" class="lightbox profile-pic" style="width: 20%; margin:auto;"> </span>
+<span style="margin: 10px" > <img src="/images/google.png" alt="Alt text" class="lightbox profile-pic" style="width: 20%; margin:auto;"> </span>
+<span style="margin: 10px" > <img src="/images/tensorflow.png" alt="Alt text" class="lightbox profile-pic" style="width: 20%;"> </span>
+<span style="margin: 10px" ><img src="/images/DC_Donates_logo_navy_bg.png" alt="Alt text" class="lightbox profile-pic" style="width: 20%; margin:auto;"></span>
+</div>
 :::
 
 :::
