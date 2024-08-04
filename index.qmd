@@ -56,27 +56,16 @@ share:
 
 
 ::: {.g-col-12}
-<!-- <marquee><span style="color: blue;"> Application to join cohort 2.0 is now closed but you can join our Telegram group for updates: <a href="https://t.me/+vGZvQdggp1A4NzNk" style="color: blue;"> click to join</a>!</span></marquee> -->
+<marquee><span style="color: blue;">  Applications to join Arewa Data Science fellowships are now open! Check out our various fellowship programs below and click to apply. Also you can join our Telegram group for updates: <a href="https://t.me/+vGZvQdggp1A4NzNk" style="color: blue;"> click to join</a>!</span></marquee>
 
-    <p style="color: blue;">
-        Applications to join Arewa Data Science fellowships is now open! Check out our various fellowship programs below and click to apply:
-    </p>
 
-    <p>
-        To apply for the Arewa Data Science Python Programming Fellowship, <a href="https://bit.ly/ADSPF_2024" style="color: blue;">click here</a>.
-    </p>
+- To apply for the Arewa Data Science Python Programming Fellowship, [click here](https://bit.ly/ADSPF_2024)
 
-    <p>
-        To apply for the Arewa Data Science R Programming Fellowship, <a href="https://bit.ly/ADSRF_2024" style="color: blue;">click here</a>.
-    </p>
+- To apply for the Arewa Data Science R Programming Fellowship,[click here](https://bit.ly/ADSRF_2024)
 
-    <p>
-        To apply for the Deep Learning with Pytorch Fellowship, <a href="https://bit.ly/ADSDPF_2024" style="color: blue;">click here</a>.
-    </p>
+- To apply for the Deep Learning with Pytorch Fellowship, [click here](https://bit.ly/ADSDPF_2024)
 
-    <p>
-        To apply for the Arewa Data Science NLP Fellowship, <a href="https://bit.ly/ADSNLP_2024" style="color: blue;">click here</a>.
-    </p>
+- To apply for the Arewa Data Science NLP Fellowship, [click here](https://bit.ly/ADSNLP_2024) 
 
 <img src="/images/Arewa2.0.png" alt="Alt text" class="lightbox profile-pic" style="width:100%; margin:auto;">
 <!-- ![](/images/arewads.jpg){.lightbox}{.profile-pic fig-align="center" width="70%"} -->
