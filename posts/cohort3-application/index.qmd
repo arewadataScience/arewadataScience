@@ -1,5 +1,5 @@
 ---
-title: "Application is Now Open for Arewa Data Science Fellowships!"
+title: "Application is Now Open for Arewa Data Science Fellowships"
 description: "Enhance your data science skills with our comprehensive fellowship programs designed for various levels of expertise. Apply now!"
 date: 2024-08-04
 author: 
@@ -41,7 +41,7 @@ editor:
 ```
 
 ::: justify
-# Application is Now Open for Arewa Data Science Fellowships! {.justify}
+# Application is Now Open for Arewa Data Science Fellowships {.justify}
 
 Are you passionate about the power of data and its potential to drive positive change in society? Are you eager to enhance your data science skills and make a significant impact in your community? If so, we invite you to apply for the Arewa Data Science Fellowships!
 
