@@ -1,22 +1,30 @@
 [
   {
-    "listing": "/packages.html",
+    "listing": "/talks.html",
     "items": []
   },
   {
-    "listing": "/mentors.html",
+    "listing": "/fellows-dl-1.html",
     "items": [
-      "/people/staff/ibrahim.html",
-      "/people/staff/mustapha.html",
-      "/people/staff/shamsu.html",
-      "/people/staff/Idris.html",
-      "/people/staff/Saminu.html",
-      "/people/staff/almustapha.html",
-      "/people/staff/lukman.html",
-      "/people/staff/bashir.html",
-      "/people/staff/abubakar.html",
-      "/people/staff/fauziyya.html",
-      "/people/staff/kabila.html"
+      "/people/fellows-dl-1/abdullahi_ahmad.html",
+      "/people/fellows-dl-1/abdulrahaman_yusuf.html",
+      "/people/fellows-dl-1/abubakar_labaran_salisu.html",
+      "/people/fellows-dl-1/abubakar_salisu_bashir.html",
+      "/people/fellows-dl-1/alamin_musa_magaga.html",
+      "/people/fellows-dl-1/aminu_hamza_nababa.html",
+      "/people/fellows-dl-1/auwal_abubakar_khalid.html",
+      "/people/fellows-dl-1/babangida_sani.html",
+      "/people/fellows-dl-1/bala_mairiga_abduljalil.html",
+      "/people/fellows-dl-1/faridah_yusuf_musa.html",
+      "/people/fellows-dl-1/fatima_muhammad_adam.html",
+      "/people/fellows-dl-1/hassan_muhammad_adam.html",
+      "/people/fellows-dl-1/lawal_aminu_saleh.html",
+      "/people/fellows-dl-1/lukman_aliyu_jibril.html",
+      "/people/fellows-dl-1/lurwanu_abdullahi.html",
+      "/people/fellows-dl-1/mohammed_nasiru.html",
+      "/people/fellows-dl-1/muhammad_ibrahim_isah.html",
+      "/people/fellows-dl-1/munzali_alhassan.html",
+      "/people/fellows-dl-1/sani_umar_muhammad.html"
     ]
   },
   {
@@ -82,32 +90,21 @@
     ]
   },
   {
-    "listing": "/talks.html",
-    "items": []
+    "listing": "/posts.html",
+    "items": [
+      "/posts/cohort3-application/index.html",
+      "/posts/datacamp/index.html",
+      "/posts/successful-applicants/index.html",
+      "/posts/Cohort2_Application/index.html",
+      "/posts/arewads-impact/index.html",
+      "/posts/CohereAI/index.html",
+      "/posts/announcement/index.html",
+      "/posts/application/index.html"
+    ]
   },
   {
-    "listing": "/fellows-dl-1.html",
-    "items": [
-      "/people/fellows-dl-1/abdullahi_ahmad.html",
-      "/people/fellows-dl-1/abdulrahaman_yusuf.html",
-      "/people/fellows-dl-1/abubakar_labaran_salisu.html",
-      "/people/fellows-dl-1/abubakar_salisu_bashir.html",
-      "/people/fellows-dl-1/alamin_musa_magaga.html",
-      "/people/fellows-dl-1/aminu_hamza_nababa.html",
-      "/people/fellows-dl-1/auwal_abubakar_khalid.html",
-      "/people/fellows-dl-1/babangida_sani.html",
-      "/people/fellows-dl-1/bala_mairiga_abduljalil.html",
-      "/people/fellows-dl-1/faridah_yusuf_musa.html",
-      "/people/fellows-dl-1/fatima_muhammad_adam.html",
-      "/people/fellows-dl-1/hassan_muhammad_adam.html",
-      "/people/fellows-dl-1/lawal_aminu_saleh.html",
-      "/people/fellows-dl-1/lukman_aliyu_jibril.html",
-      "/people/fellows-dl-1/lurwanu_abdullahi.html",
-      "/people/fellows-dl-1/mohammed_nasiru.html",
-      "/people/fellows-dl-1/muhammad_ibrahim_isah.html",
-      "/people/fellows-dl-1/munzali_alhassan.html",
-      "/people/fellows-dl-1/sani_umar_muhammad.html"
-    ]
+    "listing": "/packages.html",
+    "items": []
   },
   {
     "listing": "/fellows-ml-2.html",
@@ -229,15 +226,19 @@
     ]
   },
   {
-    "listing": "/posts.html",
+    "listing": "/mentors.html",
     "items": [
-      "/posts/datacamp/index.html",
-      "/posts/successful-applicants/index.html",
-      "/posts/Cohort2_Application/index.html",
-      "/posts/arewads-impact/index.html",
-      "/posts/CohereAI/index.html",
-      "/posts/announcement/index.html",
-      "/posts/application/index.html"
+      "/people/staff/ibrahim.html",
+      "/people/staff/mustapha.html",
+      "/people/staff/shamsu.html",
+      "/people/staff/Idris.html",
+      "/people/staff/Saminu.html",
+      "/people/staff/almustapha.html",
+      "/people/staff/lukman.html",
+      "/people/staff/bashir.html",
+      "/people/staff/abubakar.html",
+      "/people/staff/fauziyya.html",
+      "/people/staff/kabila.html"
     ]
   }
 ]

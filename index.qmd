@@ -63,7 +63,7 @@ share:
 
 - To apply for the Arewa Data Science R Programming Fellowship,[click here](https://bit.ly/ADSRF_2024)
 
-- To apply for the Deep Learning with Pytorch Fellowship, [click here](https://bit.ly/ADSDPF_2024)
+- To apply for the Arewa Data Science Deep Learning with Pytorch Fellowship, [click here](https://bit.ly/ADSDPF_2024)
 
 - To apply for the Arewa Data Science NLP Fellowship, [click here](https://bit.ly/ADSNLP_2024) 
 
