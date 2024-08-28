@@ -10,7 +10,7 @@ about:
   links:
     - icon: link
       text: website
-      href: https://lukmanaj.github.io/ailearningloop
+      href: https://lukmanaj.github.io
     - icon: github
       text: github
       href: https://github.com/lukmanaj
