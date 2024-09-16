@@ -56,16 +56,7 @@ share:
 
 
 ::: {.g-col-12}
-<marquee><span style="color: blue;">  Applications to join Arewa Data Science fellowships are now open! Check out our various fellowship programs below and click to apply. Also you can join our Telegram group for updates: <a href="https://t.me/+vGZvQdggp1A4NzNk" style="color: blue;"> click to join</a>!</span></marquee>
-
-
-- To apply for the Arewa Data Science Python Programming Fellowship, [click here](https://bit.ly/ADSPF_2024)
-
-- To apply for the Arewa Data Science R Programming Fellowship,[click here](https://bit.ly/ADSRF_2024)
-
-- To apply for the Arewa Data Science Deep Learning with Pytorch Fellowship, [click here](https://bit.ly/ADSDPF_2024)
-
-- To apply for the Arewa Data Science NLP Fellowship, [click here](https://bit.ly/ADSNLP_2024) 
+<marquee><span style="color: blue;">  Application to join Arewa Data Science fellowships are closed! However, you can join our Telegram group for updates: <a href="https://t.me/+vGZvQdggp1A4NzNk" style="color: blue;"> click to join</a>!</span></marquee>
 
 <img src="/images/Arewa2.0.png" alt="Alt text" class="lightbox profile-pic" style="width:100%; margin:auto;">
 <!-- ![](/images/arewads.jpg){.lightbox}{.profile-pic fig-align="center" width="70%"} -->
