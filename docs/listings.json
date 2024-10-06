@@ -28,6 +28,24 @@
     ]
   },
   {
+    "listing": "/packages.html",
+    "items": []
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/python-fellows-announced/index.html",
+      "/posts/cohort3-application/index.html",
+      "/posts/datacamp/index.html",
+      "/posts/successful-applicants/index.html",
+      "/posts/Cohort2_Application/index.html",
+      "/posts/arewads-impact/index.html",
+      "/posts/CohereAI/index.html",
+      "/posts/announcement/index.html",
+      "/posts/application/index.html"
+    ]
+  },
+  {
     "listing": "/fellows.html",
     "items": [
       "/people/fellows/abdulkarim_muhammad_baba.html",
@@ -88,23 +106,6 @@
       "/people/fellows/7.html",
       "/people/fellows/8.html"
     ]
-  },
-  {
-    "listing": "/posts.html",
-    "items": [
-      "/posts/cohort3-application/index.html",
-      "/posts/datacamp/index.html",
-      "/posts/successful-applicants/index.html",
-      "/posts/Cohort2_Application/index.html",
-      "/posts/arewads-impact/index.html",
-      "/posts/CohereAI/index.html",
-      "/posts/announcement/index.html",
-      "/posts/application/index.html"
-    ]
-  },
-  {
-    "listing": "/packages.html",
-    "items": []
   },
   {
     "listing": "/fellows-ml-2.html",
