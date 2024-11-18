@@ -45,7 +45,7 @@ engine: knitr
 
 
 <a href="https://www.datacamp.com/donates?utm_source=donates&utm_medium=partner&utm_campaign=000000_1-internal_2-na_3-global_4-na_5-na_6-requirements_7-do_8-ptnr-pn_9-na_10-na_11-logo">
-  ![DataCamp Partnership]('datacamp.png')
+  ![DataCamp Partnership](datacamp.png)
 </a>
 
 
